@@ -44,8 +44,8 @@
       hits: {"per_page":10},
       labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
     },
-    localsearch: {"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
-    path: '',
+    localsearch: {"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
+    path: 'search.xml',
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     translation: {
       copy_button: 'Kopieren',
@@ -55,19 +55,19 @@
   };
 </script>
 
-  <meta name="description" content="前言前两天尔羽说让我爬一下菜鸟窝的教程视频，这次就跟大家来说说Python爬取视频的经验 正文 https://www.cniao5.com/  菜鸟窝上有很多教程视频，但是这些视频好像没有直接的下载地址，而且有些教程视频还是有期限的，那么问题就产生了我看的速度比较慢而且视频又很多，没等我看完视频就到期了怎么办？这时候写一个爬虫将这些教程视频下载下来就很好地解决了这个问题 当然，对于某些视频网站的">
+  <meta name="description" content="前言前两天尔羽说让我爬一下菜鸟窝的教程视频，这次就跟大家来说说Python爬取视频的经验正文 https://www.cniao5.com/ 菜鸟窝上有很多教程视频，但是这些视频好像没有直接的下载地址，而且有些教程视频还是有期限的，那么问题就产生了我看的速度比较慢而且视频又很多，没等我看完视频就到期了怎么办？这时候写一个爬虫将这些教程视频下载下来就很好地解决了这个问题">
 <meta name="keywords" content="Python">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Python爬取视频指南">
 <meta property="og:url" content="http://yoursite.com/2019/08/11/Python爬取视频指南/index.html">
 <meta property="og:site_name" content="JoelYing">
-<meta property="og:description" content="前言前两天尔羽说让我爬一下菜鸟窝的教程视频，这次就跟大家来说说Python爬取视频的经验 正文 https://www.cniao5.com/  菜鸟窝上有很多教程视频，但是这些视频好像没有直接的下载地址，而且有些教程视频还是有期限的，那么问题就产生了我看的速度比较慢而且视频又很多，没等我看完视频就到期了怎么办？这时候写一个爬虫将这些教程视频下载下来就很好地解决了这个问题 当然，对于某些视频网站的">
+<meta property="og:description" content="前言前两天尔羽说让我爬一下菜鸟窝的教程视频，这次就跟大家来说说Python爬取视频的经验正文 https://www.cniao5.com/ 菜鸟窝上有很多教程视频，但是这些视频好像没有直接的下载地址，而且有些教程视频还是有期限的，那么问题就产生了我看的速度比较慢而且视频又很多，没等我看完视频就到期了怎么办？这时候写一个爬虫将这些教程视频下载下来就很好地解决了这个问题">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:image" content="http://pw407zrf4.bkt.clouddn.com/9534220_3.jpg">
 <meta property="og:updated_time" content="2019-08-13T04:35:23.515Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Python爬取视频指南">
-<meta name="twitter:description" content="前言前两天尔羽说让我爬一下菜鸟窝的教程视频，这次就跟大家来说说Python爬取视频的经验 正文 https://www.cniao5.com/  菜鸟窝上有很多教程视频，但是这些视频好像没有直接的下载地址，而且有些教程视频还是有期限的，那么问题就产生了我看的速度比较慢而且视频又很多，没等我看完视频就到期了怎么办？这时候写一个爬虫将这些教程视频下载下来就很好地解决了这个问题 当然，对于某些视频网站的">
+<meta name="twitter:description" content="前言前两天尔羽说让我爬一下菜鸟窝的教程视频，这次就跟大家来说说Python爬取视频的经验正文 https://www.cniao5.com/ 菜鸟窝上有很多教程视频，但是这些视频好像没有直接的下载地址，而且有些教程视频还是有期限的，那么问题就产生了我看的速度比较慢而且视频又很多，没等我看完视频就到期了怎么办？这时候写一个爬虫将这些教程视频下载下来就很好地解决了这个问题">
 <meta name="twitter:image" content="http://pw407zrf4.bkt.clouddn.com/9534220_3.jpg">
   <link rel="canonical" href="http://yoursite.com/2019/08/11/Python爬取视频指南/">
 
@@ -217,11 +217,38 @@
     <a href="/schedule/" rel="section"><i class="menu-item-icon fa fa-fw fa-calendar"></i> <br>Zeitplan</a>
 
   </li>
+      <li class="menu-item menu-item-search">
+        <a href="javascript:;" class="popup-trigger">
+        
+          <i class="menu-item-icon fa fa-search fa-fw"></i> <br>Suche</a>
+      </li>
+    
   </ul>
 
     
 
 </nav>
+  <div class="site-search">
+    
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off"
+             placeholder="Suche..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+  </div>
 </div>
     </header>
 
@@ -321,11 +348,11 @@
 
           </div>
         </div>
-        <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>前两天尔羽说让我爬一下菜鸟窝的教程视频，这次就跟大家来说说Python爬取视频的经验</p>
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><blockquote>
+        <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>前两天尔羽说让我爬一下菜鸟窝的教程视频，这次就跟大家来说说Python爬取视频的经验</p><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><blockquote>
 <p><a href="https://www.cniao5.com/" target="_blank" rel="noopener">https://www.cniao5.com/</a></p>
-</blockquote>
-<p>菜鸟窝上有很多教程视频，但是这些视频好像没有直接的下载地址，而且有些教程视频还是有期限的，那么问题就产生了<br>我看的速度比较慢而且视频又很多，没等我看完视频就到期了怎么办？这时候写一个爬虫将这些教程视频下载下来就很好地解决了这个问题</p>
+</blockquote><p>菜鸟窝上有很多教程视频，但是这些视频好像没有直接的下载地址，而且有些教程视频还是有期限的，那么问题就产生了<br>我看的速度比较慢而且视频又很多，没等我看完视频就到期了怎么办？这时候写一个爬虫将这些教程视频下载下来就很好地解决了这个问题</p><a id="more"></a>
+
+
 <p>当然，对于某些视频网站的VIP电影、视频之类的，一般情况下是无法在没有开通VIP的情况下用爬虫下载的，因为涉及到利益问题，同时数据传输也是加密的；想要看的话还是得开通会员再进行爬取</p>
 <p>回到这次的目标上来，我们要爬取的是</p>
 <blockquote>
@@ -511,6 +538,22 @@
   </nav>
 
 
+  <div class="links-of-blogroll motion-element links-of-blogroll-block">
+    <div class="links-of-blogroll-title">
+      <i class="fa  fa-fw fa-link"></i>
+      Links
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://www.baidu.com/" title="https://www.baidu.com/" rel="noopener" target="_blank">baidu</a>
+        </li>
+      
+        <li class="links-of-blogroll-item">
+          <a href="https://www.google.com/" title="https://www.google.com/" rel="noopener" target="_blank">google</a>
+        </li>
+      
+    </ul>
+  </div>
 
         </div>
       </div>
@@ -604,6 +647,8 @@
 
 
 
+
+  <script src="/js/local-search.js?v=7.3.0"></script>
 
 
 

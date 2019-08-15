@@ -44,8 +44,8 @@
       hits: {"per_page":10},
       labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
     },
-    localsearch: {"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
-    path: '',
+    localsearch: {"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
+    path: 'search.xml',
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     translation: {
       copy_button: 'Kopieren',
@@ -55,19 +55,19 @@
   };
 </script>
 
-  <meta name="description" content="引子 早就有想做一个个人博客的想法，想写些内容放进去，给自己提个醒，也想把过程分享给大家，所以一开始也在CSDN，简书上发了许多，但是没有一种真正的属于自己的空间的感觉 于是借此机会，正式尝试一下通过Hexo+GitHub来搭建一个个人博客，记录如下 概念  HexoHexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生">
+  <meta name="description" content="引子早就有想做一个个人博客的想法，想写些内容放进去，给自己提个醒，也想把过程分享给大家，所以一开始也在CSDN，简书上发了许多，但是没有一种真正的属于自己的空间的感觉于是借此机会，正式尝试一下通过Hexo+GitHub来搭建一个个人博客，记录如下概念 HexoHexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网">
 <meta name="keywords" content="Hexo,Clover">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hexo+Github Pages基础版搭建攻略">
 <meta property="og:url" content="http://yoursite.com/2019/08/13/Hexo+Github Pages基础版搭建攻略/index.html">
 <meta property="og:site_name" content="JoelYing">
-<meta property="og:description" content="引子 早就有想做一个个人博客的想法，想写些内容放进去，给自己提个醒，也想把过程分享给大家，所以一开始也在CSDN，简书上发了许多，但是没有一种真正的属于自己的空间的感觉 于是借此机会，正式尝试一下通过Hexo+GitHub来搭建一个个人博客，记录如下 概念  HexoHexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生">
+<meta property="og:description" content="引子早就有想做一个个人博客的想法，想写些内容放进去，给自己提个醒，也想把过程分享给大家，所以一开始也在CSDN，简书上发了许多，但是没有一种真正的属于自己的空间的感觉于是借此机会，正式尝试一下通过Hexo+GitHub来搭建一个个人博客，记录如下概念 HexoHexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:image" content="http://pw407zrf4.bkt.clouddn.com/159402564.jpg">
 <meta property="og:updated_time" content="2019-08-14T10:38:36.532Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo+Github Pages基础版搭建攻略">
-<meta name="twitter:description" content="引子 早就有想做一个个人博客的想法，想写些内容放进去，给自己提个醒，也想把过程分享给大家，所以一开始也在CSDN，简书上发了许多，但是没有一种真正的属于自己的空间的感觉 于是借此机会，正式尝试一下通过Hexo+GitHub来搭建一个个人博客，记录如下 概念  HexoHexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生">
+<meta name="twitter:description" content="引子早就有想做一个个人博客的想法，想写些内容放进去，给自己提个醒，也想把过程分享给大家，所以一开始也在CSDN，简书上发了许多，但是没有一种真正的属于自己的空间的感觉于是借此机会，正式尝试一下通过Hexo+GitHub来搭建一个个人博客，记录如下概念 HexoHexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网">
 <meta name="twitter:image" content="http://pw407zrf4.bkt.clouddn.com/159402564.jpg">
   <link rel="canonical" href="http://yoursite.com/2019/08/13/Hexo+Github Pages基础版搭建攻略/">
 
@@ -217,11 +217,38 @@
     <a href="/schedule/" rel="section"><i class="menu-item-icon fa fa-fw fa-calendar"></i> <br>Zeitplan</a>
 
   </li>
+      <li class="menu-item menu-item-search">
+        <a href="javascript:;" class="popup-trigger">
+        
+          <i class="menu-item-icon fa fa-search fa-fw"></i> <br>Suche</a>
+      </li>
+    
   </ul>
 
     
 
 </nav>
+  <div class="site-search">
+    
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off"
+             placeholder="Suche..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+  </div>
 </div>
     </header>
 
@@ -321,14 +348,14 @@
 
           </div>
         </div>
-        <h3 id="引子"><a href="#引子" class="headerlink" title="引子"></a>引子</h3><hr>
-<p>早就有想做一个个人博客的想法，想写些内容放进去，给自己提个醒，也想把过程分享给大家，所以一开始也在CSDN，简书上发了许多，但是没有一种真正的属于自己的空间的感觉</p>
-<p>于是借此机会，正式尝试一下通过Hexo+GitHub来搭建一个个人博客，记录如下</p>
-<h3 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h3><hr>
-<ul>
+        <h3 id="引子"><a href="#引子" class="headerlink" title="引子"></a>引子</h3><hr><p>早就有想做一个个人博客的想法，想写些内容放进去，给自己提个醒，也想把过程分享给大家，所以一开始也在CSDN，简书上发了许多，但是没有一种真正的属于自己的空间的感觉</p><p>于是借此机会，正式尝试一下通过Hexo+GitHub来搭建一个个人博客，记录如下</p><h3 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h3><hr><ul>
 <li><strong>Hexo</strong><br>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 <a href="http://daringfireball.net/projects/markdown/" target="_blank" rel="noopener">Markdown</a>或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页，详情可见<a href="[https://hexo.io/zh-cn/](https://hexo.io/zh-cn/)">官网</a><br><a href="[https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)">Hexo</a>也是GitHub上的开源项目</li>
 <li><strong>Github Pages</strong><br>这里我们用到了GitHub提供的<strong>GitHub Pages</strong>，<strong>完全免费</strong>、<strong>无须自己购买云服务搭建</strong>、<strong>支持多功能</strong>等，是<strong>GitHub Pages</strong>的优势之处，当然也会有一些限制，比如网站大小不能超过1GB等，但是综合来说<strong>GitHub Pages</strong>依旧是中小型博客或项目主页的最佳选项之一（<a href="[https://sspai.com/post/54608](https://sspai.com/post/54608)">参考一</a>）<br>当然<strong>GitHub Pages</strong>也是有着自己的主题，相对来说比较简单，所以官方推荐了使用<a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a>进行对博客的丰富<br>但是这里我就尝试了用Node.js编写的Hexo来搭建，除此之外还有Go 编写的 Hugo，Python 编写的 Pelican，以及更人性化的 Gridea等</li>
-</ul>
+</ul><a id="more"></a>
+
+
+
+
 <h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><hr>
 <ul>
 <li>GitHub创建个人仓库</li>
@@ -597,6 +624,22 @@
   </nav>
 
 
+  <div class="links-of-blogroll motion-element links-of-blogroll-block">
+    <div class="links-of-blogroll-title">
+      <i class="fa  fa-fw fa-link"></i>
+      Links
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://www.baidu.com/" title="https://www.baidu.com/" rel="noopener" target="_blank">baidu</a>
+        </li>
+      
+        <li class="links-of-blogroll-item">
+          <a href="https://www.google.com/" title="https://www.google.com/" rel="noopener" target="_blank">google</a>
+        </li>
+      
+    </ul>
+  </div>
 
         </div>
       </div>
@@ -690,6 +733,8 @@
 
 
 
+
+  <script src="/js/local-search.js?v=7.3.0"></script>
 
 
 

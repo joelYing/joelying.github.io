@@ -237,6 +237,100 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/08/15/NexT主题优化记录/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Joel Ying">
+      <meta itemprop="description" content="半个兴趣使然的程序员">
+      <meta itemprop="image" content="http://pw407zrf4.bkt.clouddn.com/%E6%96%91.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="JoelYing">
+    </span>
+      <header class="post-header">
+
+        
+          <h1 class="post-title" itemprop="name headline">
+              
+              <a href="/2019/08/15/NexT主题优化记录/" class="post-title-link" itemprop="url">NexT主题优化记录</a>
+            
+          </h1>
+        
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              
+                
+              
+
+              <time title="Created: 2019-08-15 12:26:13 / Modified: 20:23:00" itemprop="dateCreated datePublished" datetime="2019-08-15T12:26:13+08:00">2019-08-15</time>
+            </span>
+          
+            
+
+            
+          
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          
+            <h3 id="NexT主题优化历程"><a href="#NexT主题优化历程" class="headerlink" title="NexT主题优化历程"></a>NexT主题优化历程</h3><hr>
+<h4 id="一九年八月十五日"><a href="#一九年八月十五日" class="headerlink" title="一九年八月十五日"></a>一九年八月十五日</h4><p>正式开始使用NexT作为博客主题，根据<a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="noopener">文档</a>进行基本配置优化</p>
+<ul>
+<li>修改主题配置文件</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">Scheme: Muse</span><br><span class="line"></span><br><span class="line">language: zh-Hans</span><br><span class="line"></span><br><span class="line">menu:</span><br><span class="line">  home: / || home</span><br><span class="line">  about: /about/ || user</span><br><span class="line">  tags: /tags/ || tags</span><br><span class="line">  categories: /categories/ || th</span><br><span class="line">  archives: /archives/ || archive</span><br><span class="line">  schedule: /schedule/ || calendar</span><br><span class="line"></span><br><span class="line">avatar:</span><br><span class="line">  url: http://pw407zrf4.bkt.clouddn.com/%E6%96%91.jpg</span><br><span class="line"></span><br><span class="line">sidebar:</span><br><span class="line">  position: right</span><br><span class="line">  display: post</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>修改 themes\next\source\css_variables\base.styl</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">- $code-foreground                = $black-light;</span><br><span class="line">+ $code-foreground                = $my-code-foreground;</span><br><span class="line">- $code-background                = $gainsboro;</span><br><span class="line">+ $code-background                = $my-code-background;</span><br><span class="line"></span><br><span class="line">- $content-desktop-large          = 800px</span><br><span class="line">+ $content-desktop-large          = 1000px</span><br><span class="line">- $content-desktop-largest          = 900px</span><br><span class="line">+ $content-desktop-largest          = 1000px</span><br><span class="line"></span><br><span class="line">// 自定义的颜色</span><br><span class="line">+ $my-code-foreground = #dd0055  // 用``围出的代码块字体颜色</span><br><span class="line">+ $my-code-background = #eee  // 用``围出的代码块背景颜色</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>新建样式文件 themes\next\source\css_custom\custom.styl</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br></pre></td><td class="code"><pre><span class="line">// 文章``代码块的自定义样式</span><br><span class="line">code &#123;</span><br><span class="line">    margin: 0px 3px;</span><br><span class="line">    border: 1px solid #999;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">//文章内链接文本样式</span><br><span class="line">.post-body p a&#123;</span><br><span class="line">  color: #0593d3;</span><br><span class="line">  border-bottom: none;</span><br><span class="line">  border-bottom: 1px solid #0593d3;</span><br><span class="line">  &amp;:hover &#123;</span><br><span class="line">    color: #fc6423;</span><br><span class="line">    border-bottom: none;</span><br><span class="line">    border-bottom: 1px solid #fc6423;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">// [Read More]按钮样式</span><br><span class="line">.post-button .btn &#123;</span><br><span class="line">    color: #555 !important;</span><br><span class="line">    background-color: rgb(255, 255, 255);</span><br><span class="line">    border-radius: 3px;</span><br><span class="line">    font-size: 15px;</span><br><span class="line">    box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.35);</span><br><span class="line">    border: none !important;</span><br><span class="line">    transition-property: unset;</span><br><span class="line">    padding: 0px 15px;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">.post-button .btn:hover &#123;</span><br><span class="line">    color: rgb(255, 255, 255) !important;</span><br><span class="line">    border-radius: 3px;</span><br><span class="line">    font-size: 15px;</span><br><span class="line">    box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.35);</span><br><span class="line">    background-image: linear-gradient(90deg, #a166ab 0%, #ef4e7b 25%, #f37055 50%, #ef4e7b 75%, #a166ab 100%);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+          
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+          <div class="post-eof"></div>
+        
+      </footer>
+  </div>
+  
+  
+  
+  </article>
+
+    
+      
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/08/14/Clover主题配置/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -775,6 +869,7 @@
       <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
       <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
     </div>
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=332 height=86 src="//music.163.com/outchain/player?type=2&id=22842399&auto=1&height=66"></iframe>
   </div>
 
   <aside id="sidebar" class="sidebar">
@@ -795,7 +890,7 @@
         
           <a href="/archives/">
         
-          <span class="site-state-item-count">3</span>
+          <span class="site-state-item-count">4</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>

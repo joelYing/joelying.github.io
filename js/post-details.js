@@ -1,3 +1,70 @@
-// build time:Fri Aug 16 2019 15:24:58 GMT+0800 (GMT+08:00)
-(function(){function a(){var a=".post-toc";var t=$(a);var s=".active-current";function o(){$(a+" "+s).removeClass(s.substring(1))}t.on("activate.bs.scrollspy",function(){var s=$(a+" .active").last();o();s.addClass("active-current");t.scrollTop(s.offset().top-t.offset().top+t.scrollTop()-t.height()/2)}).on("clear.bs.scrollspy",o);$("body").scrollspy({target:a})}a();var t=200;$(".sidebar-nav li").on("click",function(){var a=$(this);var s="sidebar-nav-active";var o="sidebar-panel-active";if(a.hasClass(s)){return}var e=$("."+o);var r=$("."+a.data("target"));e.animate({opacity:0},t,function(){e.hide();r.stop().css({opacity:0,display:"block"}).animate({opacity:1},t,function(){e.removeClass(o);r.addClass(o)})});a.siblings().removeClass(s);a.addClass(s)});$(".post-toc a").on("click",function(a){a.preventDefault();var t=NexT.utils.escapeSelector(this.getAttribute("href"));var s=$(t).offset().top;$("html, body").stop().animate({scrollTop:s},500)})})();
-//rebuild by neat 
+/* global NexT */
+
+(function() {
+
+  function initScrollSpy() {
+    var tocSelector = '.post-toc';
+    var $tocElement = $(tocSelector);
+    var activeCurrentSelector = '.active-current';
+
+    function removeCurrentActiveClass() {
+      $(tocSelector + ' ' + activeCurrentSelector)
+        .removeClass(activeCurrentSelector.substring(1));
+    }
+
+    $tocElement
+      .on('activate.bs.scrollspy', function() {
+        var $currentActiveElement = $(tocSelector + ' .active').last();
+
+        removeCurrentActiveClass();
+        $currentActiveElement.addClass('active-current');
+
+        // Scrolling to center active TOC element if TOC content is taller then viewport.
+        $tocElement.scrollTop($currentActiveElement.offset().top - $tocElement.offset().top + $tocElement.scrollTop() - ($tocElement.height() / 2));
+      })
+      .on('clear.bs.scrollspy', removeCurrentActiveClass);
+
+    $('body').scrollspy({ target: tocSelector });
+  }
+
+  initScrollSpy();
+
+  var TAB_ANIMATE_DURATION = 200;
+
+  $('.sidebar-nav li').on('click', function() {
+    var item = $(this);
+    var activeTabClassName = 'sidebar-nav-active';
+    var activePanelClassName = 'sidebar-panel-active';
+    if (item.hasClass(activeTabClassName)) {
+      return;
+    }
+
+    var currentTarget = $('.' + activePanelClassName);
+    var target = $('.' + item.data('target'));
+
+    currentTarget.animate({ opacity: 0 }, TAB_ANIMATE_DURATION, function() {
+      currentTarget.hide();
+      target
+        .stop()
+        .css({'opacity': 0, 'display': 'block'})
+        .animate({ opacity: 1 }, TAB_ANIMATE_DURATION, function() {
+          currentTarget.removeClass(activePanelClassName);
+          target.addClass(activePanelClassName);
+        });
+    });
+
+    item.siblings().removeClass(activeTabClassName);
+    item.addClass(activeTabClassName);
+  });
+
+  // TOC item animation navigate & prevent #item selector in adress bar.
+  $('.post-toc a').on('click', function(e) {
+    e.preventDefault();
+    var targetSelector = NexT.utils.escapeSelector(this.getAttribute('href'));
+    var offset = $(targetSelector).offset().top;
+
+    $('html, body').stop().animate({
+      scrollTop: offset
+    }, 500);
+  });
+}());

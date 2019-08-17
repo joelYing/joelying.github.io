@@ -1792,7 +1792,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c6a3ff;
+  background: #d488ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2578,19 +2578,14 @@ embed {
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
 }
-.post-block,
-#posts > article + article .post-block {
-  margin-top: $site-top-margin;
-  margin-left: 3px;
-  border-radius: $site-card-radius;
+.post-block {
+  margin-top: 60px;
+  margin-bottom: 20px;
   padding: 25px;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
-@media (max-width: 767px) {
-  .post-block,
-  #posts > article + article .post-block {
-    padding: 25px 0 15px !important;
-    margin: 0 15px 20px;
-  }
+.sidebar-toggle,
+.back-to-top {
+  background: #f00;
 }

@@ -1792,7 +1792,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f12113;
+  background: #d922c9;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2608,13 +2608,13 @@ embed {
 }
 .posts-expand .post-meta time {
   border-bottom: 1px dashed #999;
-/* cursor: help; */
+  cursor: auto;
 }
 .posts-expand .post-title {
   overflow-wrap: break-word;
   overflow-wrap: break-word;
   word-wrap: break-word;
   font-weight: 400;
-/* margin: inherit; */
+  margin-top: 30px;
   text-align: center;
 }

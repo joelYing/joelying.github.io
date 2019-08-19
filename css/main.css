@@ -1792,7 +1792,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #242bb8;
+  background: #e07d86;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2616,6 +2616,20 @@ embed {
   font-weight: 400;
   margin-top: 30px;
   text-align: center;
+}
+.out-img-topic {
+  display: block;
+  max-height: 300px;
+  margin-bottom: 24px;
+  overflow: hidden;
+}
+img.img-topic {
+  display: block;
+  margin-left: 0.7em;
+  margin-right: 0.7em;
+  padding: 0;
+  float: right;
+  clear: right;
 }
 code {
   color: #f60;

@@ -42,7 +42,7 @@
     sidebar: {"position":"right","display":"post","offset":12,"onmobile":true},
     back2top: {"enable":true,"sidebar":false,"scrollpercent":true},
     save_scroll: false,
-    copycode: {"enable":true,"show_result":false,"style":null},
+    copycode: {"enable":true,"show_result":true,"style":"flat"},
     fancybox: true,
     mediumzoom: false,
     lazyload: false,
@@ -74,7 +74,7 @@
 <meta property="og:description" content="“看，前面漆黑一片，什么也看不到；也不是，天亮后便会很美的”">
 <meta property="og:locale" content="zh-CN">
 <meta property="og:image" content="http://pw407zrf4.bkt.clouddn.com/20190820-1.jpg">
-<meta property="og:updated_time" content="2019-08-20T07:39:45.864Z">
+<meta property="og:updated_time" content="2019-08-20T13:20:19.381Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Markdown写作样式">
 <meta name="twitter:description" content="“看，前面漆黑一片，什么也看不到；也不是，天亮后便会很美的”">
@@ -311,7 +311,7 @@
                 
               
 
-              <time title="创建时间：2019-08-20 14:07:56 / 修改时间：15:39:45" itemprop="dateCreated datePublished" datetime="2019-08-20T14:07:56+08:00">2019-08-20</time>
+              <time title="创建时间：2019-08-20 14:07:56 / 修改时间：21:20:19" itemprop="dateCreated datePublished" datetime="2019-08-20T14:07:56+08:00">2019-08-20</time>
             </span>
           
             
@@ -349,7 +349,7 @@
               
                 <span class="post-meta-item-text">本文字数：</span>
               
-              <span>4.2k</span>
+              <span>4.9k</span>
             </span>
           
             <span class="post-meta-item" title="阅读时长">
@@ -380,17 +380,8 @@
 
 <h2 id="模板"><a href="#模板" class="headerlink" title="模板"></a>模板</h2><figure class="highlight plain"><figcaption><span>hexo\scaffolds\post.md</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125;</span><br><span class="line">date: &#123;&#123; date &#125;&#125;</span><br><span class="line">permalink:</span><br><span class="line">categories:</span><br><span class="line">tags: []</span><br><span class="line">description:</span><br><span class="line">image:</span><br><span class="line">---</span><br><span class="line"></span><br><span class="line">&lt;img class=&quot;joel-img&quot; src=&quot;&quot;&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- more --&gt;</span><br></pre></td></tr></table></figure>
 
-<blockquote>
-<p>效果</p>
-<blockquote>
-<blockquote>
-<p>效果</p>
-</blockquote>
-</blockquote>
-</blockquote>
 <h2 id="注脚"><a href="#注脚" class="headerlink" title="注脚"></a>注脚</h2><p>代码:</p>
-<figure class="highlight accesslog"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">这是注脚<span class="string"><sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="注脚的内容
-">[1]</span></a></sup></span></span><br></pre></td></tr></table></figure>
+<figure class="highlight accesslog"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">这是注脚<span class="string">[\^1]</span></span><br></pre></td></tr></table></figure>
 
 <p>效果(注意文章末尾注脚)：</p>
 <p>这是注脚<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="注脚的内容
@@ -494,6 +485,7 @@
 <p>效果：</p>
 <div class="tabs" id="选项卡"><ul class="nav-tabs"><li class="tab"><a href="#选项卡-1">选项卡 1</a></li><li class="tab active"><a href="#选项卡-2">选项卡 2</a></li><li class="tab"><a href="#选项卡-3">选项卡 3</a></li></ul><div class="tab-content"><div class="tab-pane" id="选项卡-1"><p><strong>这是选项卡 1</strong> 呵呵哈哈哈哈哈哈哈哈呵呵哈哈哈哈哈哈哈哈呵呵哈哈哈哈哈哈哈哈呵呵哈哈哈哈哈哈哈哈呵呵哈哈哈哈哈哈哈哈呵呵哈哈哈哈哈哈哈哈……</p></div><div class="tab-pane active" id="选项卡-2"><p><strong>这是选项卡 2</strong></p></div><div class="tab-pane" id="选项卡-3"><p><strong>这是选项卡 3</strong> 哇，你找到我了！φ(≧ω≦*)♪～</p></div></div></div>
 
+
 <p>说明:源码中, 2表示一开始在第二个选项卡，非必须，若数值为-1则隐藏选项卡内容。更多用法请查看<a href="https://almostover.ru/2016-01/hexo-theme-next-test/#Tab-tag-test" target="_blank" rel="noopener">这个页面</a></p>
 <h2 id="主题自带-下载样式按钮"><a href="#主题自带-下载样式按钮" class="headerlink" title="主题自带-下载样式按钮"></a>主题自带-下载样式按钮</h2><p>代码：</p>
 <figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% btn http<span class="variable">s:</span>//www.baidu.<span class="keyword">com</span>, 点击下载百度, download fa-<span class="keyword">lg</span> fa-fw %&#125;</span><br></pre></td></tr></table></figure>
@@ -551,6 +543,20 @@
 <td align="right">$1</td>
 </tr>
 </tbody></table>
+<h2 id="代码块顶部样式"><a href="#代码块顶部样式" class="headerlink" title="代码块顶部样式"></a>代码块顶部样式</h2><p>这里指的是```代码块，而不是行内代码块（<code>代码</code>），它的用法如下：</p>
+<figure class="highlight plain"><figcaption><span>[title] [url] [link-text]</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">中间写代码</span><br></pre></td></tr></table></figure>
+
+<p>[language] 是代码语言的名称，用来设置代码块颜色高亮，非必须；<br>[title] 是顶部左边的说明，非必须；<br>[url] 是顶部右边的超链接地址，非必须；<br>[link text] 如它的字面意思，超链接的名称，非必须</p>
+<p>亲测这 4 项应该是根据空格来分隔，而不是[]，故请不要加[]。除非如果你想写后面两个，但不想写前面两个，那么就必须加[]了，要这样写：[] [] [url] [link text]</p>
+<p>例如：</p>
+<figure class="highlight python"><figcaption><span>测试</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">r = request.get(<span class="string">"www.baidu.com"</span>)</span><br><span class="line">print(r.text)</span><br></pre></td></tr></table></figure>
+
+<p>红色-和绿色+的样式哪来的？哈哈哈，原来这也是一种语言，叫diff，所以你只需在 [language] 这写diff，然后在相应代码前面加上-和+就行了</p>
+<figure class="highlight diff"><figcaption><span>测试</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="addition">+ r = request.get("www.baidu.com")</span></span><br><span class="line"><span class="deletion">- print(r.text)</span></span><br></pre></td></tr></table></figure>
+
+<p>当然，要是你不满意顶部的文字样式，也可以自己在<code>hexo/source/_data/styles.styl</code>自定义：</p>
+<figure class="highlight plain"><figcaption><span>文件位置：~hexo/source/_data/styles.styl</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">// 文章```代码块顶部样式</span><br><span class="line">.highlight figcaption &#123;</span><br><span class="line">    margin: 0em;</span><br><span class="line">    padding: 0.5em;</span><br><span class="line">    background: #eee;</span><br><span class="line">    border-bottom: 1px solid #e9e9e9;</span><br><span class="line">&#125;</span><br><span class="line">.highlight figcaption a &#123;</span><br><span class="line">    color: rgb(80, 115, 184);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
 <div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">注脚的内容<a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>
     </div>
 
@@ -793,7 +799,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#模板"><span class="nav-number">1.</span> <span class="nav-text">模板</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#注脚"><span class="nav-number">2.</span> <span class="nav-text">注脚</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#文字背景色块"><span class="nav-number">3.</span> <span class="nav-text">文字背景色块</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#引用边框变色"><span class="nav-number">4.</span> <span class="nav-text">引用边框变色</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-文本居中"><span class="nav-number">5.</span> <span class="nav-text">主题自带-文本居中</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-引用块"><span class="nav-number">6.</span> <span class="nav-text">主题自带-引用块</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-note标签"><span class="nav-number">7.</span> <span class="nav-text">主题自带-note标签</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-label标签"><span class="nav-number">8.</span> <span class="nav-text">主题自带-label标签</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-tabs-选项卡-标签"><span class="nav-number">9.</span> <span class="nav-text">主题自带-tabs(选项卡)标签</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-下载样式按钮"><span class="nav-number">10.</span> <span class="nav-text">主题自带-下载样式按钮</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#文档中增加图标"><span class="nav-number">11.</span> <span class="nav-text">文档中增加图标</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#表格"><span class="nav-number">12.</span> <span class="nav-text">表格</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#模板"><span class="nav-number">1.</span> <span class="nav-text">模板</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#注脚"><span class="nav-number">2.</span> <span class="nav-text">注脚</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#文字背景色块"><span class="nav-number">3.</span> <span class="nav-text">文字背景色块</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#引用边框变色"><span class="nav-number">4.</span> <span class="nav-text">引用边框变色</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-文本居中"><span class="nav-number">5.</span> <span class="nav-text">主题自带-文本居中</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-引用块"><span class="nav-number">6.</span> <span class="nav-text">主题自带-引用块</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-note标签"><span class="nav-number">7.</span> <span class="nav-text">主题自带-note标签</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-label标签"><span class="nav-number">8.</span> <span class="nav-text">主题自带-label标签</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-tabs-选项卡-标签"><span class="nav-number">9.</span> <span class="nav-text">主题自带-tabs(选项卡)标签</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主题自带-下载样式按钮"><span class="nav-number">10.</span> <span class="nav-text">主题自带-下载样式按钮</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#文档中增加图标"><span class="nav-number">11.</span> <span class="nav-text">文档中增加图标</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#表格"><span class="nav-number">12.</span> <span class="nav-text">表格</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#代码块顶部样式"><span class="nav-number">13.</span> <span class="nav-text">代码块顶部样式</span></a></li></ol></div>
             
 
           </div>
@@ -823,14 +829,14 @@
     </span>
       <span class="post-meta-item-text">站点总字数：</span>
     
-    <span title="站点总字数">79k</span>
+    <span title="站点总字数">80k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
       <span class="post-meta-item-text">站点阅读时长 &asymp;</span>
     
-    <span title="站点阅读时长">1:11</span>
+    <span title="站点阅读时长">1:12</span>
 </div>
 
 <!--添加网站的运行时间-->
@@ -1074,8 +1080,8 @@ show_date_time();
 
   
   <script src="/js/scrollspy.js?v=7.3.0"></script>
-<script src="/js/post-details.js?v=7.3.0"></script>
+<script src="/js/post-details.js?v=7.3.0"></script><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 
 
-<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/shizuku.model.json"},"display":{"width":150,"height":300,"position":"right","hOffset":80},"mobile":{"show":true},"react":{"opacity":0.7},"log":false});</script><!-- hexo-inject:begin --><!-- hexo-inject:end --></body>
+<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/shizuku.model.json"},"display":{"width":150,"height":300,"position":"right","hOffset":80},"mobile":{"show":true},"react":{"opacity":0.7},"log":false});</script></body>
 </html>

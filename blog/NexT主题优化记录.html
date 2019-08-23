@@ -75,7 +75,7 @@
 <meta property="og:locale" content="zh-CN">
 <meta property="og:image" content="http://pw407zrf4.bkt.clouddn.com/20190820-3.jpg">
 <meta property="og:image" content="http://pw407zrf4.bkt.clouddn.com/pace.gif">
-<meta property="og:updated_time" content="2019-08-23T05:11:27.199Z">
+<meta property="og:updated_time" content="2019-08-23T05:33:40.018Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="NexT主题优化记录">
 <meta name="twitter:description" content="NexT主题优化记录">
@@ -323,7 +323,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2019-08-23 13:11:27" itemprop="dateModified" datetime="2019-08-23T13:11:27+08:00">2019-08-23</time>
+                <time title="修改时间：2019-08-23 13:33:40" itemprop="dateModified" datetime="2019-08-23T13:33:40+08:00">2019-08-23</time>
               </span>
             
           
@@ -928,20 +928,18 @@
 <figure class="highlight plain"><figcaption><span>hexo\source\tags\index.md</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">layout: tag</span><br><span class="line">title: 标签</span><br><span class="line">date: 2019-08-12 14:44:58</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 
 <p>分类页也是如此</p>
-<figure class="highlight plain"><figcaption><span>hexo\source\categories\index.md</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">layout: category</span><br><span class="line">title: 标签</span><br><span class="line">date: 2019-08-12 14:44:58</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><figcaption><span>hexo\source\categories\index.md</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">layout: category</span><br><span class="line">title: 分类</span><br><span class="line">date: 2019-08-12 14:44:58</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 
 <p>查看<a href="https://theme-next.iissnan.com/theme-settings.html#tags-page" target="_blank" rel="noopener">官方文档</a>之后，发现漏了一步…</p>
 <p>正确做法如下：</p>
 <p>新建「标签」页面，并在菜单中显示「标签」链接。「标签」页面将展示站点的所有标签，若你的所有文章都未包含标签，此页面将是空的。 底下代码是一篇包含标签的文章的例子：</p>
 <figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">title:</span> <span class="string">标签测试文章</span></span><br><span class="line"><span class="attr">tags:</span></span><br><span class="line"><span class="bullet">  -</span> <span class="string">Testing</span></span><br><span class="line"><span class="bullet">  -</span> <span class="string">Another</span> <span class="string">Tag</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure>
 
-<p id="div-border-left-blue">请参阅[Hexo的分类与标签](https://hexo.io/zh-cn/docs/front-matter.html#%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE)文档，了解如何为文章添加标签或者分类。</p>
-
-
-<div class="tabs" id="新建页面"><ul class="nav-tabs"><li class="tab active"><a href="#新建页面-1">新建页面 1</a></li><li class="tab"><a href="#新建页面-2">新建页面 2</a></li><li class="tab"><a href="#新建页面-3">新建页面 3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="新建页面-1"><p>在终端窗口下，定位到<code>Hexo</code>站点目录下。使用<code>hexo new page</code>新建一个页面，命名为<code>tags</code>：</p>
-undefined</div><div class="tab-pane" id="新建页面-2"><p>编辑刚新建的页面，将页面的类型设置为 tags ，主题将自动为这个页面显示标签云。页面内容如下：</p>
-undefined</div><div class="tab-pane" id="新建页面-3"><p>在菜单中添加链接。编辑<span id="inline-purple">主题配置文件</span>， 添加<code>tags</code>到<code>menu</code>中，如下:</p>
-undefined</div></div></div>
+<p>请参阅<a href="https://hexo.io/zh-cn/docs/front-matter.html#%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE" target="_blank" rel="noopener">Hexo的分类与标签</a>文档，了解如何为文章添加标签或者分类。</p><p></p>
+<div class="tabs" id><ul class="nav-tabs"><li class="tab active"><a href="#-1">新建页面</a></li><li class="tab"><a href="#-2">设置页面类型</a></li><li class="tab"><a href="#-3">编辑菜单</a></li></ul><div class="tab-content"><div class="tab-pane active" id="-1"><p>在终端窗口下，定位到<code>Hexo</code>站点目录下。使用<code>hexo new page</code>新建一个页面，命名为<code>tags</code>：</p>
+<figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ cd your-hexo-site</span><br><span class="line">$ hexo new<span class="built_in"> page </span>tags</span><br></pre></td></tr></table></figure></div><div class="tab-pane" id="-2"><p>编辑刚新建的页面，将页面的类型设置为 tags ，主题将自动为这个页面显示标签云。页面内容如下：</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">title:</span> <span class="string">标签</span></span><br><span class="line"><span class="attr">date:</span> <span class="number">2014</span><span class="bullet">-12</span><span class="bullet">-22</span> <span class="number">12</span><span class="string">:39:04</span></span><br><span class="line"><span class="attr">type:</span> <span class="string">"tags"</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure></div><div class="tab-pane" id="-3"><p>在菜单中添加链接。编辑<span id="inline-purple">主题配置文件</span>， 添加<code>tags</code>到<code>menu</code>中，如下:</p>
+<figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">menu</span>:</span><br><span class="line">  home: /</span><br><span class="line">  archive<span class="variable">s:</span> /archives</span><br><span class="line">  <span class="keyword">tag</span><span class="variable">s:</span> /<span class="keyword">tags</span></span><br></pre></td></tr></table></figure></div></div></div>
 
 <p>现在的两个<code>index.md</code>文件</p>
 <figure class="highlight plain"><figcaption><span>hexo\source\tags\index.md</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 标签</span><br><span class="line">date: 2019-08-12 14:44:58</span><br><span class="line">type: &quot;tags&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
@@ -1534,8 +1532,8 @@ show_date_time();
 
   
   <script src="/js/scrollspy.js?v=7.3.0"></script>
-<script src="/js/post-details.js?v=7.3.0"></script><!-- hexo-inject:begin --><!-- hexo-inject:end -->
+<script src="/js/post-details.js?v=7.3.0"></script>
 
 
-<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/shizuku.model.json"},"display":{"width":150,"height":300,"position":"right","hOffset":80},"mobile":{"show":true},"react":{"opacity":0.7},"log":false});</script></body>
+<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/shizuku.model.json"},"display":{"width":150,"height":300,"position":"right","hOffset":80},"mobile":{"show":true},"react":{"opacity":0.7},"log":false});</script><!-- hexo-inject:begin --><!-- hexo-inject:end --></body>
 </html>

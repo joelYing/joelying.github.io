@@ -1800,7 +1800,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #3760a6;
+  background: #4f613e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;

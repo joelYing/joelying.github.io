@@ -1,0 +1,159 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: JoelYing
+subtitle: 
+description: 半个兴趣使然的程序员
+keywords:
+author: Joel Ying
+language: zh-CN
+timezone: Asia/Shanghai
+
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: https://joelying.github.io/
+root: /
+# permalink: :year/:month/:day/:title/
+permalink: /blog/:title.html
+permalink_defaults:
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render: README.md /source/a-word/index.md
+
+# Writing
+new_post_name: :title.md # File name of new posts
+default_layout: post
+titlecase: false # Transform title into titlecase
+external_link: true # Open external links in new tab
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: true
+  tab_replace:
+  
+# Home page setting
+# path: Root path for your blogs index page. (default = '')
+# per_page: Posts displayed per page. (0 = disable pagination)
+# order_by: Posts order. (Order by date descending by default)
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+  
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
+
+# Date / Time format
+## Hexo uses Moment.js to parse and display date
+## You can customize the date format as defined in
+## http://momentjs.com/docs/#/displaying/format/
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+
+# Pagination
+## Set per_page to 0 to disable pagination
+per_page: 10
+pagination_dir: page
+
+# 设置RSS
+feed:
+  type: rss2
+  path: rss2.html
+  limit: 5
+  hub:
+  content: 'true'
+
+# 站内文章搜索
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
+#静态资源压缩优化
+# hexo-neat
+neat_enable: true # 启用neat
+
+# 对html优化
+neat_html:          
+  enable: true
+  exclude:
+  
+# 对css优化
+neat_css:
+  enable: true
+  exclude:
+    - '*.min.css'
+
+# 对js优化
+neat_js:
+  enable: false
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '*.min.js'
+
+# hexo-helper-live2d配置, 参考https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    use: live2d-widget-model-shizuku
+  display:
+    # superSample: 2 # 超采样等级
+    width: 150
+    height: 300
+    position: right # 位置
+    hOffset: 80
+  mobile:
+    show: true
+  react:
+    opacity: 0.7
+    # opacityDefault: 0.6 # 默认透明度
+    # opacityOnHover: 0.5 # 鼠标移上透明度
+  # dialog: # Display dialog 显示人物对话框
+  #   enable: false
+  #   hitokoto: false  # 使用一言API
+
+# 增加文章字数统计及阅读时常功能
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: false
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+### 更换主题名称即可切换博客主题
+theme: next
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo: https://github.com/joelYing/joelYing.github.io.git
+  branch: master

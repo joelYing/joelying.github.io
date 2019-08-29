@@ -140,6 +140,32 @@ layout: false
     	</div>
 	</div>
 	<div class="section">
+		<div class="aword" style="font-size: 35px">
+			<p class="text">
+        你要忍，忍到春暖花开<br>
+        你要走，走到灯火通明<br>
+        你要看过世界辽阔，再评判是好是坏<br>
+        你要留足劲变好，再站在不敢想象的人身边，旗鼓相当<br>
+        你要变成想象中那个样子，这件事一步也不能让
+        	</p>
+    	</div>
+      	<br>
+      	<div class="aword-by" style="font-size: 18px">
+        —— 网易云《告白の夜》小提琴演奏视频下评论
+    	</div>
+    </div>
+	<div class="section">
+		<div class="aword" style="font-size: 35px">
+			<p class="text">
+        山雨已来风满楼
+        	</p>
+    	</div>
+      	<br>
+      	<div class="aword-by" style="font-size: 18px">
+        —— 二零一九年八月二十九日
+    	</div>
+    </div>
+	<div class="section">
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">

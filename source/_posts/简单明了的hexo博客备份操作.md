@@ -58,6 +58,12 @@ git push origin source
 
 博客从一开始就在本地生成，选择复制是为了方便使用远程地址
 
+### 另外
+
+Sublime 同时打开多个文件夹（项目）
+
+打开第二个`project-->add folder to project`
+
 ### 参考
 
 [hexo博客备份](https://www.jianshu.com/p/f4214a85eb0e)

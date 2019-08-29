@@ -133,10 +133,104 @@ layout: false
         人海似海却无岸
     	</div>
     	<div class="aword-active-by" style="font-size: 1px">
-        往下翻点击左右两边可以看到更多哦
+        往下翻点击左右两边可能看到更多哦
     	</div>
     	<div class="aword-p1">
     		<img id="img" src="http://pw407zrf4.bkt.clouddn.com/%E6%96%B9%E5%90%91%E7%9B%98.png">
+    	</div>
+	</div>
+	<div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        开拓视野，冲破艰险，洞悉所有，贴近生活，寻找真爱，感受彼此<br>
+	        这就是人生的目的
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《白日梦想家》
+	        </div>
+    	</div>
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        我们一路奋战，不是为了改变世界，而是为了不让世界改变我
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《熔炉》
+	        </div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        有的朋友常是一闪而逝，就像路上的行人一样
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《伴我同行》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        如果能让你免受伤害，我宁愿回到最初，从不曾靠近你
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《蝴蝶效应》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        没有你，良辰美景可与何人说？
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《天使爱美丽》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        留下来...<br>
+			或者我跟你走！
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《海角七号》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        美好的东西从来不会寻求关注
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《白日梦想家》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        我对所有的事情都厌倦的时候，我就会想到你<br>
+	        想到你在世界的某个地方生活着，存在着，我就愿意忍受一切<br>
+	        你的存在对我很重要
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《美国往事》
+	    	</div>
     	</div>
 	</div>
 	<div class="section">
@@ -977,6 +1071,91 @@ layout: false
 			印象深刻<br>
 			但后来就再也碰不上了<br>
 			人生就是这样
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 锐雯
+	    	</div>
+    	</div>
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	            	总有一阵风会吹过我再吹过你<br>
+					总有一个瞬间我们之前的距离是零
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 锐雯
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	            	记忆是相见的一种方式
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 锐雯
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	            	没有绝望的形势，只有绝望的人
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 锐雯
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	            	“前天我右腿撞到石头，当时觉得疼了一阵也就没事了，今天才发现那一块已经青紫”<br>
+					人生很多事情都要延迟许久许久才会感觉到疼<br>
+					你能想象吗，也许等到你四十多岁的某个夏夜，开车回家，在某个路口等红绿灯的时候<br>
+					你突然反应过来，十九岁的时候，那个人说的那句话原来是这个意思
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 锐雯
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	            	孤独意味着自由和发现<br>
+					沙漠孤岛比一座城市更激动人心
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 锐雯
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	            	我想你应该很忙，所以看前面三个字就好了
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 锐雯
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	            	人的一生<br>
+	            	最难以保存的，是时间<br>
+	            	最终能留下的，是记忆<br>
+	            	而能够同时承载两者的，唯有文字
 				</p>
 	    	</div>
 	      	<br>

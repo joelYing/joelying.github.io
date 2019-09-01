@@ -140,6 +140,18 @@ layout: false
     	</div>
 	</div>
 	<div class="section">
+		<div class="aword" style="font-size: 35px">
+			<p class="text">
+        生老还生，不知苦痛<br>
+        病死将死，最是难熬，苦煞子女
+        	</p>
+    	</div>
+      	<br>
+      	<div class="aword-by" style="font-size: 18px">
+        —— 二零一九年九月一日
+    	</div>
+    </div>
+	<div class="section">
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">

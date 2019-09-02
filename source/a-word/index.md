@@ -142,6 +142,352 @@ layout: false
 	<div class="section">
 		<div class="aword" style="font-size: 35px">
 			<p class="text">
+        北凉寒苦参差百万户，多少铁衣裹枯骨<br>
+        来来来，试看谁是阳间人屠<br>
+        来来来，试听谁在敲美人鼓
+        	</p>
+    	</div>
+      	<br>
+      	<div class="aword-by" style="font-size: 18px">
+        —— 《雪中悍刀行》
+    	</div>
+    </div>
+    <div class="section">
+		<div class="aword" style="font-size: 35px">
+			<p class="text">
+        “大秦，洛阳！”
+        	</p>
+    	</div>
+      	<br>
+      	<div class="aword-by" style="font-size: 18px">
+        —— 《雪中悍刀行人物-洛阳》
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        那一天，拒北城外，北莽孤注一掷，四十万铁骑压境<br>
+    		穿上藩王蟒袍的徐凤年独自掠下城头，腰佩凉刀<br>
+    		姜泥身披缟素，登上城头，将紫檀剑匣重重竖放在战鼓之下<br>
+    		她深呼吸一口气后，双手拿起鼓槌，开始擂鼓！
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	        </div>
+    	</div>
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        当第一声北凉战鼓在天地间响起<br>
+    		城外独自站在北莽大军阵前的徐凤年，鬓角飞扬，双袖飘摇，飘然如神仙
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	        </div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        一道身形如流星坠落在战场上，刚刚站在徐凤年左侧<br>
+	        中年人双手负后，腰间悬挂一柄寻常铁剑，洒然道：“邓太阿在此！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        鼓声中，又一道身影急坠而下，站在了徐凤年右手边<br>
+	        她只是高声说出自己的名字，“洛阳！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        一人持枪从天而降重重砸落在战场上，高声道：“北凉徐偃兵！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        一袭紫衣如虹掠下，女子神色冷漠道：“徽山大雪坪，轩辕青锋。”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        一袭腥红如血的袍子飞旋而下，“徐婴！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        一声声战鼓<br>
+    		一道道流星坠落<br>
+    		在年轻藩王左右两侧依次排开
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	     	“隋斜谷！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “东越剑池柴青山！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “武当俞兴瑞！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “吴家剑冢吴六鼎！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “剑侍翠花。”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “西蜀薛宋官。”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “龙虎山齐仙侠！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “武帝城于新郎！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	       “楼荒！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	         “龙宫程白霜！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “南疆毛舒朗！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “南诏韦淼！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        在北莽骑军和拒北城之间的那条横线之上<br>
+	        十八人，十八位武道宗师，就这么齐聚拒北城外
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        江湖千年未曾有，以后千年更不会有
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        什么是真正的天下无敌<br>
+    		这就是
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        北凉铁骑的马蹄声战鼓声，何其壮烈<br>
+    		西北关外，大军阵前，那一声声自报名号，又何其尽显中原风流？
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        姜泥擂鼓如雷，怒喝道：“杀！”<br>
+    		绝代风采一如当年北凉王妃吴素
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年握紧凉刀，默念道：“杀！”
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        几乎同时，一线之上的所有宗师，都念了一个杀字
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他们要以十八人，拒敌四十万骑军！
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《中原宗师，尽至关外》
+	    	</div>
+    	</div>
+	</div>
+	<div class="section">
+		<div class="aword" style="font-size: 35px">
+			<p class="text">
         生老还生，不知苦痛<br>
         病死将死，最是难熬，苦煞子女
         	</p>

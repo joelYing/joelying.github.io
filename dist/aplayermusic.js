@@ -4,7 +4,7 @@ const ap = new APlayer({
     // 吸底模式，与迷你模式冲突
     fixed: true,
     // 默认是否自动播放
-    autoplay: false, 
+    autoplay: false,
     theme: '#FADFA3',
     loop: 'one',
     order: 'random',

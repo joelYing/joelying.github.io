@@ -20,14 +20,13 @@ const ap = new APlayer({
     // 使用lrc文件提供歌词
     // lrcType: 3, 
     // 网易云默认外链链接：http://music.163.com/song/media/outer/url?id=ID数字.mp3
-    ap.lrc.toggle(),
     audio: [
         {
             name: '행복을 찾아서(寻找幸福)',
             artist: 'Leessang / 赵贤雅',
             url: 'http://music.163.com/song/media/outer/url?id=22842399.mp3',
             cover: 'http://p1.music.126.net/2996FlCtcEluFUaFG9Y16A==/857619069689686.jpg',
-            lrc: '/dist/music/22842399.lrc',
+            // lrc: '/dist/music/22842399.lrc',
             theme: '#46718b'
         },
         {
@@ -35,7 +34,7 @@ const ap = new APlayer({
             artist: '小柯',
             url: 'http://www.ytmp3.cn/down/55422.mp3',
             cover: 'http://p2.music.126.net/b5UY8eG2CwxsU568JH6KdQ==/3244658815024143.jpg',
-            lrc: '/dist/music/29771420.lrc',
+            // lrc: '/dist/music/29771420.lrc',
             theme: '#46718b'
         },
         // {
@@ -69,7 +68,7 @@ const ap = new APlayer({
             artist: 'Yunomi / nicamoq / Fdby',
             url: 'http://music.163.com/song/media/outer/url?id=425684779.mp3',
             cover: 'https://p2.music.126.net/Ez-_OKKKzKsSXzDY15hwTw==/3394192418636766.jpg',
-            lrc: '/dist/music/425684779.lrc',
+            // lrc: '/dist/music/425684779.lrc',
             theme: '#46718b'
         },
         {
@@ -77,7 +76,7 @@ const ap = new APlayer({
             artist: 'IU',
             url: 'http://music.163.com/song/media/outer/url?id=1316563427.mp3',
             cover: 'https://p1.music.126.net/gxo54B2ypqq0Y6tmahBnIw==/109951163596240238.jpg',
-            lrc: '/dist/music/1316563427.lrc',
+            // lrc: '/dist/music/1316563427.lrc',
             theme: '#46718b'
         },
         // {

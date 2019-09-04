@@ -1,18 +1,26 @@
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
     // mini: false,
-    fixed: true, //吸底模式，与迷你模式冲突
-    autoplay: false,//默认是否自动播放
+    // 吸底模式，与迷你模式冲突
+    fixed: true,
+    // 默认是否自动播放
+    autoplay: false, 
     theme: '#FADFA3',
     loop: 'one',
     order: 'random',
     preload: 'auto',
-    volume: 0.7,//默认音量
-    mutex: true,//是否不允许多个播放器同时播放
-    listFolded: true,//是否默认收起播放列表
-    listMaxHeight: 90,//播放列表的高度
-    // lrcType: 3, //使用lrc文件提供歌词
-    //网易云默认外链链接：http://music.163.com/song/media/outer/url?id=ID数字.mp3
+    // 默认音量
+    volume: 0.7,
+    // 是否不允许多个播放器同时播放
+    mutex: true,
+    // 是否默认收起播放列表
+    listFolded: true,
+    // 播放列表的高度
+    listMaxHeight: 90,
+    // 使用lrc文件提供歌词
+    // lrcType: 3, 
+    // 网易云默认外链链接：http://music.163.com/song/media/outer/url?id=ID数字.mp3
+    ap.lrc.toggle(),
     audio: [
         {
             name: '행복을 찾아서(寻找幸福)',
@@ -30,15 +38,15 @@ const ap = new APlayer({
             lrc: '/dist/music/29771420.lrc',
             theme: '#46718b'
         },
-        {
-            name: '헤어지지 못하는 여자, 떠나가지 못하는 남자',
-            artist: 'Leessang / 郑仁',
-            url: 'http://m10.music.126.net/20190904143222/b2e00879eda4c8d6b95040ded53eff95/ymusic/c539/057c/9dbd/08c7cadeff2c931f2af3d498a5dc38c0.mp3',
-            // 默认外链链接无效
-            cover: 'http://p2.music.126.net/dl6j6G3KvH5477D-7P6KVw==/6641050231879939.jpg',
-            lrc: '/dist/music/22842426.lrc',
-            theme: '#46718b'
-        },
+        // {
+        //     name: '헤어지지 못하는 여자, 떠나가지 못하는 남자',
+        //     artist: 'Leessang / 郑仁',
+        //     url: 'http://m10.music.126.net/20190904143222/b2e00879eda4c8d6b95040ded53eff95/ymusic/c539/057c/9dbd/08c7cadeff2c931f2af3d498a5dc38c0.mp3',
+        //     // 默认外链链接无效
+        //     cover: 'http://p2.music.126.net/dl6j6G3KvH5477D-7P6KVw==/6641050231879939.jpg',
+        //     lrc: '/dist/music/22842426.lrc',
+        //     theme: '#46718b'
+        // },
         {
             name: '나란 놈은 답은 너다 Prologue',
             artist: 'Leessang',
@@ -47,15 +55,15 @@ const ap = new APlayer({
             // lrc: '/dist/music/22842426.lrc',
             theme: '#46718b'
         },
-        {
-            name: '리쌍 부르쓰',
-            artist: 'Leessang',
-            url: 'http://music.163.com/song/media/outer/url?id=1360898625.mp3',
-            // 默认外链链接无效
-            cover: 'https://p2.music.126.net/LZ7l36qFBK2nBmPVvUA8Fw==/590437744139070.jpg',
-            // lrc: '/dist/music/22842426.lrc',
-            theme: '#46718b'
-        },
+        // {
+        //     name: '리쌍 부르쓰',
+        //     artist: 'Leessang',
+        //     url: 'http://music.163.com/song/media/outer/url?id=1360898625.mp3',
+        //     // 默认外链链接无效
+        //     cover: 'https://p2.music.126.net/LZ7l36qFBK2nBmPVvUA8Fw==/590437744139070.jpg',
+        //     // lrc: '/dist/music/22842426.lrc',
+        //     theme: '#46718b'
+        // },
         {
             name: 'Yunomi--インドア系ならトラックメイカー (Fdby Remix)',
             artist: 'Yunomi / nicamoq / Fdby',
@@ -72,15 +80,15 @@ const ap = new APlayer({
             lrc: '/dist/music/1316563427.lrc',
             theme: '#46718b'
         },
-        {
-            name: 'ヤキモチ',
-            artist: '高橋優',
-            url: 'http://www.ytmp3.cn/down/73520.mp3',
-            // 默认外链链接无效
-            cover: 'https://p1.music.126.net/oPj76RwZ9ChuFoRIhx65xw==/8947825626848871.jpg',
-            lrc: '/dist/music/28885472.lrc',
-            theme: '#46718b'
-        },
+        // {
+        //     name: 'ヤキモチ',
+        //     artist: '高橋優',
+        //     url: 'http://www.ytmp3.cn/down/73520.mp3',
+        //     // 默认外链链接无效
+        //     cover: 'https://p1.music.126.net/oPj76RwZ9ChuFoRIhx65xw==/8947825626848871.jpg',
+        //     lrc: '/dist/music/28885472.lrc',
+        //     theme: '#46718b'
+        // },
         {
             name: 'Por Una Cabeza',
             artist: 'Thomas Newman',

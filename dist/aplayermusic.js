@@ -33,7 +33,8 @@ const ap = new APlayer({
         {
             name: '헤어지지 못하는 여자, 떠나가지 못하는 남자',
             artist: 'Leessang / 郑仁',
-            url: 'http://music.163.com/song/media/outer/url?id=22842426.mp3',
+            url: 'http://m10.music.126.net/20190904143222/b2e00879eda4c8d6b95040ded53eff95/ymusic/c539/057c/9dbd/08c7cadeff2c931f2af3d498a5dc38c0.mp3',
+            // 默认外链链接无效
             cover: 'http://p2.music.126.net/dl6j6G3KvH5477D-7P6KVw==/6641050231879939.jpg',
             lrc: '/dist/music/22842426.lrc',
             theme: '#46718b'
@@ -50,6 +51,7 @@ const ap = new APlayer({
             name: '리쌍 부르쓰',
             artist: 'Leessang',
             url: 'http://music.163.com/song/media/outer/url?id=1360898625.mp3',
+            // 默认外链链接无效
             cover: 'https://p2.music.126.net/LZ7l36qFBK2nBmPVvUA8Fw==/590437744139070.jpg',
             // lrc: '/dist/music/22842426.lrc',
             theme: '#46718b'
@@ -73,7 +75,8 @@ const ap = new APlayer({
         {
             name: 'ヤキモチ',
             artist: '高橋優',
-            url: 'http://music.163.com/song/media/outer/url?id=28885472.mp3',
+            url: 'http://www.ytmp3.cn/down/73520.mp3',
+            // 默认外链链接无效
             cover: 'https://p1.music.126.net/oPj76RwZ9ChuFoRIhx65xw==/8947825626848871.jpg',
             lrc: '/dist/music/28885472.lrc',
             theme: '#46718b'

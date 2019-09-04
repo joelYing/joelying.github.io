@@ -11,7 +11,7 @@ layout: false
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.css"/>
 <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
-<!-- <link rel="stylesheet" type="text/css" href="http://pw407zrf4.bkt.clouddn.com/aword.css" /> -->
+<!-- <link rel="stylesheet" type="text/css" href="http://image.joelyings.com/aword.css" /> -->
 
 <!-- Google font -->
 <link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" rel="stylesheet">
@@ -136,7 +136,7 @@ layout: false
         往下翻点击左右两边可能看到更多哦
     	</div>
     	<div class="aword-p1">
-    		<img id="img" src="http://pw407zrf4.bkt.clouddn.com/%E6%96%B9%E5%90%91%E7%9B%98.png">
+    		<img id="img" src="http://image.joelyings.com/%E6%96%B9%E5%90%91%E7%9B%98.png">
     	</div>
 	</div>
 	<div class="section">

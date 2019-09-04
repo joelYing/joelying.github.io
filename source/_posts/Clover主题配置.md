@@ -8,7 +8,7 @@ comments: true
 description: 毕竟有些人，只是遇见，就已经很美好了
 image: 
 ---
-<img class="joel-img" src="http://pw407zrf4.bkt.clouddn.com/20190827-29.jpg" >
+<img class="joel-img" src="http://image.joelyings.com/20190827-29.jpg" >
 
 <!-- more -->
 
@@ -151,9 +151,9 @@ date: 2019-08-12 14:44:58
 ```
 
 ### 效果图
-![](http://pw407zrf4.bkt.clouddn.com/clover1.png)
-![](http://pw407zrf4.bkt.clouddn.com/clover2.png)
-![](http://pw407zrf4.bkt.clouddn.com/clover3.png)
-![](http://pw407zrf4.bkt.clouddn.com/clover4.png)
-![](http://pw407zrf4.bkt.clouddn.com/clover5.png)
-![](http://pw407zrf4.bkt.clouddn.com/clover6.png)
+![](http://image.joelyings.com/clover1.png)
+![](http://image.joelyings.com/clover2.png)
+![](http://image.joelyings.com/clover3.png)
+![](http://image.joelyings.com/clover4.png)
+![](http://image.joelyings.com/clover5.png)
+![](http://image.joelyings.com/clover6.png)

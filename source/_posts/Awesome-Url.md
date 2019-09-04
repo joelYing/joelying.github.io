@@ -9,7 +9,7 @@ description: “一个人爱上小溪，是因为没有见过大海。 我已见
 image:
 ---
 
-<img class="joel-img" src="http://pw407zrf4.bkt.clouddn.com/20190820-2.jpg">
+<img class="joel-img" src="http://image.joelyings.com/20190820-2.jpg">
 
 <!-- more -->
 

@@ -8,7 +8,7 @@ comments: true
 description: NexT主题优化记录
 image: 
 ---
-<img class="joel-img" src="http://pw407zrf4.bkt.clouddn.com/20190820-3.jpg" >
+<img class="joel-img" src="http://image.joelyings.com/20190820-3.jpg" >
 
 <!-- more -->
 ### NexT主题优化历程
@@ -35,7 +35,7 @@ menu:
   schedule: /schedule/ || calendar
 
 avatar:
-  url: http://pw407zrf4.bkt.clouddn.com/%E6%96%91.jpg
+  url: http://image.joelyings.com/%E6%96%91.jpg
 
 sidebar:
   position: right
@@ -598,7 +598,7 @@ show_date_time();
 
 点击下方按钮下载相应的脚本，并置于 themes\next\source\js\src\ 目录下：
 
-{% btn http://pw407zrf4.bkt.clouddn.com/fireworks.js, 礼花特效, download fa-lg fa-fw %} {% btn http://pw407zrf4.bkt.clouddn.com/explosion.min.js, 爆炸特效, download fa-lg fa-fw %} {% btn http://pw407zrf4.bkt.clouddn.com/love.min.js, 浮出爱心, download fa-lg fa-fw %} {% btn http://pw407zrf4.bkt.clouddn.com/text.js, 浮出文字, download fa-lg fa-fw %}
+{% btn http://image.joelyings.com/fireworks.js, 礼花特效, download fa-lg fa-fw %} {% btn http://image.joelyings.com/explosion.min.js, 爆炸特效, download fa-lg fa-fw %} {% btn http://image.joelyings.com/love.min.js, 浮出爱心, download fa-lg fa-fw %} {% btn http://image.joelyings.com/text.js, 浮出文字, download fa-lg fa-fw %}
 
 
 在主题自定义布局文件中添加以下代码,``themes\next\layout\_custom\custom.swig``
@@ -2132,7 +2132,7 @@ wobble:
 
 你可以点击下方按钮下载本站所使用的小猫上吊素材（ 小猫咪这么可爱，当然要多放点孜然啦…）
 
-[下载图片](http://pw407zrf4.bkt.clouddn.com/scroll.png)
+[下载图片](http://image.joelyings.com/scroll.png)
 
 然后在自定义样式文件中添加如下代码：
 ```[] hexo\source\_data\styles.styl
@@ -2223,7 +2223,7 @@ fancybox: true
 
 [进度条样式-翻墙才能看见具体样式](http://github.hubspot.com/pace/docs/welcome/)
 
-![](http://pw407zrf4.bkt.clouddn.com/pace.gif)
+![](http://image.joelyings.com/pace.gif)
 
 进入主题文件夹下，在主题文件夹下，例如`themes\next`下，获取pace的仓库
 

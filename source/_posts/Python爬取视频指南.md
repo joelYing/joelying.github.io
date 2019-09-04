@@ -8,7 +8,7 @@ comments: true
 description: 人间烟火，山河远阔，无一是你，无一不是你
 image: 
 ---
-<img class="joel-img" src="http://pw407zrf4.bkt.clouddn.com/20190827-28.jpg" >
+<img class="joel-img" src="http://image.joelyings.com/20190827-28.jpg" >
 
 <!-- more -->
 ## 前言
@@ -28,49 +28,49 @@ image:
 
 上面的24章，共计202个教程视频
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-1.png)
+![](http://image.joelyings.com/20190827-1.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-2.png)
+![](http://image.joelyings.com/20190827-2.png)
 
 接下来我们来看看我们应该如何获取这些视频
 首先我们看一下这个界面的源代码中没有关于课程视频的信息，那么我们点进去一个视频看看
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-3.png)
+![](http://image.joelyings.com/20190827-3.png)
 
 通过开发者工具我们可以看到左侧都是这次加载视频是动态加载的信息，我们一个个来看
 首先是url，我们可以看到这个链接是 Post 方式请求的（然鹅实际上再通过postman测试可以知道，并不用带上什么参数请求，吓唬人呢...）
-![](http://pw407zrf4.bkt.clouddn.com/20190827-4.png)
+![](http://image.joelyings.com/20190827-4.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-5.png)
+![](http://image.joelyings.com/20190827-5.png)
 这就是url返回的数据，其中 hd 、shd 代表高清、超清的视频类型，而当你访问这个链接后会自动下载一个 m3u8 文件，这介绍一下
 
 m3u8 文件是指UTF-8编码格式的M3U文件。M3U文件是记录了一个索引纯文本文件，打开它时播放软件并不是播放它，而是根据它的索引找到对应的音视频文件的网络地址进行在线播放
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-6.png)
+![](http://image.joelyings.com/20190827-6.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-7.png)
+![](http://image.joelyings.com/20190827-7.png)
 
 而我们下载视频的方式就是通过向m3u8文件中的这些 .ts 的链接发送请求而下载一个个 ts视频流 （暂时这么称呼）
  
 下一个就是 chapters ，这里呢则是包含了所有24章视频的一些基本信息
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-8.png)
+![](http://image.joelyings.com/20190827-8.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-9.png)
+![](http://image.joelyings.com/20190827-9.png)
 
 注意这里的 **vid** 参数，之后我们会用到
-![](http://pw407zrf4.bkt.clouddn.com/20190827-10.png)
+![](http://image.joelyings.com/20190827-10.png)
 这个就是网页上加载的m3u8 文件
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-11.png)
+![](http://image.joelyings.com/20190827-11.png)
 这看似乱码的ts文件下载下来后就是一个几秒钟的视频了
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-12.png)
+![](http://image.joelyings.com/20190827-12.png)
 而我们最后要做的就是将这些 ts 文件合成为一个 mp4 文件
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-13.png)
+![](http://image.joelyings.com/20190827-13.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-14.png)
+![](http://image.joelyings.com/20190827-14.png)
 
 那么如何来操作呢？
 ## 思路
@@ -78,9 +78,9 @@ m3u8 文件是指UTF-8编码格式的M3U文件。M3U文件是记录了一个索�
 
 来跟着代码看一下
 首先小编是在本地先用代码创建好最终合成视频的存放的空文件夹以便访问
-![](http://pw407zrf4.bkt.clouddn.com/20190827-15.png)
+![](http://image.joelyings.com/20190827-15.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-16.png)
+![](http://image.joelyings.com/20190827-16.png)
 
 ```
 def mkd():
@@ -133,19 +133,19 @@ for lessons in chapter['lessons']:
     # 基于中断后，创建文件时判断，若存在该文件夹则跳过对该视频的下载，若不存在则继续
 ```
 对于之后则需要分为两种情况，我不知道菜鸟窝是怎么想的，你可以看到对于有的视频 vid 有具体的数值，有的则是 0
-![](http://pw407zrf4.bkt.clouddn.com/20190827-17.png)
+![](http://image.joelyings.com/20190827-17.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-18.png)
+![](http://image.joelyings.com/20190827-18.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-19.png)
+![](http://image.joelyings.com/20190827-19.png)
 
 也就是说对于 vid 有值的我们可以很容易构造 url 链接从而获取 m3u8 文件进而下载 ts 视频；但是对于没有的来说就麻烦了，我们不能直接构造这个 url 链接
 而对于这一类视频则是这样的
-![](http://pw407zrf4.bkt.clouddn.com/20190827-20.png)
+![](http://image.joelyings.com/20190827-20.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-21.png)
+![](http://image.joelyings.com/20190827-21.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-22.png)
+![](http://image.joelyings.com/20190827-22.png)
 
 这类视频不是通过 m3u8 来处理视频的而是直接给了一个 mp4 的地址，那么也就是说对于 vid 为0的视频我们需要访问
 > https://playvideo.qcloud.com/getplayinfo/v2/1255567694/5285890782726972640
@@ -156,22 +156,22 @@ for lessons in chapter['lessons']:
 而当你去访问这个 MP4 的链接时菜鸟窝会告诉你，你没有权限请求这个链接，what？
 而这时候你要知道所谓爬虫就是模拟人对浏览器进行的操作而获取一定的结果，那么我们可以带上请求头来试试，小编是在用 fiddler 抓包后肯定了这一点，最后测试发现只要带上 header 中的 **referer** 就可以访问
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-23.png)
+![](http://image.joelyings.com/20190827-23.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-24.png)
+![](http://image.joelyings.com/20190827-24.png)
 
 而这个 referer 也是有讲究的，这个后面跟的奇怪的参数正是上述中你们都快忘了的 **key** ，这个是每个 lesson 中都有的
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-25.png)
+![](http://image.joelyings.com/20190827-25.png)
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-26.png)
+![](http://image.joelyings.com/20190827-26.png)
 
 所以对于这种情况，之后只要把请求 MP4 链接后的内容以二进制方式保存就行
 
 此外还要注意对于 ts 文件，在请求时的前缀是
 ``https://vodi97egsxf.vod.126.net/vodi97egsxf/``
 
-![](http://pw407zrf4.bkt.clouddn.com/20190827-27.png)
+![](http://image.joelyings.com/20190827-27.png)
  
 而在合并 ts 文件时，我用的是通过Python调用 windows 自带的合成的命令来合成，但是需要注意合成时候的文件名一定按 001，002，...，010，...，099，100...如此排列；而如果按 1，2，3，...，10，11，...，99，100 则合并不会成功
 

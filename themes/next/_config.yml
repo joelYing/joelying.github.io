@@ -229,7 +229,7 @@ avatar:
   # In theme directory (source/images): /images/avatar.gif
   # In site directory (source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
-  url: http://pw407zrf4.bkt.clouddn.com/%E6%96%91.jpg
+  url: http://image.joelyings.com/%E6%96%91.jpg
   # If true, the avatar would be dispalyed in circle.
   rounded: false
   # If true, the avatar would be rotated with the cursor.

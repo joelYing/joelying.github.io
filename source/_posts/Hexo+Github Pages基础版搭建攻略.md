@@ -8,7 +8,7 @@ comments: true
 description: 毕竟有些人，只是遇见，就已经很美好了
 image: 
 ---
-<img class="joel-img" src="http://pw407zrf4.bkt.clouddn.com/159402564.jpg" >
+<img class="joel-img" src="http://image.joelyings.com/20190904-8.jpg" >
 
 <!-- more -->
 ### 引子
@@ -45,11 +45,11 @@ Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 [Markdown](
 #### GitHub创建个人仓库
 登录到GitHub，如果没有GitHub账号，[注册一个GitHub账号]([https://github.com/join](https://github.com/join)
 )，创建一个名为**username.github.io**的新存储库，其中**username**是你的用户名（或组织名称），如下图
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_171326.png)
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_171003.png)
+![](http://image.joelyings.com/2019-08-13_171326.png)
+![](http://image.joelyings.com/2019-08-13_171003.png)
 创建成功之后，你就能看到已经生成了这样的一个名称为**''username.github.io''**的仓库
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_171053.png)
+![](http://image.joelyings.com/2019-08-13_171053.png)
 
 #### 安装Git
 简单来说Git是开源的分布式版本控制系统，我们网站在本地搭建好了，需要使用Git将项目同步到GitHub上。如果想了解Git的细节，参考[廖雪峰老师的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600/896067074338496
@@ -57,7 +57,7 @@ Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 [Markdown](
 
 安装完成后，右键打开**"Git Bash Here"**，蹦出一个类似命令行窗口的东西，就说明Git安装成功！
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_174055.png)
+![](http://image.joelyings.com/2019-08-13_174055.png)
 
 **在打开的窗口中输入命令设置user.name和user.email配置信息**
 ```
@@ -72,20 +72,20 @@ ssh-keygen -t rsa -C "你的GitHub注册邮箱"
 然后直接三个回车即可，默认不需要设置密码
 然后找到生成的.ssh的文件夹中的id_rsa.pub密钥，将内容全部复制，**.ssh**文件一般在**"C盘下\用户文件夹\管理员文件夹"**下
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_174644.png)
+![](http://image.joelyings.com/2019-08-13_174644.png)
 
 打开[GitHub>Settings>SSH and GPG keys]([https://github.com/settings/keys](https://github.com/settings/keys)
 )页面，新建"New SSH Key"，Title为标题，随意填即可，将刚刚复制的id_rsa.pub内容复制进去，最后点击Add SSH key
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_175102.png)
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_175511.png)
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_175527.png)
+![](http://image.joelyings.com/2019-08-13_175102.png)
+![](http://image.joelyings.com/2019-08-13_175511.png)
+![](http://image.joelyings.com/2019-08-13_175527.png)
 
 在Git Bash中检测GitHub公钥设置是否成功，输入
 ```
 ssh git@github.com
 ```
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_180039.png)
+![](http://image.joelyings.com/2019-08-13_180039.png)
 
 如上则说明成功
 
@@ -121,7 +121,7 @@ hexo init HexoGP
 ```
 这是HexoGP文件夹下生成的内容
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_194007.png)
+![](http://image.joelyings.com/2019-08-13_194007.png)
 
 **public**文件夹下包含有发表的博文及主要页面的HTML文件，**source**下是发表博文以及其他页面的内容的md文件，**themes**则是下载的主题文件
 
@@ -133,7 +133,7 @@ hexo s
 ```
 完成后在浏览器输入: http://localhost:4000/，可以看到我们写出的第一篇博文test
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-12_103210.png)
+![](http://image.joelyings.com/2019-08-12_103210.png)
 
 这是在Hexo默认主题下的页面
 
@@ -173,7 +173,7 @@ deploy:
 npm install hexo-deployer-git --save
 ```
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-12_104023.png)
+![](http://image.joelyings.com/2019-08-12_104023.png)
 红框中的出现是由于fsevent是mac系统的，在win或者Linux下使用了，所以会有警告，忽略即可
 
 fsevent的作用是能够检测文件目录的修改，可以记录恶意软件的非法操作，获取恶意软件的完整路径，删除和修改日期
@@ -185,7 +185,7 @@ hexo g
 hexo d
 ```
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-12_104309.png)
+![](http://image.joelyings.com/2019-08-12_104309.png)
 **可能出现的问题**
 在 **hexo d** 部署的时候
 ```
@@ -210,7 +210,7 @@ fatal: LF would be replaced by CRLF in index.html
 autocrlf = false
 safecrlf = false
 ```
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_190440.png)
+![](http://image.joelyings.com/2019-08-13_190440.png)
 
 ### Hexo个性化配置
 ---
@@ -226,7 +226,7 @@ Hexo提供了很多[主题](https://hexo.io/themes/)，我在大概浏览了近2
 git clone https://github.com/esappear/hexo-theme-clover themes/clover
 ```
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_200005.png)
+![](http://image.joelyings.com/2019-08-13_200005.png)
 
 这是下载完成后**clover**文件夹下的内容，**_config.yml**就是主题配置文件
 
@@ -260,11 +260,11 @@ npm install hexo-renderer-sass --save
 ```
 **Clover**主题可以为文章添加概述以及图片等
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_193430.png)
+![](http://image.joelyings.com/2019-08-13_193430.png)
 
 以及添加新的页面
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_193444.png)
+![](http://image.joelyings.com/2019-08-13_193444.png)
 
 我们来新建一篇博文
 ```
@@ -272,7 +272,7 @@ hexo new "Python爬取视频指南"
 ```
 新建之后我们可以在HexoGP文件夹的source文件下的_posts文件夹下找到**Python爬取视频指南.md**，打开之后就可以用Markdown语法进行编辑
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_194329.png)
+![](http://image.joelyings.com/2019-08-13_194329.png)
 
 **tags**表示这篇文章属于Python标签，**categories**表示属于Python分类，**excerpt**表示概述的内容，**photos**就是文章的封面图片了
 
@@ -290,24 +290,24 @@ hexo new "Python爬取视频指南"
 
 这里主要看一下华为云如何**自定义域名 CNAME 解析**，进入华为云控制台，域名注册服务，进入域名解析，选择其中的一个域名，点击解析
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_201218.png)
+![](http://image.joelyings.com/2019-08-13_201218.png)
 
 点击添加记录集
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_1.png)
+![](http://image.joelyings.com/2019-08-13_1.png)
 
 添加如下
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_2.png)
+![](http://image.joelyings.com/2019-08-13_2.png)
 
 其中，类型选择 CNAME；主机记录：主域名前面的部分，如image.joelyings.com，这里的主机记录就是 image；值就是七牛云域名信息中 CNAME 的值 image.joelyings.com.qiniudns.com
 
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_3.png)
+![](http://image.joelyings.com/2019-08-13_3.png)
 
 
 ### 完成基础版搭建
 ---
 From https://joelying.github.io/
-![](http://pw407zrf4.bkt.clouddn.com/2019-08-13_204402.png)
+![](http://image.joelyings.com/2019-08-13_204402.png)
 
 
 

@@ -9,7 +9,7 @@ description: “看，前面漆黑一片，什么也看不到；也不是，天�
 image:
 ---
 
-<img class="joel-img" src="http://pw407zrf4.bkt.clouddn.com/20190820-1.jpg">
+<img class="joel-img" src="http://image.joelyings.com/20190820-1.jpg">
 
 <!-- more -->
 

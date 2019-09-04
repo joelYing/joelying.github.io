@@ -9,7 +9,7 @@ description: 生活就像一盒巧克力，你永远不知道下一块是什么�
 image:
 ---
 
-<img class="joel-img" src="http://pw407zrf4.bkt.clouddn.com/20190826-2.jpg">
+<img class="joel-img" src="http://image.joelyings.com/20190826-2.jpg">
 
 <!-- more -->
 

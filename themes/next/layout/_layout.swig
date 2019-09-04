@@ -48,6 +48,13 @@
     {%- set container_class = container_class + ' sidebar-position-' + theme.sidebar.position %}
   {%- endif %}
 
+  <!-- APlayer播放器 -->
+  <link rel="stylesheet" href="/dist/APlayer.min.css">
+  <div id="aplayer"></div>
+  <script type="text/javascript" src="/dist/APlayer.min.js"></script>
+  <script type="text/javascript" src="/dist/aplayermusic.js"></script>
+  <!-- APlayer播放器 -->
+
   <div class="{{ container_class }}">
     <div class="headband"></div>
 

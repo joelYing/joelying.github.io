@@ -9,7 +9,7 @@ description: “Good morning, and in case I don't see you, Good afternoon, Good 
 image:
 ---
 
-<img class="joel-img" src="http://pw407zrf4.bkt.clouddn.com/20190829-3.jpg">
+<img class="joel-img" src="http://image.joelyings.com/20190829-3.jpg">
 
 <!-- more -->
 
@@ -27,11 +27,11 @@ image:
 
 在项目新建分支`source`分支（名称随意），在下图中新建即可
 
-![](http://pw407zrf4.bkt.clouddn.com/20190829-1.png)
+![](http://image.joelyings.com/20190829-1.png)
 
 设置`source`为默认分支后，点击`update`更新默认分支
 
-![](http://pw407zrf4.bkt.clouddn.com/20190829-2.png)
+![](http://image.joelyings.com/20190829-2.png)
 
 在任意处新建文件夹`hexo-source`，通过`gitbash`在文件夹下执行`git clone https://github.com/joelYing/joelYing.github.io.git`
 

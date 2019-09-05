@@ -98,5 +98,6 @@ const ap = new APlayer({
         }
     ]
 });
+// 显示/隐藏歌词
 // ap.lrc.hide();
 ap.lrc.toggle();

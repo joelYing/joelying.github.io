@@ -66,7 +66,8 @@ layout: false
 .aword-by {
 	font-family: 'Noto Serif SC', serif;
 	/*font-family: 'TianShiSongTiJiuZiXing';*/
-	margin-left: 1000px;
+	/*margin-left: 1000px;*/
+	margin-left: 67%;
 	line-height: 3;
 	color: #555;
 }

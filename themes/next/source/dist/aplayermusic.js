@@ -18,7 +18,7 @@ const ap = new APlayer({
     // 播放列表的高度
     listMaxHeight: 90,
     // 使用lrc文件提供歌词，3 表示使用Irc文件，0 表示不显示歌词
-    lrcType: 0,
+    lrcType: 3,
     // 网易云默认外链链接：http://music.163.com/song/media/outer/url?id=ID数字.mp3
     audio: [
         {
@@ -98,3 +98,6 @@ const ap = new APlayer({
         }
     ]
 });
+// 显示/隐藏歌词
+// ap.lrc.hide();
+ap.lrc.toggle();

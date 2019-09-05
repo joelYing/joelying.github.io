@@ -98,4 +98,5 @@ const ap = new APlayer({
         }
     ]
 });
-ap.lrc.hide();
+// ap.lrc.hide();
+ap.lrc.toggle();

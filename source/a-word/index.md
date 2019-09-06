@@ -143,6 +143,19 @@ layout: false
 	<div class="section">
 		<div class="aword" style="font-size: 35px">
 			<p class="text">
+        第一秒，远处青山与我视线之间缓缓降下一层雨幕，如棉沙落地，其声极细<br>
+        下一瞬，雨幕如万丈城墙般缓缓逼近眼前，无数雨滴在我眼前急速坠落，如银瓶乍破<br>
+        再回神，我与青山间的这方天地早已牢牢地被笼罩在滂沱雨柱之中
+        	</p>
+    	</div>
+      	<br>
+      	<div class="aword-by" style="font-size: 18px">
+        —— 二零一九年九月六日
+    	</div>
+    </div>
+	<div class="section">
+		<div class="aword" style="font-size: 35px">
+			<p class="text">
         北凉寒苦参差百万户，多少铁衣裹枯骨<br>
         来来来，试看谁是阳间人屠<br>
         来来来，试听谁在敲美人鼓
@@ -627,7 +640,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
 		<div class="slide">
@@ -638,7 +651,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
 		<div class="slide">
@@ -649,7 +662,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
 		<div class="slide">
@@ -660,7 +673,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -672,7 +685,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -683,7 +696,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -694,7 +707,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -705,7 +718,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -717,7 +730,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -731,7 +744,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -742,7 +755,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -754,7 +767,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -765,7 +778,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -776,7 +789,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -787,7 +800,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -798,7 +811,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -809,7 +822,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -820,7 +833,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -831,7 +844,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -842,7 +855,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -854,7 +867,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -865,7 +878,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -876,7 +889,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -895,7 +908,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -907,7 +920,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -918,7 +931,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -929,7 +942,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -940,7 +953,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -954,7 +967,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -965,7 +978,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -976,7 +989,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -987,7 +1000,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -998,7 +1011,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1009,7 +1022,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1020,7 +1033,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1032,7 +1045,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1043,7 +1056,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1061,7 +1074,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1079,11 +1092,22 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
 	</div>
 	<div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 30px">
+				<p class="text">
+	        世间万般难事皆可在女子大腿上办妥
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行》
+	    	</div>
+    	</div>
 		<div class="slide">
 			<div class="aword" style="font-size: 30px">
 				<p class="text">
@@ -1096,7 +1120,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1108,7 +1132,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1120,7 +1144,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1132,7 +1156,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1144,7 +1168,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1160,7 +1184,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1174,7 +1198,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1190,7 +1214,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1201,7 +1225,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1218,7 +1242,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1230,7 +1254,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1241,7 +1265,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1252,7 +1276,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1263,7 +1287,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1276,7 +1300,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1287,7 +1311,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1304,7 +1328,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1315,7 +1339,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1326,7 +1350,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1337,7 +1361,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
     	<div class="slide">
@@ -1348,7 +1372,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        ——《雪中悍刀行》
+	        —— 《雪中悍刀行》
 	    	</div>
     	</div>
 	</div>

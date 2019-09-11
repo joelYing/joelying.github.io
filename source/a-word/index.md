@@ -143,6 +143,18 @@ layout: false
 	<div class="section">
 		<div class="aword" style="font-size: 35px">
 			<p class="text">
+        在你生气又不能改变现实却还忍不住生气时，问问自己<br>
+        生气有用吗？
+        	</p>
+    	</div>
+      	<br>
+      	<div class="aword-by" style="font-size: 18px">
+        —— 二零一九年九月十一日
+    	</div>
+    </div>
+	<div class="section">
+		<div class="aword" style="font-size: 35px">
+			<p class="text">
         第一秒，远处青山与我视线之间缓缓降下一层雨幕，如棉沙落地，其声极细<br>
         下一瞬，雨幕如万丈城墙般缓缓逼近眼前，无数雨滴在我眼前急速坠落，如银瓶乍破<br>
         再回神，我与青山间的这方天地早已牢牢地被笼罩在滂沱雨柱之中

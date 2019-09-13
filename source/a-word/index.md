@@ -143,6 +143,19 @@ layout: false
 	<div class="section">
 		<div class="aword" style="font-size: 35px">
 			<p class="text">
+        画地为牢<br>
+        牢以内，是只有我的天地<br>
+        牢以外，难道就不是我圈住的天地了？
+        	</p>
+    	</div>
+      	<br>
+      	<div class="aword-by" style="font-size: 18px">
+        —— 二零一九年九月十三日
+    	</div>
+    </div>
+	<div class="section">
+		<div class="aword" style="font-size: 35px">
+			<p class="text">
         在你生气又不能改变现实却还忍不住生气时，问问自己<br>
         生气有用吗？
         	</p>

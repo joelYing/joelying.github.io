@@ -141,6 +141,53 @@ layout: false
     	</div>
 	</div>
 	<div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        宇宙便是最大的黑暗<br>
+	        所谓光明，只是黑暗允许存在的光明
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《论黑暗》
+	        </div>
+    	</div>
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        黑暗何需洗白
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《论黑暗》
+	        </div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        黑暗是一种最深邃的神秘，光明算什么
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《论黑暗》
+	        </div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        黑暗，不代表恶，不代表罪，不代表世间差到极点的物质
+				</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《论黑暗》
+	        </div>
+    	</div>
+    </div>
+	<div class="section">
 		<div class="aword" style="font-size: 35px">
 			<p class="text">
         画地为牢<br>

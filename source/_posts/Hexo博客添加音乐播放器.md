@@ -23,7 +23,7 @@ image:
 
 ![](http://image.joelyings.com/20190904-1.png)
 
-点击 后，进入如下页面
+点击后，进入如下页面
 
 ![](http://image.joelyings.com/20190904-2.png)
 

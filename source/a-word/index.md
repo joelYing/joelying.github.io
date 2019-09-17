@@ -24,17 +24,18 @@ layout: false
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.4.0/lib/darkmode-js.min.js"></script>
+<!-- 有字库 -->
+<!-- <script type="text/javascript" src="http://cdn.repository.webfont.com/wwwroot/js/wf/youziku.api.min.js"></script>
 
-
-<!-- <script type="text/javascript" src="https://cdn.repository.webfont.com/wwwroot/js/wf/youziku.api.min.js"></script> -->
-
-<!-- <script type="text/javascript">
-   // $webfont.load(".aword", "ac0bb6d6e9a34f749410cdabb5d85cf1", "TSSunOld");
-   // $webfont.load(".aword-by", "ac0bb6d6e9a34f749410cdabb5d85cf1", "TSSunOld");
+<script type="text/javascript">
+   $webfont.load(".aword", "ac0bb6d6e9a34f749410cdabb5d85cf1", "TSSunOld");
+   $webfont.load(".aword-by", "ac0bb6d6e9a34f749410cdabb5d85cf1", "TSSunOld");
+   /*$webfont.load("#id1,.class1,h1", "ac0bb6d6e9a34f749410cdabb5d85cf1", "TSSunOld");*/
    // $webfont.load(".aword-active", "aa322f4793324e9489db1f729a58fb54", "ChekiangSung");
    /*．．．*/
-   // $webfont.draw();
+   $webfont.draw();
 </script> -->
+<!-- 有字库 -->
 
 <style type="text/css">
 

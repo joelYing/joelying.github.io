@@ -145,6 +145,148 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        我喝过很烈的酒，也放过不该放的手<br>
+	        从前不会回头，往后不会将就
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行》
+	    	</div>
+    	</div>
+    </div>
+	<div class="section">
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	古道，执封天之念， 山河苍生大善，九山海需道劫来 ，吾命无量在
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 耳根 《我欲封天》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	大江南，大江北<br>
+	        	南山南，北凉北<br>
+	        	南方有江南，三千里<br>
+	        	北方有墓碑，三十万
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 烽火戏诸侯 《雪中悍刀行》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	天不生夫子，万古长如夜
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 猫腻 《将夜》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	再从头，多少美好不放手
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 风凌天下 《傲世九重天》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	我王林一生不跪天地，不跪父母，只敬司徒！
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 耳根 《仙逆》
+	    	</div>
+    	</div>
+    </div>
+	<div class="section">
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	一身转战三千里，一剑曾当百万师
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 王维 《老将行》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	我见青山多妩媚，料青山见我应如是
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 辛弃疾 《贺新郎·甚矣吾衰矣》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	今朝有酒今朝醉，明日愁来明日愁
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 罗隐 《自遣》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	且将新火试新茶，诗酒趁年华
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 苏轼 《望江南·超然台作》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	待到秋来九月八，我花开后百花杀
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 黄巢 《不第后赋菊》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	为天地立心，为生民立命，为往圣继绝学，为万世开太平
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 北宋·张载
+	    	</div>
+    	</div>
+    </div>
+	<div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        宇宙便是最大的黑暗<br>
 	        所谓光明，只是黑暗允许存在的光明
 				</p>

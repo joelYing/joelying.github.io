@@ -155,6 +155,19 @@ layout: false
 	    	</div>
     	</div>
     </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        我与鹭对望一眼，望穿千年，他，身披黑金蟒袍
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 二零一九年九月二十四日
+	    	</div>
+    	</div>
+    </div>
 	<div class="section">
     	<div class="slide">
 			<div class="aword" style="font-size: 35px">

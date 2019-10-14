@@ -17,13 +17,17 @@ layout: false
 <link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap" rel="stylesheet">
+<!-- <link rel="stylesheet" type="text/css" href="../../themes/next/source/font/tsst.css"> -->
 <!-- font-family: 'ZCOOL XiaoWei', serif; -->
 <!-- font-family: 'Zhi Mang Xing', cursive; -->
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.js"></script>
 
-<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.4.0/lib/darkmode-js.min.js"></script>
+<!-- 夜间模式 -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.4.0/lib/darkmode-js.min.js"></script> -->
+<!-- 夜间模式 -->
+
 <!-- 有字库 -->
 <!-- <script type="text/javascript" src="http://cdn.repository.webfont.com/wwwroot/js/wf/youziku.api.min.js"></script>
 
@@ -38,19 +42,23 @@ layout: false
 <!-- 有字库 -->
 
 <style type="text/css">
-
-/*@font-face {
-  font-family: 'TianShiSongTiJiuZiXing';
-  src: url('TianShiSongTiJiuZiXing.ttf') format('truetype');
+@font-face {
+  font-family: "tsst";
+  src: url("../../themes/next/source/font/tsst.woff2") format("woff2"),
+       url("../../themes/next/source/font/tsst.woff") format("woff"),
+       url("../../themes/next/source/font/tsst.ttf") format("truetype"),
+       url("../../themes/next/source/font/tsst.eot") format("embedded-opentype"),
+       url("../../themes/next/source/font/tsst.svg") format("svg"),
+       url("../../themes/next/source/font/tsst.otf") format("opentype");
 }
-*/
+
 .text {
 	text-align: left;
 	display: inline-block;
 }
 .aword {
-	font-family: 'Noto Serif SC', serif;
-	/*font-family: 'TianShiSongTiJiuZiXing';*/
+	/*font-family: 'Noto Serif SC', serif;*/
+	font-family:'tsst';
 	/*width: 300px;*/
 	/*margin: 50px auto;*/
 	/*border: 1px solid red;*/
@@ -65,8 +73,8 @@ layout: false
 	margin-top: 50;
 }
 .aword-by {
-	font-family: 'Noto Serif SC', serif;
-	/*font-family: 'TianShiSongTiJiuZiXing';*/
+	/*font-family: 'Noto Serif SC', serif;*/
+	font-family:'tsst';
 	/*margin-left: 1000px;*/
 	margin-left: 67%;
 	line-height: 3;

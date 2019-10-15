@@ -17,7 +17,6 @@ layout: false
 <link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap" rel="stylesheet">
-<!-- <link rel="stylesheet" type="text/css" href="../../themes/next/source/font/tsst.css"> -->
 <!-- font-family: 'ZCOOL XiaoWei', serif; -->
 <!-- font-family: 'Zhi Mang Xing', cursive; -->
 
@@ -44,14 +43,13 @@ layout: false
 <style type="text/css">
 @font-face {
   font-family: "tsst";
-  src: url("../../themes/next/source/font/tsst.woff2") format("woff2"),
-       url("../../themes/next/source/font/tsst.woff") format("woff"),
-       url("../../themes/next/source/font/tsst.ttf") format("truetype"),
-       url("../../themes/next/source/font/tsst.eot") format("embedded-opentype"),
-       url("../../themes/next/source/font/tsst.svg") format("svg"),
-       url("../../themes/next/source/font/tsst.otf") format("opentype");
+  src: url("../font/tsst.woff2") format("woff2"),
+       url("../font/tsst.woff") format("woff"),
+       url("../font/tsst.ttf") format("truetype"),
+       url("../font/tsst.eot") format("embedded-opentype"),
+       url("../font/tsst.svg") format("svg"),
+       url("../font/tsst.otf") format("opentype");
 }
-
 .text {
 	text-align: left;
 	display: inline-block;

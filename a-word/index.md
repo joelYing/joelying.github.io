@@ -1,3 +1,8 @@
+---
+title: a-word
+date: 2019-08-24 16:06:15
+layout: false
+---
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -37,7 +42,7 @@
 <!-- 有字库 -->
 
 <style type="text/css">
-/*@font-face {
+@font-face {
   font-family: "tsst";
   src: url("../../themes/next/source/font/tsst.woff2") format("woff2"),
        url("../../themes/next/source/font/tsst.woff") format("woff"),
@@ -45,8 +50,7 @@
        url("../../themes/next/source/font/tsst.eot") format("embedded-opentype"),
        url("../../themes/next/source/font/tsst.svg") format("svg"),
        url("../../themes/next/source/font/tsst.otf") format("opentype");
-}*/
-
+}
 .text {
 	text-align: left;
 	display: inline-block;

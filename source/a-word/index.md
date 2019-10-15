@@ -225,7 +225,7 @@ layout: false
     	<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
-	        	我王林一生不跪天地，不跪父母，只敬司徒！
+	        	我王林一生，不拜天地，不信鬼神，只跪父母，只敬司徒！
 	        	</p>
 	    	</div>
 	      	<br>

@@ -17,7 +17,7 @@ layout: false
 <link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap" rel="stylesheet">
-<!-- <link rel="stylesheet" type="text/css" href="../../themes/next/source/font/tsst.css"> -->
+<link rel="stylesheet" type="text/css" href="http://image.joelyings.com/tsst.css">
 <!-- font-family: 'ZCOOL XiaoWei', serif; -->
 <!-- font-family: 'Zhi Mang Xing', cursive; -->
 
@@ -42,7 +42,7 @@ layout: false
 <!-- 有字库 -->
 
 <style type="text/css">
-@font-face {
+/*@font-face {
   font-family: "tsst";
   src: url("../../themes/next/source/font/tsst.woff2") format("woff2"),
        url("../../themes/next/source/font/tsst.woff") format("woff"),
@@ -50,14 +50,14 @@ layout: false
        url("../../themes/next/source/font/tsst.eot") format("embedded-opentype"),
        url("../../themes/next/source/font/tsst.svg") format("svg"),
        url("../../themes/next/source/font/tsst.otf") format("opentype");
-}
+}*/
 .text {
 	text-align: left;
 	display: inline-block;
 }
 .aword {
 	/*font-family: 'Noto Serif SC', serif;*/
-	font-family:'tsst';
+	/*font-family:'tsst';*/
 	/*width: 300px;*/
 	/*margin: 50px auto;*/
 	/*border: 1px solid red;*/
@@ -73,7 +73,7 @@ layout: false
 }
 .aword-by {
 	/*font-family: 'Noto Serif SC', serif;*/
-	font-family:'tsst';
+	/*font-family:'tsst';*/
 	/*margin-left: 1000px;*/
 	margin-left: 67%;
 	line-height: 3;

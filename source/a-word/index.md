@@ -10,6 +10,7 @@ layout: false
 <title>言 · 一</title>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.css"/>
+<!-- 在使用字蛛压缩时需要将下一条font-awesome，以及Google font的三条注释，否则报错 -->
 <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
 <!-- <link rel="stylesheet" type="text/css" href="http://image.joelyings.com/aword.css" /> -->
 
@@ -41,14 +42,15 @@ layout: false
 <!-- 有字库 -->
 
 <style type="text/css">
+/* 字蛛不支持otf */
 @font-face {
   font-family: "tsst";
   src: url("../font/tsst.woff2") format("woff2"),
        url("../font/tsst.woff") format("woff"),
        url("../font/tsst.ttf") format("truetype"),
        url("../font/tsst.eot") format("embedded-opentype"),
-       url("../font/tsst.svg") format("svg"),
-       url("../font/tsst.otf") format("opentype");
+       url("../font/tsst.svg") format("svg");
+       /*url("../font/tsst.otf") format("opentype");*/
 }
 .text {
 	text-align: left;

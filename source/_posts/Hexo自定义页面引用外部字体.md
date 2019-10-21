@@ -88,9 +88,94 @@ layout: false
 
 还有一点就是页面加载起来可能有点慢
 
+## 加速
+
+通过[字蛛](https://github.com/aui/font-spider)压缩字体文件
+
+将NodeJS更新至最新版本，Linux可用n命令，但是windows下不行，所以从[官网](https://nodejs.org/en/)重新下载后，安装
+
+然后，在博客项目文件夹下安装
+
+```
+npm install font-spider -g
+```
+
+完成结果
+
+```
+$ npm install font-spider -g
+C:\Users\xx\AppData\Roaming\npm\font-spider -> C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\bin\font-spider
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\font-spider\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ font-spider@1.3.5
+updated 1 package in 82.213s
+```
+
+注意CSS中的font-face，字蛛不支持otf
+
+```css
+@font-face {
+  font-family: "tsst";
+  src: url("../font/tsst.woff2") format("woff2"),
+       url("../font/tsst.woff") format("woff"),
+       url("../font/tsst.ttf") format("truetype"),
+       url("../font/tsst.eot") format("embedded-opentype"),
+       url("../font/tsst.svg") format("svg");
+       /*url("../font/tsst.otf") format("opentype");*/
+}
+```
+
+然后执行
+
+```
+$ font-spider source/a-word/index.md
+```
+
+但是我的过程中出现了报错，如下
+
+```[] 第一个
+$ font-spider source/a-word/index.md
+Error: does not support remote path "https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?"
+    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:32:23
+    at Array.forEach (<anonymous>)
+    at Compress.<anonymous> (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:30:23)
+    at new Promise (<anonymous>)
+    at new Compress (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:18:12)
+    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:224:16
+    at Array.map (<anonymous>)
+    at module.exports (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:223:37)
+    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\bin\font-spider:174:16
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+```
+
+```[] 第二个
+$ font-spider source/a-word/index.md
+Error: does not support remote path "https://fonts.gstatic.com/s/notoserifsc/v6/H4chBXePl9DZ0Xe7gG9cyOj7kqGWbQ.otf"
+    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:32:23
+    at Array.forEach (<anonymous>)
+    at Compress.<anonymous> (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:30:23)
+    at new Promise (<anonymous>)
+    at new Compress (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:18:12)
+    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:224:16
+    at Array.map (<anonymous>)
+    at module.exports (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:223:37)
+    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\bin\font-spider:174:16
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+```
+
+判断后发现与`index.md`文件开头的引用有关，一个是font-awesome，另外则是GoogleFont的引用，于是在注释这几条内容后重新压缩，即可成功
+
+![](http://image.joelyings.com/20191021-1.png)
+
+`.font-spider`文件夹中保存着字体ttf备份文件
+
 ## 参考
 
 [田氏宋体旧字形字体](http://font.chinaz.com/120816346470.htm)
+[字蛛](http://font-spider.org/)
 [@font-face生成器](https://www.fontke.com/tool/fontface/)
 [css3里面怎么引用外部字体包，不再是单调的微软雅黑和宋体](https://blog.csdn.net/h_maggie/article/details/80851916)
 [hexo的yelee主题使用本地自己指定的自定义字体](https://blog.csdn.net/appleyuchi/article/details/92846473)
@@ -99,3 +184,6 @@ layout: false
 [Hexo不渲染.md或者.html](https://blog.csdn.net/ganzhilin520/article/details/79057774)
 [awesome blog type-Hexo NexT主题自定义友链页面](https://leafjame.github.io/posts/1123041323.html)
 [解决引用外部字体后页面加载速度变慢](https://blog.csdn.net/appleyuchi/article/details/93362783)
+[前端解决中文字体加载慢的问题](https://www.jianshu.com/p/3a2c7272269d?utm_campaign)
+[【ttf 压缩】html网页引用中文字体，文件过大，加载缓慢的解决办法【字蛛】【web font】](https://blog.csdn.net/yueyemoyan/article/details/52004203)
+[html网页引用中文字体，解决加载缓慢办法](https://blog.csdn.net/weixin_30443731/article/details/95472571)

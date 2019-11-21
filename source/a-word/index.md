@@ -877,40 +877,7 @@ layout: false
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        —— 《雪中悍刀行 - 羊皮裘老头》
-	    	</div>
-    	</div>
-		<div class="slide">
-			<div class="aword" style="font-size: 35px">
-				<p class="text">
-	        天不生你李淳罡，真的很无趣呢
-	        	</p>
-	    	</div>
-	      	<br>
-	      	<div class="aword-by" style="font-size: 18px">
-	        —— 《雪中悍刀行 - 羊皮裘老头》
-	    	</div>
-    	</div>
-    	<div class="slide">
-			<div class="aword" style="font-size: 35px">
-				<p class="text">
-	        王仙芝，李淳罡来访东海，借满城剑与你一战！
-	        	</p>
-	    	</div>
-	      	<br>
-	      	<div class="aword-by" style="font-size: 18px">
-	        —— 《雪中悍刀行 - 羊皮裘老头》
-	    	</div>
-    	</div>
-    	<div class="slide">
-			<div class="aword" style="font-size: 35px">
-				<p class="text">
-	        御剑行江阅沧海，举剑乾坤笑问天
-	        	</p>
-	    	</div>
-	      	<br>
-	      	<div class="aword-by" style="font-size: 18px">
-	        —— 《雪中悍刀行 - 羊皮裘老头》
+	        —— 《雪中悍刀行 - 李淳罡》
 	    	</div>
     	</div>
     </div>

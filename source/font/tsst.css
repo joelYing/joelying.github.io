@@ -2,20 +2,11 @@
 
 @font-face {
   font-family: "tsst";
-  src: url("http://image.joelyings.com/tsst.woff2") format("woff2"),
-       url("http://image.joelyings.com/tsst.woff") format("woff"),
-       url("http://image.joelyings.com/tsst.ttf") format("truetype"),
-       url("http://image.joelyings.com/tsst.eot") format("embedded-opentype"),
-       url("http://image.joelyings.com/tsst.svg") format("svg"),
-       url("http://image.joelyings.com/tsst.otf") format("opentype");
+  src: url("tsst.woff2") format("woff2"),
+       url("tsst.woff") format("woff"),
+       url("tsst.ttf") format("truetype"),
+       url("tsst.eot") format("embedded-opentype"),
+       url("tsst.svg") format("svg");
   font-weight: normal;
   font-style: normal;
-}
-
-.aword {
-	font-family:'tsst';
-}
-
-.aword-by {
-	font-family:'tsst';
 }

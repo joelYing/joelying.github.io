@@ -137,15 +137,15 @@ $ font-spider source/a-word/index.md
 ```[] 第一个
 $ font-spider source/a-word/index.md
 Error: does not support remote path "https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?"
-    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:32:23
+    at C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:32:23
     at Array.forEach (<anonymous>)
-    at Compress.<anonymous> (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:30:23)
+    at Compress.<anonymous> (C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:30:23)
     at new Promise (<anonymous>)
-    at new Compress (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:18:12)
-    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:224:16
+    at new Compress (C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:18:12)
+    at C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:224:16
     at Array.map (<anonymous>)
-    at module.exports (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:223:37)
-    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\bin\font-spider:174:16
+    at module.exports (C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:223:37)
+    at C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\bin\font-spider:174:16
     at processTicksAndRejections (internal/process/task_queues.js:93:5)
 
 ```
@@ -153,15 +153,15 @@ Error: does not support remote path "https://cdn.staticfile.org/font-awesome/4.7
 ```[] 第二个
 $ font-spider source/a-word/index.md
 Error: does not support remote path "https://fonts.gstatic.com/s/notoserifsc/v6/H4chBXePl9DZ0Xe7gG9cyOj7kqGWbQ.otf"
-    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:32:23
+    at C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:32:23
     at Array.forEach (<anonymous>)
-    at Compress.<anonymous> (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:30:23)
+    at Compress.<anonymous> (C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:30:23)
     at new Promise (<anonymous>)
-    at new Compress (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:18:12)
-    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:224:16
+    at new Compress (C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:18:12)
+    at C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:224:16
     at Array.map (<anonymous>)
-    at module.exports (C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:223:37)
-    at C:\Users\家乐\AppData\Roaming\npm\node_modules\font-spider\bin\font-spider:174:16
+    at module.exports (C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\src\compressor\index.js:223:37)
+    at C:\Users\xx\AppData\Roaming\npm\node_modules\font-spider\bin\font-spider:174:16
     at processTicksAndRejections (internal/process/task_queues.js:93:5)
 
 ```

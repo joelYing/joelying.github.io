@@ -11,6 +11,7 @@ layout: false
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.css"/>
 <!-- 在使用字蛛压缩时需要将下一条font-awesome，以及Google font的三条注释，否则报错 -->
+<!-- 还有一点，以后注意此页面更新后，字蛛能否自动更新，并压缩新添加的文字 -->
 <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
 <!-- <link rel="stylesheet" type="text/css" href="http://image.joelyings.com/aword.css" /> -->
 
@@ -867,6 +868,52 @@ layout: false
         —— 二零一九年八月二十九日
     	</div>
     </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        世间剑士独我李淳罡一人，世间名剑独我木马牛一柄
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 - 羊皮裘老头》
+	    	</div>
+    	</div>
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        天不生你李淳罡，真的很无趣呢
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 - 羊皮裘老头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        王仙芝，李淳罡来访东海，借满城剑与你一战！
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 - 羊皮裘老头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        御剑行江阅沧海，举剑乾坤笑问天
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 - 羊皮裘老头》
+	    	</div>
+    	</div>
+    </div>
 	<div class="section">
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
@@ -1086,7 +1133,7 @@ layout: false
     	<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
-	        你是我的禅，秀色可“参”
+	        你是我的禅，秀色可参
 	        	</p>
 	    	</div>
 	      	<br>

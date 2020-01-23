@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[本地项目提交至GitHub仓库简述]]></title>
+    <url>%2F%2Fblog%2F%E6%9C%AC%E5%9C%B0%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BA%A4%E8%87%B3GitHub%E4%BB%93%E5%BA%93%E7%AE%80%E8%BF%B0.html</url>
+    <content type="text"><![CDATA[适用情况：本地有一个项目，github上新建了一个仓库只需要进行下面几步就能把本地项目上传到Github：1、在本地创建一个版本库（即文件夹），通过git init把它变成Git仓库2、把项目下的文件复制到这个文件夹里面，再通过git add .把项目添加到仓库3、再通过git commit -m “注释内容”把项目提交到仓库4、看C盘的用户目录下有没有.ssh目录，有的话看下里面有没有id_rsa和id_rsa.pub这两个文件，没有就通过下面命令创建1ssh-keygen -t rsa -C "youremail@example.com"然后登录Github，找到右上角的图标，打开点进里面的Settings，再选中里面的SSH and GPG KEYS，点击右上角的New SSH key，然后Title里面随便填，再把刚才id_rsa.pub里面的内容复制到Title下面的Key内容框里面，最后点击Add SSH key，这样就完成了SSH Key的加密5、新建一个远程仓库，通过git remote add origin https://github.com/xxx/xxx.git将本地仓库和远程仓库进行关联6、最后通过1git push -u origin master把本地仓库的项目推送到远程仓库（也就是Github）上，（若新建远程仓库的时候自动创建了README文件会报错，error: failed to push some refs to &#39;https://github.com/xxx/xxx.git&#39; ）这时候可以，强制合并1git push -u origin master --force以后只需要git push origin master即可]]></content>
+      <categories>
+        <category>Git</category>
+      </categories>
+      <tags>
+        <tag>Git</tag>
+        <tag>github</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[pymysql流式游标]]></title>
     <url>%2F%2Fblog%2Fpymysql%E6%B5%81%E5%BC%8F%E6%B8%B8%E6%A0%87.html</url>
     <content type="text"><![CDATA[Python通过pymysql操作向mysql读取千万、百万级别的数据库时如果用传统的fetchall()或fetchone()方法，都是先默认在内存里缓存下所有行然后再处理，大量的数据会导致内存资源消耗光，内存容易溢出此时则建议使用SSCursor(流式游标)，避免客户端占用大量内存这个 cursor 实际上没有缓存下来任何数据，它不会读取所有所有到内存中，它的做法是从储存块中读取记录，并且一条一条返回给你,使用迭代器而不用 fetchall ,即省内存又能很快拿到数据例：1234567891011121314151617def select_pan_url(self): db = pymysql.connect(host='localhost', port=3306, user='root', passwd='', db='') cursor = db.cursor(cursor=pymysql.cursors.SSDictCursor) select_sql = "select `name`, `detail_url`, `pan_title`, `pan_psw`, `pan_real_url` from agepan_wj" try: cursor.execute(select_sql) # 在处理大量数据时可以分割进行 datas = cursor.fetchall() for pan in datas: self.row_lists.append(pan) except Exception as e: print('取数据失败', e) db.rollback() finally: cursor.close() db.close()需要注意的是：因为SSCursor是没有缓存的游标，结果集只要没取完，这个connect是不能再处理别的sql，包括另外生成一个cursor 也不行的，如果需要干别的，请另外再生成一个连接对象每次读取后处理数据要快，不能超过 60 s，否则mysql将会断开这次连接也可以修改SET NET_WRITE_TIMEOUT = xx来增加超时间隔]]></content>

@@ -1348,7 +1348,7 @@ layout: false
 	</div>
 	<div class="section">
 		<div class="slide">
-			<div class="aword" style="font-size: 30px">
+			<div class="aword" style="font-size: 35px">
 				<p class="text">
 	        世间万般难事皆可在女子大腿上办妥
 	        	</p>

@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[pymysql流式游标]]></title>
+    <url>%2F%2Fblog%2Fpymysql%E6%B5%81%E5%BC%8F%E6%B8%B8%E6%A0%87.html</url>
+    <content type="text"><![CDATA[Python通过pymysql操作向mysql读取千万、百万级别的数据库时如果用传统的fetchall()或fetchone()方法，都是先默认在内存里缓存下所有行然后再处理，大量的数据会导致内存资源消耗光，内存容易溢出此时则建议使用SSCursor(流式游标)，避免客户端占用大量内存这个 cursor 实际上没有缓存下来任何数据，它不会读取所有所有到内存中，它的做法是从储存块中读取记录，并且一条一条返回给你,使用迭代器而不用 fetchall ,即省内存又能很快拿到数据例：1234567891011121314151617def select_pan_url(self): db = pymysql.connect(host='localhost', port=3306, user='root', passwd='', db='') cursor = db.cursor(cursor=pymysql.cursors.SSDictCursor) select_sql = "select `name`, `detail_url`, `pan_title`, `pan_psw`, `pan_real_url` from agepan_wj" try: cursor.execute(select_sql) # 在处理大量数据时可以分割进行 datas = cursor.fetchall() for pan in datas: self.row_lists.append(pan) except Exception as e: print('取数据失败', e) db.rollback() finally: cursor.close() db.close()需要注意的是：因为SSCursor是没有缓存的游标，结果集只要没取完，这个connect是不能再处理别的sql，包括另外生成一个cursor 也不行的，如果需要干别的，请另外再生成一个连接对象每次读取后处理数据要快，不能超过 60 s，否则mysql将会断开这次连接也可以修改SET NET_WRITE_TIMEOUT = xx来增加超时间隔]]></content>
+      <categories>
+        <category>MySQL</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>mysql</tag>
+        <tag>pymysql</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Scrapy命令行动态传参给spider]]></title>
+    <url>%2F%2Fblog%2FScrapy%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8A%A8%E6%80%81%E4%BC%A0%E5%8F%82%E7%BB%99spider.html</url>
+    <content type="text"><![CDATA[scrapy命令行执行传递多个参数给spider 动态传参在命令行运行scrapy爬虫1scrapy crawl spider_name若爬虫中有参数可以控制爬取的页数，那么想要在输入命令行命令时传递页数给爬虫，就可以这样做在spider中定义一个构造函数12345678910111213141516171819def __init__(self, pages=None, *args, **kwargs): super(LvideoSpider, self).__init__(*args, **kwargs) # super().__init__(**kwargs) self.pages = pages ...def parse(self, response): pages = re.findall(r'当前:1/(\d+)页', response.text, re.S)[0] link = response.meta['format_page'] # 如果self.pages存在，那么就会代替正则取到的页数 if self.pages: pages = self.pages print('共' + str(pages) + '页') for page in range(1, int(pages) + 1): page_link = link.format(page) yield Request(page_link, callback=self.parse_video_link, meta=&#123;'soucre_name': response.meta['soucre_name'], 'domin': response.meta['domin'], 'page_link': page_link&#125;, dont_filter=True)然后在启动scrapy的时候就可以赋予参数的值：1scrapy crawl spider_name -a page=10这样就控制了爬取页数为10页]]></content>
+      <categories>
+        <category>Scrapy</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>Scarpy</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[mysql保存数据时含有单引号报错方法]]></title>
     <url>%2F%2Fblog%2FPython%E6%93%8D%E4%BD%9Cmysql%E4%BF%9D%E5%AD%98%E6%95%B0%E6%8D%AE%E6%97%B6%E8%A7%A3%E5%86%B3%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%90%AB%E6%9C%89%E5%8D%95%E5%BC%95%E5%8F%B7%E6%8A%A5%E9%94%99%E6%96%B9%E6%B3%95.html</url>
     <content type="text"><![CDATA[方法mysql在保存视频名称时遇到的数据插入错误，查一下原因发现报错视频名称主要都带有&#39;单引号，会导致SQL语句被截断，从而产生错误解决办法如下：替换成两个单引号即可1name = str(name).replace('\'', '\'\'')]]></content>

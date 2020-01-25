@@ -566,6 +566,86 @@ curl http://IP:6800/schedule.json -d project=LVideoSpider -d spider=lvideo -d pa
 
 win系统curl需要[下载](https://curl.haxx.se/download.html#Win64), 然后将解压目录下的bin目录加入path环境变量中即可在windows的命令行使用
 
+#### 第六步
+
+追加使用[spiderkeeper](https://github.com/DormyMo/SpiderKeeper)来实现爬虫的定时功能
+
+1. 在原来的基础上安装以下依赖：
+
+``` python
+pip3 install scrapy_redis 
+pip3 install spiderkeeper
+```
+
+前面已经修改过可以使外网访问到我们的IP，但是还需要开通另一个安全组入口配置5000(spiderkeeper)
+
+运行spiderkeeper(我这里还真奇了怪了，很多人的博客都说直接输入spiderkeeper就能启动，我试了半天啥都没有，最后跟前面的一样加上所在的路径才成功启动，难道我pip3安装了个鬼？)
+
+```
+'/usr/local/python3/bin/spiderkeeper'
+
+# 后台运行
+[root@VM_0_14_centos ~]# nohup '/usr/local/python3/bin/spiderkeeper' & 
+[1] 17355
+[root@VM_0_14_centos ~]# nohup: ignoring input and appending output to ‘nohup.out’
+```
+
+要想直接输入spiderkeeper就运行，需要创建软连接，scrapyd也是同理：
+```
+ln -s /usr/local/python3/bin/spiderkeeper  /usr/bin/spiderkeeper
+```
+
+之后直接输入spiderkeeper就能运行spiderkeeper了！！！
+
+2. 接着我们访问[http://IP:5000](http://IP:5000)，账号密码初始都是`admin`
+
+![](http://image.joelyings.com/2020-01-25_12.png)
+
+接着在本地项目根目录下给爬虫打包
+``` python
+scrapyd-deploy --build-egg output.egg
+```
+
+```
+D:\Python\PycharmProject\LVideoSpider>scrapyd-deploy --build-egg output.egg
+Writing egg to output.egg
+```
+
+然后在spiderkeeper可视化界面点击creat project，点击创建，跳到deploy界面，上传output.egg文件，点击submit
+
+若出现`deploy success`说明部署成功
+
+部署完后，点击`Dashboard`这个按钮，再选择你创建的项目，然后点击`RunOnce`按钮创建爬虫
+
+点击后会出现
+
+![](http://image.joelyings.com/2020-01-25_13.png)
+
+其中`Args`可以让你输入传给爬虫的参数，这里我传入的参数就是爬取的页数，其他选项一般不用动，然后点击CREATE，刷新页面就可以看到你的爬虫正在运行了
+
+3. *Periodic Jobs*
+
+定时任务，点击右上角的addjobs后可以添加任务，除了之前有的选项之后还可以设置每个月/每星期/每天/每小时/每分钟 的定时爬虫
+
+```
+m h dom mon dow
+0 0/4 * * *                  # 每隔4小时运行一次
+```
+
+4. *Running Stats*
+
+查看爬虫的运行情况，只能显示时间段爬虫的存活情况
+
+5. *Manage*
+
+如果要删除任务可以在这里删除
+
+
+### 总结
+
+现在`scrapyd`一直在服务器后台运行着，只要本地执行命令就可以把本地的scrapy项目部署上去，然后可以在cmd命令行或者服务器端输入`curl`命令来启动爬虫等操作
+
+加入spiderkeeper后，spiderkeeper同时运行在服务器端，只要把本地项目生成的egg上传到spiderkeeper，就可以在spiderkeeper这个可视化界面上运行爬虫，设置定时爬取等
 
 ### 参考
 [部署scrapy项目到腾讯云服务器，并操作爬虫](https://blog.csdn.net/u014775723/article/details/86669151)
@@ -574,4 +654,6 @@ win系统curl需要[下载](https://curl.haxx.se/download.html#Win64), 然后将
 [腾讯云Centos7 安装Mysql5.7](https://www.cnblogs.com/yesicando/p/11840803.html)
 [Scrapyd documentation](https://scrapyd.readthedocs.io/en/latest/overview.html)
 [Windows安装curl及基本命令](https://blog.csdn.net/qq_37958578/article/details/79973265)
-[]()
+[在linux下安装并运行scrapyd](https://www.cnblogs.com/ss-py/p/9661928.html)
+[SpiderKeeper的使用](https://www.jianshu.com/p/88ddeac92a6d)
+[m h dom mon dow](https://blog.csdn.net/chengui5219/article/details/100703377)

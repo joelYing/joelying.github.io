@@ -557,7 +557,7 @@ curl http://<公网IP>:6800/cancel.json -d project=<项目名称> -d job=<JOBID>
 curl http://localhost:6800/schedule.json -d project=myproject -d spider=somespider -d setting=DOWNLOAD_DELAY=2 -d arg1=val1
 
 # 我的例子，额外传递参数pages=20
-curl http://49.235.203.45:6800/schedule.json -d project=LVideoSpider -d spider=lvideo -d pages=20
+curl http://IP:6800/schedule.json -d project=LVideoSpider -d spider=lvideo -d pages=20
 ```
 
 ![](http://image.joelyings.com/2020-01-25_8.png)

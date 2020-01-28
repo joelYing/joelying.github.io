@@ -326,7 +326,7 @@ select host, user from user;
 update user set host='%' where user ='root';
 ```
 
-指定用户IP远程访问
+指定用户IP远程访问(这个IP最好是你的服务器IP和你所在网络的IP，如果设置为%的话有比较大的安全问题)
 
 ```
 # 若想避免mysql5.7的密码校验

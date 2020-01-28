@@ -222,7 +222,9 @@ File "/usr/local/python3/lib/python3.6/site-packages/django/db/backends/mysql/ba
 django.core.exceptions.ImproperlyConfigured: mysqlclient 1.3.13 or newer is required; you have 0.7.11.None.
 ```
 
-找了找资料，django2.2和pymysql版本不匹配。mysqldb不支持python3 参考[django.core.exceptions.ImproperlyConfigured: mysqlclient 1.3.13 or newer is required; you have 0.9.2](https://blog.csdn.net/weixin_45476498/article/details/100098297)
+找了找资料，django2.2和pymysql版本不匹配。mysqldb不支持python3
+
+参考[django.core.exceptions.ImproperlyConfigured: mysqlclient 1.3.13 or newer is required; you have 0.9.2](https://blog.csdn.net/weixin_45476498/article/details/100098297)
 
 解决办法：
 
@@ -234,8 +236,8 @@ vi /usr/local/python3/lib/python3.6/site-packages/django/db/backends/mysql/base.
 
 将文件中的如下代码注释即可
 ``` python
-if version < (1, 3, 3):
-    raise ImproperlyConfigured("mysqlclient 1.3.3 or newer is required; you have %s" % Database.__version__)
+# if version < (1, 3, 3):
+#     raise ImproperlyConfigured("mysqlclient 1.3.3 or newer is required; you have %s" % Database.__version__)
 ```
 
 接着
@@ -532,7 +534,9 @@ systemctl start nginx.service
 
 然后一定一定可以看到8088端口的页面，我发四(前前后后调整了10多次)！！！
 
-如果你的项目界面变得非常low，那么是因为你还没配置nginx解析静态文件，在nginx.conf的 location / {} 前面加上Django项目静态文件夹的路径
+如果你的项目界面变得非常low，那么是因为你还没配置nginx解析静态文件
+
+在nginx.conf的`location / {}`前面加上Django项目静态文件夹的路径
 
 ```
 location /static/ {

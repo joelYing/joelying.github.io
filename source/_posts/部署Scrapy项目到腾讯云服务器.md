@@ -326,6 +326,15 @@ select host, user from user;
 update user set host='%' where user ='root';
 ```
 
+指定用户IP远程访问
+
+```
+# 若想避免mysql5.7的密码校验
+# set global validate_password_policy=0;
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'xxx.xxx.xxx.xxx' IDENTIFIED BY 'password' WITH GRANT OPTION;
+```
+
 然后使用下面命令使修改生效：
 ```
 flush privileges;

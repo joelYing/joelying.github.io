@@ -3028,13 +3028,13 @@ found 6 vulnerabilities (4 low, 2 high)
 
 再安装
 ``` bash
-npm install eslint@4.12.1 --save-dev
+npm install eslint@4.18.2 --save-dev
 ```
 
 好像不用管这些警告......直接修改如下
 
 ``` [_config.yml]
-permalink: posts/:abbrlink/
+permalink: post/:abbrlink.html
 permalink_defaults:
 
 # abbrlink config

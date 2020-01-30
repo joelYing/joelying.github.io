@@ -2557,6 +2557,10 @@ font:
   enable: false
 ```
 
+#### Coding仓库
+
+[Hexo博客之速度优化](https://www.jianshu.com/p/93b63852f0b3)
+
 ### 未添加功能
 ---
 

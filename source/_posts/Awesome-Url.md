@@ -1,11 +1,14 @@
 ---
 title: Awesome Url
-tags: [Url, Blog]
-date: 2019-08-20 14:13:28
-permalink:
+tags:
+  - Url
+  - Blog
 comments: true
 categories: Url
 description: “一个人爱上小溪，是因为没有见过大海。 我已见过银河，但我仍只爱你这颗星。”
+abbrlink: 57f1166d
+date: 2019-08-20 14:13:28
+permalink:
 image:
 ---
 

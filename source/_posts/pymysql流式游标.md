@@ -1,11 +1,15 @@
 ---
 title: pymysql流式游标
-tags: [pymysql,Python,mysql]
+tags:
+  - pymysql
+  - Python
+  - mysql
 comments: true
-date: 2020-01-23 10:25:53
-permalink:
 categories: MySQL
 description: 世间万般难事皆可在女子大腿上办妥
+abbrlink: 432e7c82
+date: 2020-01-23 10:25:53
+permalink:
 image:
 ---
 

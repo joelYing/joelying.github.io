@@ -1,11 +1,14 @@
 ---
 title: Fullpage+NexT打造自己钟意的经典语录集
-tags: [NexT,Fullpage]
+tags:
+  - NexT
+  - Fullpage
 comments: true
-date: 2019-08-26 19:21:43
-permalink:
 categories: Chocolate
 description: 生活就像一盒巧克力，你永远不知道下一块是什么味道
+abbrlink: e54bf53d
+date: 2019-08-26 19:21:43
+permalink:
 image:
 ---
 

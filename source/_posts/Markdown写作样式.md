@@ -1,11 +1,13 @@
 ---
 title: Markdown写作样式
-tags: [Markdown]
-date: 2019-08-20 14:07:56
-permalink:
+tags:
+  - Markdown
 comments: true
 categories: 写作
 description: “看，前面漆黑一片，什么也看不到；也不是，天亮后便会很美的”
+abbrlink: 60ec4822
+date: 2019-08-20 14:07:56
+permalink:
 image:
 ---
 

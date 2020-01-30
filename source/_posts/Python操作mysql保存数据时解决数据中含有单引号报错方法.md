@@ -1,11 +1,14 @@
 ---
 title: mysql保存数据时含有单引号报错方法
-tags: [Python,mysql]
+tags:
+  - Python
+  - mysql
 comments: true
-date: 2020-01-22 17:22:39
-permalink:
 categories: Bug
 description: 最苦是相思，最远是阴阳
+abbrlink: ab3aac4b
+date: 2020-01-22 17:22:39
+permalink:
 image:
 ---
 

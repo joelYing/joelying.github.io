@@ -1,12 +1,13 @@
 ---
 title: NexT主题优化记录
-date: 2019-08-15 12:26:13
-permalink:
 categories: Hexo
 tags: NexT
 comments: true
 description: NexT主题优化记录
-image: 
+abbrlink: 8b66fa63
+date: 2019-08-15 12:26:13
+permalink:
+image:
 ---
 <img class="joel-img" src="http://image.joelyings.com/20190820-3.jpg" >
 
@@ -2994,6 +2995,134 @@ top: 10
 
 #### 添加 TopX 页面
 [超深度优化-5.8小节](https://io-oi.me/tech/hexo-next-optimization.html)
+
+### 二零年一月三十日
+
+#### 修改文章永久链接
+
+设置permalink避免url中出现中文，参考[永久链接](https://hexo.io/zh-cn/docs/permalinks.html)
+
+**方案一**：
+
+安装[hexo-abbrlink](https://github.com/Rozbo/hexo-abbrlink)
+
+``` bash
+npm install hexo-abbrlink --save
+```
+
+但是有警告
+``` bash
+$ npm install hexo-abbrlink --save
+
+npm WARN babel-eslint@10.0.2 requires a peer of eslint@>= 4.12.1 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ hexo-abbrlink@2.0.5
+added 39 packages from 24 contributors and audited 16956 packages in 61.105s
+found 6 vulnerabilities (4 low, 2 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+```
+
+意思我缺少了`eslint@>= 4.12.1`等依赖，然后看到这篇[Hexo-abbrlink生成唯一永久文章链接](https://www.jianshu.com/p/c7de2ae59975)
+
+再安装
+``` bash
+npm install eslint@4.12.1 --save-dev
+```
+
+好像不用管这些警告......直接修改如下
+
+``` [_config.yml]
+permalink: posts/:abbrlink/
+permalink_defaults:
+
+# abbrlink config
+abbrlink:
+  alg: crc32  # 算法 support crc16(default) and crc32
+  rep: hex    # 进制 support dec(default) and hex
+```
+
+可选模式：
+```
+crc16 & hex
+crc16 & dec
+crc32 & hex
+crc32 & dec
+```
+
+但是`hexo clean && hexo g && hexo d`报错了，错误表示找不到node-sass模块
+``` bash
+hexo clean && hexo g && hexo d
+ERROR Plugin load failed: hexo-renderer-sass
+Error: Cannot find module 'node-sass'
+
+```
+
+解决方法：
+
+``` bash
+$ npm install -g cnpm --registry=https://registry.npm.taobao.org
+C:\Users\xx\AppData\Roaming\npm\cnpm -> C:\Users\xx\AppData\Roaming\npm\node_modules\cnpm\bin\cnpm
++ cnpm@6.1.1
+added 686 packages from 944 contributors in 136.584s
+
+$ cnpm install node-sass@latest
+[npminstall:get] retry GET https://r.npm.taobao.org/lodash after 100ms, retry left 4, error: Error [ResponseTimeoutError]: Response timeout for 60000ms, GET https://r.npm.taobao.org/lodash -1 (connected: 
+
+...
+
+[1/1] scripts.postinstall node-sass@latest finished in 472ms
+√ Run 1 scripts
+√ All packages installed (179 packages installed from npm registry, used 1m(network 1m), speed 50.48kB/s, json 169(314.75kB), tarball 2.98MB)
+
+```
+
+再次`hexo clean && hexo g && hexo d`
+
+成功
+
+**方案二**：
+
+在_config.yml文件中修改permalink
+```
+permalink: :year/:month/:day/:category/:id/
+permalink_defaults:
+```
+
+配置categroy_map
+同样在_config.yml中修改category_map, 这里的配置就是将很多category是中文的映射成英文
+```
+# Category & Tag
+default_category: uncatalog
+## 为了让中文分组名在网址中显示为英文，我们可以创建分组名映射（category_map）：
+category_map:
+  Android: android
+  Android Studio: android-studio
+  C#: Cplusplus
+  Python: Python
+  SQL: sql
+  工具: kits
+  微信小程序: wxxcx
+  数据库: database
+  杂记: petty
+  编程练习: programming-practise
+tag_map:
+```
+
+再看看第一步的配置中`permalink: :year/:month/:day/:category/:id/`其中有`/:id`这个id是自己添加的
+
+因此需要在`scaffolds/post.md`中添加id，如下:
+```
+---
+title: {{ title }}
+date: {{ date }}
+id: 
+tags: 
+categories: 
+---
+```
+这就意味着自己每次发布时需要为其制定category和id，id可以自己随便给，同一分类同一天不要重复就好
 
 
 ### 参考

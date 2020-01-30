@@ -1,11 +1,15 @@
 ---
 title: 部署Scrapy项目到腾讯云服务器
-tags: [Scrapy,Python,服务器]
+tags:
+  - Scrapy
+  - Python
+  - 服务器
 comments: true
-date: 2020-01-24 18:55:03
-permalink:
 categories: Scrapy
 description: 当我轻轻的放下你，把一切重新整理去归零，可以坦然走进，只有你我的电梯
+abbrlink: 9263995f
+date: 2020-01-24 18:55:03
+permalink:
 image:
 ---
 

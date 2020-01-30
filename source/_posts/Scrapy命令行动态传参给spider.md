@@ -1,11 +1,14 @@
 ---
 title: Scrapy命令行动态传参给spider
-tags: [Python,Scarpy]
+tags:
+  - Python
+  - Scarpy
 comments: true
-date: 2020-01-23 10:23:33
-permalink:
 categories: Scrapy
 description: 世间痴情男儿，不论地位高低，大抵都是喜欢女子便是错了，而且希望能一辈子知错不改
+abbrlink: e85e0b74
+date: 2020-01-23 10:23:33
+permalink:
 image:
 ---
 

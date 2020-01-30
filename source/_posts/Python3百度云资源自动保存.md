@@ -1,11 +1,14 @@
 ---
 title: Python3百度云资源自动保存
-tags: [Python,爬虫]
+tags:
+  - Python
+  - 爬虫
 comments: true
-date: 2020-01-22 16:59:41
-permalink:
 categories: Python爬虫实战
 description: 天底下没人相信他，但我相信。 八百年不改！ -- 白衣洛阳
+abbrlink: af6a7a20
+date: 2020-01-22 16:59:41
+permalink:
 image:
 ---
 

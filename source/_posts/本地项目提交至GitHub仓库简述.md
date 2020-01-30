@@ -1,11 +1,14 @@
 ---
 title: 本地项目提交至GitHub仓库简述
-tags: [Git,github]
+tags:
+  - Git
+  - github
 comments: true
-date: 2020-01-23 18:02:49
-permalink:
 categories: Git
 description: 美好的东西从来不会寻求关注
+abbrlink: 6fd519c3
+date: 2020-01-23 18:02:49
+permalink:
 image:
 ---
 
@@ -46,3 +49,20 @@ git push -u origin master --force
 ```
 
 以后只需要`git push origin master`即可
+
+附：
+
+从远程拉取最新的代码 不merge
+``` bash
+git fetch --all  
+```
+
+使用指定分支的代码（此处develop）强制覆盖代码
+``` bash
+git reset --hard origin/develop 
+```
+
+从远程拉取最新的代码 自动merge
+``` bash
+git pull
+```

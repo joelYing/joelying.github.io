@@ -1,11 +1,15 @@
 ---
 title: 简单明了的hexo博客备份操作
-tags: [Hexo]
+tags:
+  - Hexo
 comments: true
+categories: Hexo
+description: >-
+  “Good morning, and in case I don't see you, Good afternoon, Good evening, And
+  good night.”
+abbrlink: 34d97cac
 date: 2019-08-29 08:58:07
 permalink:
-categories: Hexo
-description: “Good morning, and in case I don't see you, Good afternoon, Good evening, And good night.”
 image:
 ---
 

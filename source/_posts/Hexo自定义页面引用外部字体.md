@@ -1,11 +1,13 @@
 ---
 title: Hexo自定义页面引用外部字体
-tags: [Hexo]
+tags:
+  - Hexo
 comments: true
-date: 2019-10-15 14:59:33
-permalink:
 categories: Hexo
 description: 宁在雨中高歌死
+abbrlink: 61c938ac
+date: 2019-10-15 14:59:33
+permalink:
 image:
 ---
 

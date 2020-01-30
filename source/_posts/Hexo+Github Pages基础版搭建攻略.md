@@ -1,12 +1,15 @@
 ---
 title: Hexo+Github Pages基础版搭建攻略
-date: 2019-08-13 12:37:09
-permalink:
 categories: Hexo
-tags: [Hexo,Clover]
+tags:
+  - Hexo
+  - Clover
 comments: true
 description: 毕竟有些人，只是遇见，就已经很美好了
-image: 
+abbrlink: 975ad60a
+date: 2019-08-13 12:37:09
+permalink:
+image:
 ---
 <img class="joel-img" src="http://image.joelyings.com/20190904-8.jpg" >
 

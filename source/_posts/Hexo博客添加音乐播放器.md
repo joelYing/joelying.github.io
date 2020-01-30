@@ -1,11 +1,13 @@
 ---
 title: Hexo博客添加音乐播放器
-tags: [Hexo]
+tags:
+  - Hexo
 comments: true
-date: 2019-09-04 11:09:44
-permalink:
 categories: Hexo
 description: 对我来说，记忆也成为了相见的一种方式
+abbrlink: 8e2e1c08
+date: 2019-09-04 11:09:44
+permalink:
 image:
 ---
 

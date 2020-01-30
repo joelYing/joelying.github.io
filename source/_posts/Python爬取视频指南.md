@@ -1,12 +1,15 @@
 ---
 title: Python爬取视频指南
-date: 2019-08-11 20:20:49
-permalink:
 categories: Python爬虫实战
-tags: [Python,爬虫]
+tags:
+  - Python
+  - 爬虫
 comments: true
 description: 人间烟火，山河远阔，无一是你，无一不是你
-image: 
+abbrlink: bd184911
+date: 2019-08-11 20:20:49
+permalink:
+image:
 ---
 <img class="joel-img" src="http://image.joelyings.com/20190827-28.jpg" >
 

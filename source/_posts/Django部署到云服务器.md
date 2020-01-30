@@ -1,10 +1,15 @@
 ---
 title: Django+uwsgi+Nginx部署到云服务器
-tags: [Django,服务器,uwsgi,Nginx]
+tags:
+  - Django
+  - 服务器
+  - uwsgi
+  - Nginx
 comments: true
+categories: Django
+abbrlink: d2e509e8
 date: 2020-01-25 19:24:02
 permalink:
-categories: Django
 description:
 image:
 ---
@@ -605,10 +610,177 @@ cat /root/.ssh/id_rsa.pub
 ```
 复制内容到github上即可
 
-### Django(Git)+uwsgi+Nginx+venv
+### 虚拟环境部署
+
+#### 安装
+
+``` bash
+pip3 install virtualenv
+
+pip3 install virtualenvwrapper
+```
+
+创建软连接
+``` bash
+ln -s /usr/local/python3/bin/virtualenv /usr/bin/virtualenv
+ln -s /usr/local/python3/bin/virtualenvwrapper /usr/bin/virtualenvwrapper
+```
+#### 配置
+查找`virtualenvwrapper.sh`文件位置
+``` bash
+[root@VM_0_14_centos ~]# find / -name virtualenvwrapper.sh
+/usr/local/python3/bin/virtualenvwrapper.sh
+```
+
+编辑`~/.bashrc`文件
+``` bash
+vim ~/.bashrc
+```
+
+在尾部添加以下内容
+``` bash
+# 虚拟环境存放目录，可自行设置
+export WORKON_HOME=/root/.virtualenvs
+
+# virtualenvwrapper.sh命令的位置，可通过命令 find / -name virtualenvwrapper.sh 查找
+source /usr/local/python3/bin/virtualenvwrapper.sh
+```
+
+运行
+``` bash
+source .bashrc
+```
+
+报错
+``` bash
+[root@VM_0_14_centos ~]# source .bashrc
+/usr/bin/python: No module named virtualenvwrapper
+virtualenvwrapper.sh: There was a problem running the initialization hooks.
+
+If Python could not import the module virtualenvwrapper.hook_loader,
+check that virtualenvwrapper has been installed for
+VIRTUALENVWRAPPER_PYTHON=/usr/bin/python and that PATH is
+set properly.
+```
+
+原因：
+
+查看virtualenvwrapper.sh的位置
+
+``` bash 
+whereis virtualenvwrapper.sh
+
+virtualenvwrapper: /usr/local/python3/bin/virtualenvwrapper.sh
+```
+查看virtualenvwrapper.sh, 会看到有个VIRTUALENVWRAPPER_PYTHON变量, 默认是`$(command \which python)` 
+
+也就是/usr/bin/python 默认情况下就是python27
+
+``` bash
+vim /usr/local/python3/bin/virtualenvwrapper.sh
+...
+  47 # Locate the global Python where virtualenvwrapper is installed.
+  48 if [ "${VIRTUALENVWRAPPER_PYTHON:-}" = "" ]
+  49 then
+  50     VIRTUALENVWRAPPER_PYTHON="$(command \which python)"
+  51 fi                        
+``` 
+
+根据以上可以直接在`.bashrc`添加
+``` bash
+export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
+```
+
+目前`.bashrc`中添加的内容是：
+``` bash
+export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
+# 所有虚拟环境存储的目录
+export WORKON_HOME=/root/.virtualenvs
+source /usr/local/python3/bin/virtualenvwrapper.sh
+```
+
+然后再运行
+
+``` bash
+source .bashrc
+```
+
+``` bash
+[root@VM_0_14_centos ~]# source .bashrc
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/premkproject
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/postmkproject
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/initialize
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/premkvirtualenv
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/postmkvirtualenv
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/prermvirtualenv
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/postrmvirtualenv
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/predeactivate
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/postdeactivate
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/preactivate
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/postactivate
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/get_env_details
+```
+
+#### 创建
+然后就可以创建我们的虚拟环境：
+``` bash
+mkvirtualenv env_name
+```
+
+``` bash
+[root@VM_0_14_centos ~]# mkvirtualenv lvideo
+Using base prefix '/usr/local/python3'
+New python executable in /root/.virtualenvs/lvideo/bin/python3.6
+Also creating executable in /root/.virtualenvs/lvideo/bin/python
+Please make sure you remove any previous custom paths from your /root/.pydistutils.cfg file.
+Installing setuptools, pip, wheel...
+done.
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/lvideo/bin/predeactivate
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/lvideo/bin/postdeactivate
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/lvideo/bin/preactivate
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/lvideo/bin/postactivate
+virtualenvwrapper.user_scripts creating /root/.virtualenvs/lvideo/bin/get_env_details
+```
+
+可以发现`/root/.virtualenvs`下有了我们创建的`lvideo`
+``` bash
+(lvideo) [root@VM_0_14_centos ~]# ls /root/.virtualenvs/
+get_env_details  lvideo        postdeactivate  postmkvirtualenv  preactivate    premkproject     prermvirtualenv
+initialize       postactivate  postmkproject   postrmvirtualenv  predeactivate  premkvirtualenv
+```
+
+新建虚拟环境之后会自动激活虚拟环境，如果我们平时想要进入某个虚拟环境，可以用下面的命令
+``` bash
+workon env_name
+
+workon + 两次tab键可以显示所有的虚拟环境
+```
+
+创建指定python版本的虚拟环境
+``` bash
+mkvirtualenv -p (你的Python对应版本的路径) env_name
+
+# 我的创建指定Python2版本的虚拟环境
+mkvirtualenv -p /usr/bin/python2 lvideo2
+```
+
+列出所有的虚拟环境
+``` bash
+lsvirtualenv
+```
+
+退出虚拟环境
+``` bash
+deactivate
+```
+
+删除虚拟环境
+``` bash
+rmvirtualenv env_name
+```
 
 ### 参考
-#### 一
+
 [django项目部署到服务器+虚拟环境](https://blog.csdn.net/mjp_erhuo/article/details/80361524)
 [解决nginx+uwsgi部署Django的所有问题](https://blog.csdn.net/baidu_35085676/article/details/77160040)
 [如何把本地的Django项目部署到服务器（亲测）](https://blog.csdn.net/qq_30501975/article/details/80423547)
@@ -618,11 +790,13 @@ cat /root/.ssh/id_rsa.pub
 [uWSGI+django+nginx的工作原理流程与部署历程](https://blog.csdn.net/c465869935/article/details/53242126)
 [Linux vim命令](https://www.cnblogs.com/shanwu369/p/10977244.html)
 [uwsgi、wsgi和nginx的区别和关系!!](https://blog.csdn.net/CHENYAoo/article/details/83055108)
-#### 二
+
 [linux如何彻底杀掉uwsgi进程](https://blog.csdn.net/weixin_33127753/article/details/87880080)
 [uWSGI的安装与配置（官网摘录）](https://blog.csdn.net/chenggong2dm/article/details/43937433)
 [centos7 nginx安装/启动/进程状态/杀掉进程](https://www.cnblogs.com/hailang8/p/8664413.html)
 [nginx报502错误，日志connect() failed (111: Connection refused) while connecting to upstream的解决](https://blog.csdn.net/weixin_37599606/article/details/81296178)
 [Linux 下建立 Git 与 GitHub 的连接并克隆到本地](https://blog.csdn.net/angus_01/article/details/80118088)
-#### 三
+[virtualenvwrapper的安装及使用](https://www.jianshu.com/p/7ed2dfa86e90)
+[CentOS7安装python虚拟环境](https://blog.csdn.net/pcengineercn/article/details/93869359)
+
 [使用Django + Vue.js快速而优雅地构建前后端分离项目](https://blog.csdn.net/liuyukuan/article/details/70477095)

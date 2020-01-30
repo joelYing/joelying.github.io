@@ -1,12 +1,14 @@
 ---
 title: Clover主题配置
-date: 2019-08-14 19:13:03
-permalink:
 categories: Clover
-tags: [CloverConfig]
+tags:
+  - CloverConfig
 comments: true
 description: 毕竟有些人，只是遇见，就已经很美好了
-image: 
+abbrlink: 71f72a8c
+date: 2019-08-14 19:13:03
+permalink:
+image:
 ---
 <img class="joel-img" src="http://image.joelyings.com/20190827-29.jpg" >
 

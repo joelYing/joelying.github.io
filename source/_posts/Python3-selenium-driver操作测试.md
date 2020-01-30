@@ -1,11 +1,14 @@
 ---
 title: Python3+selenium+driver操作测试
-tags: [Python,Selenium]
+tags:
+  - Python
+  - Selenium
 comments: true
-date: 2020-01-22 16:58:48
-permalink:
 categories: Selenium
 description: 我们一路奋战，不是为了改变世界，而是为了不让世界改变我
+abbrlink: fefc1dba
+date: 2020-01-22 16:58:48
+permalink:
 image:
 ---
 

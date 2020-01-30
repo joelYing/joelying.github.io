@@ -1,11 +1,14 @@
 ---
 title: Python3爬取新版喜马拉雅音频
-tags: [Python,爬虫]
+tags:
+  - Python
+  - 爬虫
 comments: true
-date: 2019-09-23 13:19:24
-permalink:
 categories: Python爬虫实战
 description: 我喝过很烈的酒，也放过不该放的手，从前不会回头，往后不会将就
+abbrlink: c20212e7
+date: 2019-09-23 13:19:24
+permalink:
 image:
 ---
 

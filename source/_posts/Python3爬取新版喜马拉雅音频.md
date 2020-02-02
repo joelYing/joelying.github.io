@@ -40,7 +40,7 @@ token在下图这里复制
 
 然后打开下半部的[页面](https://www.ximalaya.com/youshengshu/5130435/)
 
-这里只有前三个音频是`试听`的，也就是说前三个是我们可以在不开通VIP的情况下也可以下载的，但是后面的就不行，索性现在开了VIP都可以收听
+这里只有前三个音频是`试听`的，也就是说前三个是我们可以在不开通VIP的情况下也可以下载的，但是后面的就不行，幸好现在开了VIP都可以收听
 
 对`第861回`这个收费音频来分析，页面加载完成后，打开`fiddler`抓包，观察点击播放按钮后抓到的数据包
 
@@ -91,7 +91,7 @@ http://audiopay.cos.xmcdn.com/download/1.0.0/group1/M04/DF/01/wKgJMlvblh6xqrSXAK
 
 链接二的`M04/DF/01/wKgJMlvblh6xqrSXAKC7Swxvugo848`也是变化的
 
-问题就在于链接一我们很好理解，带上音频的ID就可以反悔一串response，再通过JS生成链接二得到音频真实地址
+问题就在于链接一我们很好理解，带上音频的ID就可以返回一串response，再通过JS生成链接二得到音频真实地址
 
 关键在于这个JS比较麻烦，JS片段：
 
@@ -165,7 +165,7 @@ var gt = vt("xm", "Ä[ÜJ=Û3Áf÷N")
 
 然后发现scapy-http这个模块，二者配合使用后，可以解析抓到的包的url等参数
 
-#### 安装工具
+### 安装工具
 ``` bash
 pip3 install scapy
 

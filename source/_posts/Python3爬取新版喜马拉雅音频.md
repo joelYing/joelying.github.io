@@ -270,6 +270,11 @@ ignored in: <bound method Popen.__del__ of <subprocess.Popen object at 0x043...
 driver.quit()
 ```
 
+`pyqt5`生成`.py`文件
+
+``` bash
+pyuic5 -o xmd_ui.py ximadownloader.ui
+```
 
 ## 更新
 

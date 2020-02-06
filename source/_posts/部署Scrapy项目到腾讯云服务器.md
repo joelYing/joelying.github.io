@@ -19,6 +19,10 @@ image:
 
 ### 前言
 
+Scrapyd是一个网页版管理scrapy的工具，它是一个运行scrapy爬虫的服务程序，能够在网页端查看正在执行的任务，scrapy爬虫写好后，可以用命令行运行，它支持以http命令方式发布、删除、启动、停止爬虫程序。它允许你部署你的scrapy项目以及通过HTTP JSON的方式控制你的爬虫而且scrapyd可以同时管理多个爬虫，每个爬虫还可以有多个版本
+
+Scrapyd-client：是一个专门用来发布scrapy爬虫的工具，虽然也具有部分管理功能，但是不如scrapyd齐全，因此建议只用来发布。Scrapyd-client的作用：用于打包你的工程提供给scrapyd服务器scrapyd-client也就是scrapyd的客户机
+
 打算把写完的爬虫项目放到服务器上定时运行，然后了解到有`scrapyd`这个方便管理爬虫，于是这篇文章的指向是在腾讯云服务器上运行`scrapd`，然后把我们的爬虫上传到`scrapyd`，使得`scrapyd`可以管理爬虫项目(注：没有通过文件传输工具把scrapy爬虫项目的文件上传到服务器，额，我是这么理解的，但是是通过`scrapyd`上传的egg)
 
 ### 操作

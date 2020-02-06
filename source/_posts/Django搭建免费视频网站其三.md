@@ -12,7 +12,7 @@ permalink:
 image:
 ---
 
-<img class="joel-img" src="http://image.joelyings.com/2020-02-06_6.jpg">
+<img class="joel-img" src="http://image.joelyings.com/2020-02-06_8.jpg">
 
 <!-- more -->
 

@@ -24,8 +24,6 @@ image:
 
 #### 自定义tag
 
-<span id="inline-purple">自定义tag</span>
-
 这是在练习Django时做的博客项目中用到的，在这里记录，目的是为了把评论功能做成一个即插即用的组件
 
 用到了Django的template tag（自定义标签）的接口，使得在任何需要添加评论的地方，只要使用
@@ -90,8 +88,7 @@ def comment_block(target):
 </div>
 ```
 
-将value="{{ target }}中的target渲染好后，带上comment_form参数，文件中的form最后发送一个post请求到/comment/的路由
-根据url.py中的路由规则，请求得到的闭包发送给CommentView
+将value的值`target`渲染好后，带上comment_form参数，文件中的form最后发送一个post请求到`/comment/`的路由，根据url.py中的路由规则，请求得到的闭包发送给CommentView
 
 ```
 class CommentView(TemplateView):
@@ -119,8 +116,7 @@ class CommentView(TemplateView):
         return self.render_to_response(context)
 ```
 
-在CommentView中的post方法接收这些参数，验证comment_form，并保存数据到instance，存到数据库中
-成功后返回
+在CommentView中的post方法接收这些参数，验证comment_form，并保存数据到instance，存到数据库中，成功后返回
 
 在博文详情页面加上评论功能：
 
@@ -166,8 +162,6 @@ Django模板中可以使用`request`参数，`request.path`就是当前博文页
 
 #### spaceless
 
-<span id="inline-purple">spaceless</span>
-
 ```
 {% spaceless %}
 ```
@@ -175,8 +169,6 @@ Django模板中可以使用`request`参数，`request.path`就是当前博文页
 标签的作用是 去除Django模板因使用for循环而产生的很多空行
 
 #### autoescape
-
-<span id="inline-purple">autoescape</span>
 
 作用是关闭Django模板的自动转码功能
 
@@ -356,8 +348,6 @@ $("#str-post").submit(function () {
 
 #### datetimefield
 
-<span id="inline-purple">datetimefield</span>
-
 Django中模型的时间字段定义为datetimefield时，爬虫向这个字段插入同样时间格式的str数据时，可以成功
 
 [如何在Django中添加没有微秒的 DateTimeField 属性详解](https://www.jb51.net/article/155630.htm)
@@ -412,8 +402,6 @@ class MoreListView(CommonListView):
 
 #### bootstrap
 
-<span id="inline-purple">bootstrap</span>
-
 [text-utilities](https://v4.bootcss.com/docs/4.3/content/typography/#text-utilities)
 
 对于较长的文本内容，可以通过添加 .text-truncate 类将文本截断并添加省略号。 元素必须是 display: inline-block 或 display: block 类型
@@ -432,14 +420,12 @@ class MoreListView(CommonListView):
 
 [bootstrap导航条](https://www.jianshu.com/p/37f6622adb2d)
 
-也就是<ul></ul>标记中所有<a>标记的href属性都失效了，后来也是一顿搜索，发现，bootstrap把href属性当id处理，只链接到当前页面的位置，而外部跳转链接被屏蔽
+也就是ul标签中所有a标签的href属性都失效了，后来也是一顿搜索，发现，bootstrap把href属性当id处理，只链接到当前页面的位置，而外部跳转链接被屏蔽
 
 
 ### 管理
 
 #### 在两个site中注册APP
-
-<span id="inline-purple">同时在两个site中注册Post</span>
 
 ```
 @admin.register(Post, site=custom_site) # custom_site
@@ -754,7 +740,7 @@ content = html.unescape(html_entity)
 
 ajax 的post请求,Forbidden (CSRF token missing or incorrect.)错误[解决办法](https://blog.csdn.net/weixin_43790705/article/details/87867172)：
 
-在data中添加{csrfmiddlewaretoken:'{{ csrf_token }}'}
+在data中添加`csrfmiddlewaretoken` 
 ``` javascript
 <script>
     ...

@@ -135,7 +135,7 @@ videoID、video名称、别名、封面链接、video演员、导演、类型、
 
 视频名称，pv，uv
 
-<div class="note info"><p>注：</p></div>
+<div class="note info"><p>附</p></div>
 
 PV(访问量)：即Page View，具体是指网站的是页面浏览量或者点击量，页面被刷新一次就计算一次。如果网站被刷新了1000次，那么流量统计工具显示的PV就是1000
 
@@ -500,9 +500,13 @@ STATICFILES_DIRS = [
 
 ```
 
-这里我们的`index_list.html`文件实际上是`extend`继承了`base.html`文件，实际上就是以`base.html`为母板，在上面挖了许多的`block`，而`index_list.html`中`block block_name...endblock`中的内容就是用来填充`block`的
+这里我们的`index_list.html`文件实际上是`extend`继承了`base.html`文件
 
-而对应的也有`include`某个html文件，即将里面的内容拿到`include`的位置
+实际上就是以`base.html`为母板，在上面挖了许多的`block`
+
+而`index_list.html`中`block block_name...endblock`中的内容就是用来填充`block`的
+
+对应的也有`include`某个html文件，即将里面的内容拿到`include`的位置
 
 模板中也有几个需要注意的点，以这一部分为例：
 
@@ -523,6 +527,8 @@ STATICFILES_DIRS = [
 {% endfor %}
 ```
 
-<p id="div-border-left-red">按照这样下来之后，就能看到基本的页面，剩下的就是爬虫的开发，以及页面的功能、模板的具体实现，由于这是在项目基本完成之后才写的，中间很多步骤无法连贯起来，但是这里还是记录下大致的过程用来日后可以简单的回溯一下</p>
+
+<p id="div-border-top-purple">按照这样下来之后，就能看到基本的页面，剩下的就是爬虫的开发，以及页面的功能、模板的具体实现，由于这是在项目基本完成之后才写的，中间很多步骤无法连贯起来，但是这里还是记录下大致的过程用来日后可以简单的回溯一下</p>
+
 
 下一篇大致是许多问题以及细节的处理过程，还有项目部署的大致过程

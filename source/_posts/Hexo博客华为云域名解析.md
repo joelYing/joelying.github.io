@@ -120,6 +120,8 @@ Ctrl+R 进入 运行 输入 cmd ，输入命令 Ping 域名(例：Ping genmcai.g
 
 ## SEO优化
 
+
+
 参考[这篇](http://dugblog.coding.me/Hexo/20180625-Hexo-SEO.html)
 
 

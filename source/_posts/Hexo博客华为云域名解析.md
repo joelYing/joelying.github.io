@@ -13,7 +13,7 @@ permalink:
 image:
 ---
 
-<img class="joel-img" src="http://image.joelyings.com/2020-02-07_1.jpg">
+<img class="joel-img" src="http://image.joelyings.com/2020-02-07_16.jpg">
 
 <!-- more -->
 
@@ -82,7 +82,7 @@ Ctrl+R 进入 运行 输入 cmd ，输入命令 Ping 域名(例：Ping genmcai.g
 
 下面出现的IPv4地址即是 A 所需的值
 
-进入github，到存放网站的仓库，Settings -> Options -> GitHub Pages -> Custom domain -> 填写需要绑定的个人域名 点击save后，网站上会提示是否成功
+进入github，到存放网站的仓库，`Settings -> Options -> GitHub Pages -> Custom domain -> 填写需要绑定的个人域名` 点击save后，网站上会提示是否成功
 
 
 ### 最后一步
@@ -120,14 +120,93 @@ Ctrl+R 进入 运行 输入 cmd ，输入命令 Ping 域名(例：Ping genmcai.g
 
 ## SEO优化
 
+### 收录
+
+先到[这里](https://ziyuan.baidu.com/site/siteadd#/)，登录账号之后：右上角用户中心 -> 然后左侧站点管理 -> 添加网站
+
+选择`https`协议头，输入你要添加的网站，选择站点属性，再来到验证网站
+
+这里选择CNAME验证，将`xxx.你提交的网站域名`使用CNAME解析到`ziyuan.baidu.com`
+
+完成后点击`完成验证`按钮
+
+为保持验证通过的状态，成功验证后请不要删除该DNS记录，然后等待一会，验证通过即收录网站成功
+
+### sitemap
+
+先安装生成sitemap的插件，在站点的根目录下执行：
+
+``` bash
+npm install hexo-generator-sitemap --save
+```
+
+<div class="note warning"><p>不用安装hexo-generator-baidu-sitemap，有的教程会告诉你，这个是专门针对百度的sitemap，其实根本不是。这个插件本身最开始只是为了本地搜索做的，用的时候，如果标题里面带有&这种本身有预定义的符号，后续提交的时候会出现解析出错，所以不用安装。</p></div>
+
+安装好了之后，再生成一次网页，也就是执行一次`hexo clean && hexo g && hexo d`
+
+然后会在`/yoursite/public/`下面看到`sitemap.xml`文件
+
+### 提交sitemap
+
+打开百度站长平台，进入你刚刚添加的站点
+
+先点击左侧链接提交，然后点击sitemap
+
+填入`你的站点名称/sitemap.xml`，或者你有自己的域名，只是在coding上托管代码，就填入`域名/sitemap.xml`，如果不确定的话，可以先把这个链接**在浏览器中打开试试**
+
+如果看不到xml页面，请检查你的站点配置文件中的`url`是否改成了你的域名
+
+``` [] _config.yml
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: https://blog.joelyings.com
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+```
+
+然后提交上去，下面会有结果，刷新之后会显示状态正常，后面还有提取的链接数量（可能很久）
+
+sitemap会定期自动更新，如果添加了新页面，想快速收录的话，可以手动更新文件
+
+<div class="note info"><p>site:blog.joelyings.com
+可以看你的网站是否被收录了</p></div>
 
 
-参考[这篇](http://dugblog.coding.me/Hexo/20180625-Hexo-SEO.html)
+### 自动推送
+
+自动退送的话，Hexo框架已经给我们集成好了，只需要修改主题配置文件：
+```
+baidu_push: true
+```
+将这个改成true，在你每次执行hexo d的时候就会自动推送到百度
 
 
-先到这里，登录账号之后：右上角用户中心 -> 然后左侧站点管理 -> 添加网站
+### 添加蜘蛛协议
+
+蜘蛛协议就是告诉爬虫，你的哪些文件爬虫可以爬取，哪些不能的文件
+
+新建一个robots.txt文件，添加以下内容，然后放到/yoursite/source/文件夹下面：
+```
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /tags/
+Allow: /categories/
+Allow: /about/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+
+Sitemap: 刚刚sitemap的地址
+```
+执行`hexo clean && hexo g && hexo d`，就同步到了coding上了
+
 
 ## 参考
 
 [Hexo 绑定个人域名（华为云版）](https://www.genmcai.com/2019/08/03/hexo_DomainName/)
 [个人域名如何同时绑定 github 和 coding 上的博客](https://segmentfault.com/q/1010000004557073)
+[Hexo个人博客SEO优化——如何被百度谷歌收录](http://dugblog.coding.me/Hexo/20180625-Hexo-SEO.html)
+[同时托管博客到github和coding](https://www.jianshu.com/p/7103fbbe1eba)

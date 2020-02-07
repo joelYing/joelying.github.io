@@ -2541,6 +2541,19 @@ categories:
 ```
 这就意味着自己每次发布时需要为其制定category和id，id可以自己随便给，同一分类同一天不要重复就好
 
+### 二零年二月七日
+
+#### valine403报错
+
+关于出现Code 403: 访问被api域名白名单拒绝，请检查你的安全域名设置的问题：
+
+我的问题是同时在github和coding上部署了，但是在leancloud的`应用>设置>安全中心>Web安全域名`中只添加了github的域名，因此在coding的那个域名访问时就会出现上述问题，添加域名即可解决问题
+
+#### valine评论邮件提醒
+
+参考：
+[NexT主题设置Valine评论系统邮件提醒](https://www.nhtzj.com/3315416634/)
+[hexo next主题 valine评论系统 使用第三方邮件提醒](https://blog.csdn.net/qq_21808961/article/details/84639401)
 
 ### 站点加速
 

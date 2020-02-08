@@ -10,7 +10,7 @@ categories: Django
 abbrlink: d2e509e8
 date: 2020-01-25 19:24:02
 permalink:
-description:
+description: 莫道书生无胆气，敢叫天地沉入海
 image:
 ---
 

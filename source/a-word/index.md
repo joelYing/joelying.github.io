@@ -313,43 +313,6 @@ layout: false
 	        所谓光明，只是黑暗允许存在的光明
 				</p>
 	    	</div>
-	      	<br>
-	      	<div class="aword-by" style="font-size: 18px">
-	        —— 《论黑暗》
-	        </div>
-    	</div>
-		<div class="slide">
-			<div class="aword" style="font-size: 35px">
-				<p class="text">
-	        黑暗何需洗白
-				</p>
-	    	</div>
-	      	<br>
-	      	<div class="aword-by" style="font-size: 18px">
-	        —— 《论黑暗》
-	        </div>
-    	</div>
-    	<div class="slide">
-			<div class="aword" style="font-size: 35px">
-				<p class="text">
-	        黑暗是一种最深邃的神秘，光明算什么
-				</p>
-	    	</div>
-	      	<br>
-	      	<div class="aword-by" style="font-size: 18px">
-	        —— 《论黑暗》
-	        </div>
-    	</div>
-    	<div class="slide">
-			<div class="aword" style="font-size: 35px">
-				<p class="text">
-	        黑暗，不代表恶，不代表罪，不代表世间差到极点的物质
-				</p>
-	    	</div>
-	      	<br>
-	      	<div class="aword-by" style="font-size: 18px">
-	        —— 《论黑暗》
-	        </div>
     	</div>
     </div>
 	<div class="section">
@@ -363,18 +326,6 @@ layout: false
       	<br>
       	<div class="aword-by" style="font-size: 18px">
         —— 二零一九年九月十三日
-    	</div>
-    </div>
-	<div class="section">
-		<div class="aword" style="font-size: 35px">
-			<p class="text">
-        在你生气又不能改变现实却还忍不住生气时，问问自己<br>
-        生气有用吗？
-        	</p>
-    	</div>
-      	<br>
-      	<div class="aword-by" style="font-size: 18px">
-        —— 二零一九年九月十一日
     	</div>
     </div>
 	<div class="section">
@@ -736,18 +687,6 @@ layout: false
 	    	</div>
     	</div>
 	</div>
-	<div class="section">
-		<div class="aword" style="font-size: 35px">
-			<p class="text">
-        生老还生，不知苦痛<br>
-        病死将死，最是难熬，苦煞子女
-        	</p>
-    	</div>
-      	<br>
-      	<div class="aword-by" style="font-size: 18px">
-        —— 二零一九年九月一日
-    	</div>
-    </div>
 	<div class="section">
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">

@@ -590,6 +590,48 @@ ps -ef | grep nginx
 killall -9 nginx
 ```
 
+##### 重新启动
+
+编写用于修改LVideo代码后，重新启动uwsgi和nginx的shell脚本
+
+``` bash
+vi redeploy.sh
+```
+
+``` bash
+#!/bin/bash
+# 杀掉uwsgi进程
+killall -9 uwsgi;
+# 杀掉nginx进程
+killall -9 nginx;
+# 后台启动uwsgi
+uwsgi --ini /home/lvideo_uwsgi.ini;
+# 启动nginx服务
+systemctl start nginx.service;
+# 打印
+echo 'redeploy success';
+```
+
+运行方法一：
+
+``` bash
+sh redeploy.sh
+```
+
+这种办法不需要文件具备可执行的权限也可运行
+
+运行方法二：
+
+``` bash
+chmod +x filename
+
+/home/redeploy.sh
+```
+
+需要用chmod使得文件具备执行条件
+
+[参考](https://blog.csdn.net/qq_33468857/article/details/81436664)
+
 ##### 提交代码
 
 更新服务器Django代码到github

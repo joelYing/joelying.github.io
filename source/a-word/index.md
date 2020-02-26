@@ -12,13 +12,13 @@ layout: false
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.css"/>
 <!-- 在使用字蛛压缩时需要将下一条font-awesome，以及Google font的三条注释，否则报错 -->
 <!-- 还有一点，以后注意此页面更新后，字蛛能否自动更新，并压缩新添加的文字 -->
-<link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
+<!-- <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css"> -->
 <!-- <link rel="stylesheet" type="text/css" href="http://image.joelyings.com/aword.css" /> -->
 
 <!-- Google font -->
-<link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" rel="stylesheet">
+<!-- <link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap" rel="stylesheet"> -->
 <!-- font-family: 'ZCOOL XiaoWei', serif; -->
 <!-- font-family: 'Zhi Mang Xing', cursive; -->
 
@@ -161,6 +161,289 @@ layout: false
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
 	        —— 《雪中悍刀行》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	魔头谢灵抱住头颅贴在胸口，仰头发出一阵刺破耳膜的野兽嘶吼<br>
+	        	房梁颤动，抖落了许多灰尘
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 两颗头颅两行泪》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	谢灵根本不去看战场那边，双眼淌出泪水<br>
+	        	低头在娘子额头亲了一下，然后替她抹上睁大瞪圆的双眸
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 两颗头颅两行泪》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	她曾说过<br>
+	        	喂，老鬼，输了就输了呗，输给洛阳哩，又不丢人<br>
+	        	要不咱们种田养鸡鸭去好了，一起老死，不也挺好<br>
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 两颗头颅两行泪》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	他没答应，说要再与洛阳誓死一战<br>
+	        	这些年疯狂杀人夺心吃肝，越发人不像人，鬼不像鬼<br>
+	        	可她也从不嫌弃
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 两颗头颅两行泪》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	本以为这辈子多半赢不过洛阳，会死不瞑目，为何你却先死了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 两颗头颅两行泪》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	她说真有那一天，假使只差一丝一毫<br>
+	        	就可以打败那个高高在上的洛阳<br>
+	        	那就剥开她的胸膛，吃了她的心肝
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 两颗头颅两行泪》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	谢灵两行清泪变血泪！
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 两颗头颅两行泪》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	身材魁梧的蒙离不知何时出现在城门附近的阴影中，眼神复杂，脸色黯然
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	这个沉默寡言的汉子，自从十二年前自己主动请求外放到雪莲城<br>
+	        	兢兢业业帮助宋煌煌做出了平地起高楼的壮举<br>两栋高达八层的鸳鸯楼，便是在富饶的西蜀烟柳之地，也是独树一帜
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	十多年的出生入死，一次次死战后独自包扎伤口<br>
+	        	一次次站在远处望着那个背影，看得见，抓不住，求不得<br>
+	        	蒙离背靠城墙，神色阴晴不定
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	在这个刀口舔血讨生活的汉子眼中，宋夫人就像插在银瓶中的一束妖娆海棠<br>
+	        	他愿意老老实实站在远处远观，看着花慢慢凋零<br>但如果有人想要折花入袖，不管那个人是谁，是什么身份，蒙离都会揪心
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	不知何时，宋夫人佩好凉刀，策马来到城墙根下<br>
+	        	蒙离站在深重阴影中，照理说她不该看清他的异样神态<br>
+	        	宋夫人突然伸出一只手掌在鼻子附近扇了扇<br>
+	        	促狭道：“蒙离，我怎么闻到一股醋味”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	 蒙离瞬间涨红了脸，不知所措<br>
+	        	 宋夫人翻身下马，率先牵马而行，蒙离犹豫了一下，快步跟上<br>
+	        	 宋夫人柔声道：“蒙离，你的心思，我早就清楚”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	 在宋夫人大概是在酝酿些温和措辞的时候<br>
+	        	 蒙离已经苦涩开口道：“夫人，我也知道的。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	 宋夫人停下脚步，拍了拍蒙离的肩膀<br>
+	        	 第一次正面凝视着这个面貌粗糙心思细腻的汉子<br>
+	        	 她神采飞扬，那双秋水长眸流光溢彩，手指向中原，豪迈道
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	 “蒙离，堂堂七尺男儿，大丈夫何必小女子作态<br>
+	        	 也许我宋煌煌一辈子都不会喜欢你<br>
+	        	 但是你可以让我一辈子都记住有个叫蒙离的男人，如何！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	 “凉莽边境已经狼烟四起，中原腹地很快也要战鼓喧嚣，你这些年间苦读兵书<br>是想继续留在雪莲城蹉跎光阴，还是出去打拼一番”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	 蒙离久久沉默不语，终于说道：“夫人，我可以不去北凉边军，而是去两辽吗”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	 宋夫人将手中马缰递给蒙离<br>
+	        	 大笑道：“这有何不可，今日此时起，拂水房雪荷楼就只当蒙离已经死了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	 蒙离猛然上马，掉转马头，纵马奔出十几步后，再度人马转身<br>
+	        	 握紧拳头在胸口重重一锤<br>
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	 “宋煌煌，我蒙离喜欢你十二年了，也竭尽全力护着你十二年了<br>
+	        	 我不后悔，哪怕到现在，仍是很开心<br>
+	        	 以后如果我出人头地了，一定回雪莲城找你<br>若是不幸死在了两辽边关，希望每年清明时分，能给我遥祭几杯酒！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	 宋夫人大声笑道：“有本事就别死了！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        	 蒙离就此离城，单身匹马前往两辽
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一桩买卖》
 	    	</div>
     	</div>
     </div>

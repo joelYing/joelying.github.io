@@ -12,13 +12,13 @@ layout: false
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.css"/>
 <!-- 在使用字蛛压缩时需要将下一条font-awesome，以及Google font的三条注释，否则报错 -->
 <!-- 还有一点，以后注意此页面更新后，字蛛能否自动更新，并压缩新添加的文字 -->
-<!-- <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css"> -->
+<link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
 <!-- <link rel="stylesheet" type="text/css" href="http://image.joelyings.com/aword.css" /> -->
 
 <!-- Google font -->
-<!-- <link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap" rel="stylesheet"> -->
+<link href="https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap" rel="stylesheet">
 <!-- font-family: 'ZCOOL XiaoWei', serif; -->
 <!-- font-family: 'Zhi Mang Xing', cursive; -->
 

@@ -165,6 +165,398 @@ layout: false
     	</div>
     </div>
     <div class="section">
+        <div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她出身米脂那个盛产美人的地儿，而她又是方圆百里的佼佼者<br>
+	        许多姿色不如她的女子都已成为官爷军爷们的侍妾<br>
+	        或是养在好几进大私宅里的金丝雀，她不羡慕<br>
+	        只觉得守在这儿，守在右松身边就很好了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 小娘不知羞》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她站直了腰，擦了擦汗水<br>
+        	只是不知那位他们恩人的徐公子如何了<br>
+        	她俏脸一红，轻轻骂了自个儿一句不知羞<br>
+        	...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 小娘不知羞》
+	    	</div>
+    	</div>
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        许清愣了一下，眨了眨眼睛，以为自己看花眼了<br>
+	        使劲眨眼后，还是觉得不可思议
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他的身影，怎么跟那位两次途经倒马关的公子哥如此相像
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        那人转过身，许清立即如释重负，但当她看到他的眼神，又提心吊胆
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        相貌不是一个人，但眸子和眼神又太像了<br>
+	        许清整个人都懵了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        明知眼前这位高不可攀的年轻藩王，注定不可能是那个人<br>
+	        但她在这一刻，很不合时宜地想起了那个人，真的很想他了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        小娘许清知道自己不应该这样的，可她就是这样了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年其实也愣了一下，但很快想清楚其中缘由<br>
+	        板上钉钉是皇甫秤的多此一举，不过事已至此，他也不想多说什么
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        走到她身前，接过箱子，淡然说道<br>
+	        “本王自己穿衣就行，你在院子等着便是，一炷香后离开<br>
+	        跟门外的王绿亭说一声，本王说了，蟒袍不错<br>
+	        还有，让他先别急着离开王府。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        许清茫然点头，也不知道听进去了没有<br>
+        	徐凤年转过身，笑了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        在他走上台阶的时候<br>
+	        背后突然传来一声怯生生但已经肯定是那女子这辈子最大胆识的喊声：“徐公子”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他没有停下脚步<br>
+        	她涨红了脸，更是满头汗水<br>
+        	几缕鬓角发丝黏在脸颊上，抬起手臂，偷偷擦了擦
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她开心地笑了，不是他啊<br>
+        	不是才好<br>
+        	不是的话，说不定还能再见
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她还欠他钱呢<br>
+        	他说是一千五百两银子，要她还五十年
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她自己都不愿意承认，答应去金缕织造局，是听他说过自己是陵州游学的士子
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 为他人作嫁衣裳》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        姓温的店小二顺着竹子的手指，看到有女子撑伞过桥，姗姗而来<br>
+        	他站起身，笑容灿烂
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        初见她时，是返乡时在镇上集市的那场萍水相逢<br>
+	        那时候她的朋友都在笑话他这个瘸子，言语不善<br>
+	        把他当做了揩油的登徒子，只有她不一样
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        以前，小年说他是见一个女子喜欢一个，对谁都一见钟情<br>
+	        他自己原本以为遇上那回家之前的女子之时，会是最后一个一见钟情的女人<br>
+	        事实上也确实如此，那之后，他就不再对谁一见倾心了<br>可是遇上小镇上的她后，他觉得如果这辈子都能跟她过日子的话<br>
+	        平平淡淡，就已经比什么都强
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他小跑出去，她刚走下桥
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        小镇小有小的好，没那么男女授受不亲的刻板礼数<br>
+	        而她也不怕这些，倾斜了一下油纸伞<br>
+	        脸色微红着，替他挡雨
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他在她这儿，从不油嘴滑舌<br>
+	        而且事实上回家以后，他就再不像从前那样口无遮拦<br>
+	        老实本分，平平凡凡，大概这也是她喜欢他的地方
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        搁在以往，才见着一个女子，他就敢当面调戏一句<br>
+	        “姑娘，哥哥我帮你把生米煮成熟饭吧。”<br>
+	        若是女子不理睬，他还会说<br>
+	        “姑娘你能遇见我是修了三辈子的福，不嫁给我，肯定是倒了八辈子的霉。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        若是女子恼羞成怒，他还有无数后手
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        可是他如今不一样了<br>
+	        那时候，见着水灵女子，都是满脑子想着滚被窝<br>
+	        现在站在她身边，却连牵手的胆量也没有
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        江湖里，有他<br>
+	        江湖外，有她<br>
+	        老天爷不欠他温华什么了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她低下头，鼓起勇气说道：“我爹帮我说了一门亲事，我没答应。”<br>
+	        他挠了挠头，没说话<br>
+	        她抿着嘴
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他突然笑道：“要不，咱们以后生个儿子吧！”<br>
+        	她微微张大嘴巴，一脸错愕
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他长呼出一口气，不像是在开玩笑，说道<br>
+	        “当年跟我一个兄弟订了一门娃娃亲，谁生了女儿谁吃亏<br>
+	        当然，要是咱们生了个女儿，也很好。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她撇过头，涨红了脸，但似乎点了点头<br>
+	        他无意中低下头，看见她不撑伞的那只手又习惯性拧着衣角<br>
+	        他一咬牙，终于壮起胆子又握住她的手<br>
+        	她轻轻抽了抽手，然后就由着他握住
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        温华咧嘴笑着<br>
+        	不握剑了<br>
+        	握着她的手，这样的江湖，比什么都好
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 江湖之远》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">

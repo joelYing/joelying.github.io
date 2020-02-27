@@ -165,6 +165,240 @@ layout: false
     	</div>
     </div>
     <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陈芝豹停下马，转身望去
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        一小队稀稀疏疏的骑兵尾随而至，胯下战马长途追击，俱是早已疲惫不堪
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        见到为首的负剑女子，一身干涸血迹<br>
+	        陈芝豹嘴角的苦涩一笑，一闪而逝
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他调转马头，将水囊轻巧抛掷过去，可惜她没有去接
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        两人相距五十步<br>
+	        陈芝豹笑道：“就你们这种不考虑体力的截杀，来两千骑都未必能挡下我。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        已经两昼夜没有合眼的女子冷漠说道<br>
+	        “典雄畜抽调的六百铁浮屠和韦甫诚派遣的八百弩手，都死了<br>
+	        真是出息得很，都穿上了北莽甲胄。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陈芝豹云淡风轻说道<br>
+	        “杀他们做什么，他们可都没有反。只是不凑巧出现在西域而已。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐渭熊平缓了一下呼吸
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陈芝豹没有急于有所动静，仍是勒马而停<br>
+	        长枪一端指向马蹄下的黄沙，“我没有想到会是你来，否则也就不多此一举了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐渭熊讥讽道：“还有你陈芝豹没有预料到的战事”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陈芝豹淡然道<br>
+	        “算倒是算到了，只是不想承认<br>
+	        不知为何，每当我想到那些最不想出现的情景，往往都会出现，一次都没有例外。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐渭熊直接问道：“你真要反出北凉”<br>
+	        陈芝豹微微侧了侧脑袋，反问道：“谁说的”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐渭熊不再准备说话，轻轻吐纳，背后古剑颤抖不止
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陈芝豹仍是没有提起长枪哪怕一寸一尺的迹象<br>
+	        “我小时候，我不想我爹替义父去死<br>
+	        结果他二话不说带着六十二位陈家子弟去断后，他还是去了。<br>
+	        第二次，我不想世子殿下拒绝入京做安享富贵的驸马，他没去。<br>
+	        上一次，我不想他活着从北莽回到北凉，他活下来了。<br>
+	        这一次，我不想看到你，你来了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陈芝豹终于提起那杆梅子酒些许<br>
+	        “这些年，我什么都没有做，我想义父慢慢老死在北凉王的位置上<br>
+	        现在，我仍是不想做那不忠不义的逆臣逆子<br>
+	        所以先前哪怕明知道世子殿下三次出行，我仍是袖手旁观<br>
+	        最后一次不想做什么，好像偏偏又出现了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陈芝豹弯腰从挂囊中取出一枚枪头，嵌入那一杆本就不完整的梅子酒
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        低头时，这位白衣缓缓说道<br>
+	        “梧桐院子那个叫青鸟的丫鬟，是枪仙王绣的女儿，我知道<br>
+	        那杆刹那枪留在了武库，我也知道<br>
+	        她被培养成死士，以后专门用作杀我，我还是一清二楚。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “徐渭熊，既然你是那个躲躲藏藏了二十多年的死士甲<br>
+	        我陈芝豹今天就让你死<br>
+	        毕竟，你生前最后见到的男人，还是我。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “我会带你着你的尸体去西蜀，做十年的蜀王妃。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 截杀截杀截杀》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
         <div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">

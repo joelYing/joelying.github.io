@@ -168,6 +168,361 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        徐凤年纳闷问道：“你跟我说这些做什么”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她托着腮帮，无形中将胸脯搁在桌面上<br>
+	        呈现出两团晃眼的丰硕，媚眼笑道<br>
+	        “你这才入江湖的雏儿，酒里没有蒙汗药，就不许老娘在碗底抹上一些吗”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年瞪眼道：“你”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她笑道：“敢吃老娘的豆腐，你有几条命<br>
+	        等会儿把你脱光了丢到砧板上，先剁下你的那条小蚯蚓，做下酒菜<br>
+	        你说滋味该是如何”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年摇摇坠坠，她愈发开心了<br>
+        	结果摇了半天，她也没瞧见这俊逸书生倒下
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        直到察觉到眼前年轻公子哥一双勾人丹凤眸子眯起<br>
+	        她才咬着嘴唇愤恨道：“逗我好玩吗”<br>
+        	徐凤年坐直以后，哈哈笑道：“好玩。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        结果，女子噗嗤一声，笑道<br>
+	        “傻乎乎的俊哥儿，老娘其实没在你碗底抹药，谁玩谁呢”<br>
+        	徐凤年愕然
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她柔声道<br>
+	        “你走吧，别意气用事，上山去了那座寨子，就算掉进了大火坑<br>就算你运气好，有过硬身手傍身，被你爬出来，怎么也得掉一层皮。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年柔声道<br>
+	        “谢过你了，知道方才你扮恶人，是想帮我脱身<br>
+	        被捅上一刀换活命，不过就是丢了一身家当，怎么看都是赚的。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她笑了笑，没有言语<br>
+        	徐凤年低头喝了口酒<br>
+        	两两无言
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她突然说道<br>
+	        “以往我不是这般菩萨心肠的，只不过你长得跟我男人有几分相像而已。”<br>
+        	徐凤年一本正经点头道：“由此可知你男人是何等的风流倜傥。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        女子娇笑着泼了一碗酒过来<br>
+        	徐凤年轻轻伸出手，揽雀式<br>
+        	无比玄妙地将酒水凝成一块，然后重新放回她眼前碗中<br>
+        	谁说覆水难收<br>
+        	...
+        	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 揽雀收覆水》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        这名也曾素手研墨红袖添香的女子，也曾做过人肉包子的青竹娘<br>
+	        醉眼惺忪，泪眼朦胧
+	        </div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 这么高》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “我那夫君，没做过什么坏事，好事倒是做了太多<br>
+	        府上丫鬟都是苦命孩子，犯了纰漏，他都不舍得说重了<br>
+	        都由我来白脸红脸一并唱了<br>
+	        家里租赁出去的庄稼地，年份不好<br>
+	        说是收了欠条，可堆了一年又一年<br>
+	        哪有去讨要过？怎么就这么死了？”
+	        </div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 这么高》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “你们既然是替天行道的英雄好汉，劫富济贫就是<br>
+	        为何连人都杀光了才肯罢休？你们杀的，都是不比你们坏的好人啊”
+	        </div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 这么高》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年平静道<br>
+	        “我上次见到远嫁的大姐，劝她回家，她不肯<br>
+	        说初嫁从亲再嫁由身。我知道她在等人。”
+	        </div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 这么高》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        妇人哭笑了一声，“等到没有”<br>
+	        徐凤年点头道：“等到了，可我宁愿没有等到。”<br>
+	        她撇过头，胡乱擦了擦眼泪，不再喝酒，也不再抽泣<br>
+	        两人沉默以对
+	        </div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 这么高》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        砰一声，喝醉了的她脑袋侧着敲在桌面上<br>
+	        她嘴唇颤抖平伸出一只手，柔声道<br>
+	        “我女儿，若是活着，该有这么高了吧”<br>
+        	她伸出去的手掌略微抬高了一些<br>
+        	那只按在桌面上的手，五指僵硬，“要更高一些。”
+        	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 这么高》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年说道<br>
+	        “我啊，重新捡起刀习武以后<br>
+	        好像就没做过半次跟行侠仗义搭边的好事<br>
+	        今天不讲理一次，你说想杀谁，我就杀谁。”
+	        </div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 这么高》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她只是痴痴扭头，望着这个愈发陌生的陌生人，问道<br>
+	        “你杀了人，我女儿就能活着，被我看着一点一点长高吗”
+	        </div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 这么高》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年背好那柄春秋剑，往山上行去<br>
+	        ...
+	        </div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 这么高》
+	    	</div>
+    	</div>
+        <div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        青竹娘一脸愕然，然后喃喃自语：“死了终于死了”<br>
+        	徐凤年点头道：“死得不能再死了，不骗你。”
+        	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风情胸间来》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        青竹娘趴在桌面上怔怔出神<br>
+	        高耸双峰又出来吓唬人了不是？就不怕压塌了桌子啊？<br>
+	        徐凤年正大光明瞧了几眼，笑问道：“会骑马”<br>
+	        青竹娘媚眼一抛，“老娘连人肉包子都会做，怎么不会骑马。”
+	        </div>
+		      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风情胸间来》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年眼神古怪，点头恍然道：“会骑马啊。”<br>
+	        青竹娘媚眼如丝，桌底一脚轻柔踩在这名负剑游子的脚背上<br>
+	        柔声道：“可不是哩？公子不信的话......”
+	        </div>
+		      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风情胸间来》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年摇头道：“我不是随便的男人。”<br>
+	        青竹娘停下挑逗，眼皮低敛，轻声道：“我是随便的女人，是吧。”<br>
+	        言语末尾，甚至连疑问语气都不曾有<br>
+	        ...
+	        </div>
+		      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风情胸间来》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年这才慢慢起身，绕着酒桌走到青竹娘身边，将她一把抱起<br>
+			把她抱到自己那匹马上，仰起头说道<br>
+			“青竹娘，去蓟州，以后找个看得上眼的男人，再嫁了便是<br>
+			谁敢碎嘴你，我让两位当家的撕破他们嘴巴。”
+			</div>
+		      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风情胸间来》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			马背上，还带着酒劲的少妇突然哭了起来<br>
+			弯腰抱住这名游学书生的脑袋，只是不肯松手
+			</div>
+		      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风情胸间来》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			很久，很久<br>
+        	徐凤年终于无比艰辛出声道：“我喘不过气了。”<br>
+        	忠义寨汉子们都看傻眼了，何况青竹娘竟然还有像小娘子娇羞的时候
+        	</div>
+		      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风情胸间来》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年轻声道<br>
+			“好好活着，天底下就没有比这更大的道理了。”<br>
+        	她点了点头，擦去泪水
+        	</div>
+		      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风情胸间来》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        陈芝豹停下马，转身望去
 	        	</p>
 	    	</div>

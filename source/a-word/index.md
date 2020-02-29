@@ -168,6 +168,355 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        七窍微微流血的中年书生转身<br>
+	        似乎想要伸手去触碰妻子，但终究没有这个勇气<br>
+	        走到院门口与女儿擦肩而过时，柔声道<br>
+	        “青锋，以后就由你照顾你娘了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 指玄对指玄》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        妇人猛然喊道：“轩辕敬城，你要去哪里”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 指玄对指玄》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        中年书生继续前行，温言笑道：“去牯牛降大雪坪<br>
+        	把这个家扫地扫干净了，你们便真正自由了<br>
+        	圣人说一屋不扫何以扫天下，可惜轩辕敬城这辈子也就只能做到这一步了”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 指玄对指玄》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “轩辕敬城不后悔当年娶你。”<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 指玄对指玄》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        她跨过门槛，看也不看那具血肉模糊的尸体，笑道<br>
+	        “这又如何，轩辕敬城不是咱们娘俩知道的那个轩辕敬城<br>
+	        我就得悔青了肠子，哭得梨花带雨去求他回心转意<br>
+	        然后与他相敬如宾，在徽山一起白头偕老？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 天象对天象》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        轩辕青锋泪流满面，道<br>
+	        “娘，你当真一点都不心疼？”<br>
+        	她笑了笑，道<br>
+        	“我啊，早就不知心疼的感觉了<br>
+        	你要想去，就去大雪坪吧，娘想一个人好好静一会儿。”<br>
+        	...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 天象对天象》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        她终于启封一坛酒，搬来一套尘封多年的酒具，酒具是那男人自制而成<br>
+	        反正除了习武，那人仿佛没有不擅长的事情
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 当归》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			独坐的她盛了一杯酒，放在桌上<br>
+			好似对于喝不喝酒，犹豫不决<br>
+			她没来由开始恼恨自己，伸手猛地拍掉酒杯
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 当归》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			半响后她起身去拿回酒杯，才发现杯底刻有两行小字，字迹清逸出尘
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 当归》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	“人生当苦无妨，良人当归即好。”<br>
+        	...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 当归》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+        	轩辕敬城说过一句话，娘难得记下了<br>
+        	男儿腹中才华千万斤，不及女子胸前四两重
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+        	已不再年轻的女子眼神柔和，笑道<br>
+        	“一杯桂酒入嘴去，两朵桃花脸上来。”<br>
+        	轩辕青锋平淡道：“这是爹写的。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	她平静道<br>
+        	“轩辕敬城说了那么多写了那么多，总有几句会记住的<br>
+        	古籍记载招摇山多古桂，可娘亲上山时，已经所剩不多<br>
+        	其中又以那株唐桂最年老最茂盛<br>
+        	每到秋季，桂子如雨，荣而不媚”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她犹豫了一下，缓缓道：“就好似轩辕敬城为人处世。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			轩辕青锋握紧酒杯，抬头死死盯住她<br>
+			咬牙哽咽道：“现在再说我爹的好，岂不讽刺至极”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她淡然道：“娘可曾说过轩辕敬城的不好”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			轩辕青锋嘴角咬破，渗出血丝在酒杯中，声音颤抖问道<br>
+			“娘，你喜欢过爹吗，哪怕是一点点？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她摇头道：“不知。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			轩辕青锋发疯般冷笑连连，道<br>
+			“那便是从未喜欢过了。可怜爹为你读书二十年<br>
+			读出一了个千百年来天底下最滑稽可笑的陆地神仙”<br>
+        	她没有反驳
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			轩辕青锋丢掉酒杯，霍然起身，背对她时，沉声道<br>
+			“娘，你放心<br>
+			爹耗费心神才造就眼下局面<br>
+			青锋一定会拼死让徽山不倒，好让娘过一个安安稳稳的晚年”<br>
+			她还是没有出声
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			等到轩辕青锋离开庭院，她才缓慢起身<br>
+			拎起烫手酒壶不觉疼痛，径直走往大雪坪
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			雨过天晴，大雪坪风景怡然
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她来到崖畔，展露出一个谁都不曾见过的凄美笑颜<br>
+			“敬城，不与你赌气了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她纵身一跃
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 赌气》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			附：<br>
+			即便这仅是看似中年的道人早已超脱，此时仍是喟叹道<br>
+			“轩辕敬城，既然明知强求不来，那般付出，又是何苦来哉？<br>
+			一身才华，贫道生平仅见<br>
+			若是用在徽山以外，天地何人何事能让你束手束脚？<br>
+			怎就为了一名女子，便赌上一切，只为了能远远瞧上几眼？<br>
+			相争不如不争啊”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 等红衣》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			“还有你这痴情却不懂情的女子<br>
+			纲常伦理道德羞耻，不顾便也不顾了，怎的连谁对你好都罔顾了？<br>
+			你口口声声不挂念轩辕敬城，可若真不挂念<br>
+			为何要如何让轩辕敬城不痛快，便如何悖逆行事？<br>
+			人与人相遇，结缘无非善孽两种，孽缘就不是缘了？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 等红衣》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			以后你就会明白，有些女子，明知很不好，可就是放不下的
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 等红衣》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        徐凤年纳闷问道：“你跟我说这些做什么”
 	        	</p>
 	    	</div>
@@ -744,7 +1093,7 @@ layout: false
     	<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
-	        “我会带你着你的尸体去西蜀，做十年的蜀王妃。”
+	        “我会带着你的尸体去西蜀，做十年的蜀王妃。”
 	        	</p>
 	    	</div>
 	      	<br>

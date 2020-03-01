@@ -168,6 +168,504 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        苏酥恶狠狠道<br>
+	        “你再这样，我可就使坏了啊<br>
+	        孤男寡女的，我脱衣服了，真脱了啊<br>
+	        我先脱为敬，姑娘你看着办，随意。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大雨撑小伞，指玄对金刚》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她面朝苏酥，歪了歪脑袋，依稀可见嘴角翘起
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大雨撑小伞，指玄对金刚》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        苏酥无可奈何，伸手将油纸伞往她那边推了推，说道<br>
+	        “得，你厉害，你是女侠。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大雨撑小伞，指玄对金刚》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        一起站着淋雨，苏酥实在扛不住大雨稀里哗啦往身上冲刷，郑重其事道<br>
+	        “姑娘，你真不怕淋出病来？要是病倒在我家门口，可没钱帮你治病。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大雨撑小伞，指玄对金刚》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她靠近苏酥，一起撑伞<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大雨撑小伞，指玄对金刚》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+			这个貌不惊人的年轻人本名苏瑛，他的父亲是蜀国皇帝<br>
+			他的亲叔叔是那个大名鼎鼎死守国门的西蜀剑皇<br>
+        	但他始终只觉得自己叫苏酥更顺口一些，也更轻松惬意一些<br>
+        	只是那个在整日浪荡北莽那座小城的小人物，做着自己都觉得滑稽的白日梦
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 少侠和魔头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	所以在和她来到南诏后<br>
+        	除了勉强应酬那些十几年前都是高不可攀的年迈权贵<br>
+        	更喜欢带着她去外头散心透气，而目盲的她也从不拒绝<br>
+        	背着古琴与他一起走江湖，走他心目中的江湖
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 少侠和魔头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	他说他这辈子最想当大侠，她说好<br>
+        	然后她亲手帮他买了一名大侠该有的绝世宝剑<br>
+        	帮他装扮了一身看着就像世家子的行头<br>
+        	教他行侠仗义的时候如何开场说话，如何假装高人风范
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 少侠和魔头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	她来做杀人如麻的女魔头，他来当那个打败魔头的大侠<br>
+        	...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 少侠和魔头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        突然，苏酥猛然惊醒，疯狂一般冲出屋子<br>
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 少侠和魔头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			然后他看到她飘然离去，落在了芦笙场之中，站在了那些甲士之前
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 少侠和魔头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			苏酥突然哭笑起来<br>
+        	这个在异国他乡胆小如鼠了二十来年的年轻人<br>
+        	这个在前不久两人演戏中还傻乎乎崴脚的蹩脚少侠<br>
+        	第一次满肚子的豪气，趴在栏杆上，扯开嗓子吼了一句
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 少侠和魔头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			“媳妇，等我！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 少侠和魔头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			只是薛宋官没有让他豪气干云太久<br>
+			她扯去包裹古琴的棉布后，轻拨一根琴弦<br>
+			美人靠后的苏酥就立即晕厥过去
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 少侠和魔头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			然后目盲的她转头“回望”了一眼
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 少侠和魔头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她只是有些遗憾，都说曲散人终<br>
+        	她见不到，他听不到<br>
+        	...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 少侠和魔头》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			苏酥转过头，笑脸灿烂<br>
+			“如果，我是说如果有一天，我能够真正放下一切陪你去行走江湖了<br>
+			我要是跟新认识的大侠宗师们说一句<br>
+			当年跟天下第一人的徐凤年还跟我蹭吃蹭喝过，会不会很有面子？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			女子想到自己当年在北莽，还差一点就在雨巷中杀了那位年轻藩王<br>
+			会心一笑，“不能再有面子了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			苏酥笑意醉人<br>
+			“虽然还是很嫉妒徐凤年，但世上有种人，不管如何<br>
+			只要认识了，你都讨厌不起来。是吧？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			目盲女琴师笑着没有说话
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			苏酥小心翼翼问道<br>
+			“你真的……不喜欢他？<br>
+			说实话，如果我是女子的话，恐怕也会对他恋恋不忘的。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她无奈道<br>
+			“喜欢他做什么？因为徐凤年长得玉树临风？<br>
+			可我是个瞎子啊。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			苏酥挠了挠头，总觉得这个理由有哪里不对
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她趴在栏杆上<br>
+			“以后我们去中原江湖的话<br>
+			还是我扮演杀人如麻的女魔头，你假扮行侠仗义的少侠？”<br>
+        	苏酥望着远方，眼神坚毅，“不了！我们神仙眷侣！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			目盲女子破天荒红了脸，扭过头，轻声道<br>
+			“酥酥，我是个瞎子。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			苏酥低下头，看着她留给自己的后脑勺，温柔道<br>
+			“我知道。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			这位指玄境界的女子高手柔柔怯怯道：“我岁数也比你大。”<br>
+        	苏酥笑道：“我也知道。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她转过头，抬起头，“望着”苏酥，似笑非笑道<br>
+			“如果以后到了佳丽无数的中原江湖，给我发现你多瞅了几眼女侠仙子<br>
+			我薛宋官就把她们直接打杀了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			苏酥悻悻然道：“这个嘛……以前真不知道，不过现在也知道了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她嫣然一笑，“骗你的。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			苏酥伸出手掌轻轻放在她的额头，“我虽然不是瞎子，但我眼里，只有你。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大珠小珠落玉盘（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+			徐凤年好奇问道：“薛姑娘可是有话要帮苏酥或是陆老夫子转告？”<br>
+			背负琴囊的目盲女子摇头道：“苏酥对北凉的愧疚，我来偿还。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 北莽压境拒北城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年停下脚步<br>
+			“那你有没有想过，一旦你死在凉州关外<br>
+			苏酥一辈子都抹不平的遗憾，谁来弥补？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 北莽压境拒北城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			薛宋官一如既往地语气清冷道<br>
+			“我只知道，苏酥活得不开心<br>
+			我能做到的事情却没有做，我这辈子也不会开心。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 北莽压境拒北城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年摇头沉声道：“薛宋官，我劝你回西蜀，回到苏酥身边！”<br>
+			薛宋官同样摇头道：“我绝不能让他继续觉得‘百无一用是苏酥’！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 北莽压境拒北城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年脱口道：“你有没有想过苏酥到底想要什么，又是最想要什么？”<br>
+        	薛宋官转头，目盲的她轻轻“望向”这位年轻藩王
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 北莽压境拒北城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年顿时无言以对<br>
+        	自己那些不为人知的所做之事，与这位看似不可理喻的执拗女子，有什么两样？
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 北莽压境拒北城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年重重吐出一口浊气，苦笑道：“那就留下来吧。”<br>
+        	薛宋官点了点头<br>
+        	两人继续前行，徐凤年突然说道：“这会儿，酥饼肯定在胡乱吃醋。”<br>
+        	薛宋官会心一笑，嘴角翘起，满脸温柔
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 北莽压境拒北城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年哼哼道：“薛姑娘，你竟然能看上酥饼这种家伙，真是……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 北莽压境拒北城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			年轻藩王没有继续说下去，薛宋官笑道<br>
+			“王爷是想说瞎了眼吧，可我本来就是个瞎子啊。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 北莽压境拒北城》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        七窍微微流血的中年书生转身<br>
 	        似乎想要伸手去触碰妻子，但终究没有这个勇气<br>
 	        走到院门口与女儿擦肩而过时，柔声道<br>

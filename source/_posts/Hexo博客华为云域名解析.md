@@ -117,7 +117,6 @@ Ctrl+R 进入 运行 输入 cmd ，输入命令 Ping 域名(例：Ping genmcai.g
 
 2. 在coding的项目的静态网站（默认没有静态网站的可以去项目设置的功能开关中打开构建与部署）设置中，添加绑带域名，也确保华为云域名解析设置中添加`CNAME`记录指向`xxx.coding-pages.com`
 
-
 ## SEO优化
 
 ### 收录
@@ -165,7 +164,9 @@ permalink: :year/:month/:day/:title/
 permalink_defaults:
 ```
 
-然后提交上去，下面会有结果，刷新之后会显示状态正常，后面还有提取的链接数量（可能很久，且注意github端也部署的话会导致百度抓取超时而发生错误，所以最后我把网站只部署在Coding）
+然后提交上去，下面会有结果，刷新之后会显示状态正常，后面还有提取的链接数量
+
+<div class="note warning no-icon"><p>被百度收录的过程极其漫长，且注意Github端也部署的话会导致百度抓取超时而发生错误，所以最后我把网站只部署在Coding，于是在站点配置文件的deploy处删去Github的repo，只保留Coding的，然后"hexo clean && hexo g && hexo d"就只会提交到Coding，再把源码提交到Github即可；而Github端，在个人博客仓库的Settings中将"Custom domain"置空，保存后则可以继续访问"https://username.github.io/"</p></div>
 
 sitemap会定期自动更新，如果添加了新页面，想快速收录的话，可以手动更新文件
 

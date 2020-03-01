@@ -163,6 +163,6 @@ theme: next
 deploy:
   type: git
   repo: 
-    github: https://github.com/joelYing/joelYing.github.io.git
+    # github: https://github.com/joelYing/joelYing.github.io.git
     coding: git@e.coding.net:busishu/hexo.git
   branch: master

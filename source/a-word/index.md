@@ -168,6 +168,344 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        女子一如既往，默不作声<br>
+	        端上温热适宜的饭菜，小筷子夹菜吃着<br>
+	        偶尔打量一眼，那个一只脚架在长凳上<br>
+	        只顾自己狼吞虎咽的男子，从不愿与她多说一句话的男子<br>
+	        便是她的夫君了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        却也从来不见她如何把幽怨委屈摆在那张清清秀秀的脸面上
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        张边关总喜欢说她之所以这般好脾气，是畏惧他的家世<br>
+	        瘦死骆驼比马大，他张边关再没出息，也是张巨鹿的儿子<br>
+	        她能不小心翼翼伺候着？<br>
+	        只是每次说到这点，张边关总要自己给自己一个大嘴巴<br>
+	        说花鸟鱼虫才用伺候这两个混账字
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        然后她就偷着笑，直到张边关瞪她，她才撇过头<br>
+	        只是嘴角那份淡淡笑意不见清减就是了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这一晚的深夜，张边关在她熟睡之后，悄悄呜咽起来
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “我是怕自己喜欢你，更怕你喜欢上我，才这样的啊。”<br>
+        	“我怎么会不想要一个听话懂事的孩子，儿子女儿都很好啊。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “可我是张巨鹿的儿子，我做的越多，错的就越多<br>
+	        如果我把真相跟你说了，你是逃走？可你能逃到哪里去？<br>
+	        不逃，活得就能比当下更轻松了？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “你再笨，陪着我死的时候也会醒悟过来，可我宁肯到那个时候你再来恨我<br>
+	        只想着让你这会儿糊糊涂涂埋怨着我不争气，没出息，不当家<br>媳妇，这辈子就当我欠你了，如果真有下辈子，我肯定还你……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        张边关满脸泪水，胡乱擦干净以后，渐渐昏昏沉沉睡去
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        那个背对他面墙而睡，整夜纹丝不动的温婉女子<br>
+	        直到听到夫君的鼾声，这才缓缓睁开眼<br>
+	        她的眼神，温柔依旧<br>
+	        一如她当年走下轿子那一天，被他掀起红盖头那一刻<br>
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        第二天清晨，张边关又没心没肺般吃过早点，大步出门离家<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        今天的首辅大人幼子，依旧还是那个太安城甚至是天底下最值得嘲弄的世家子
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        可那女子呢？
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        女子安安静静做着一件又一件的琐碎家务<br>
+	        她手头没有事情的时候，就斜坐在内院门槛上<br>
+	        望向院门，等着他回家<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 家事国事天下事》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        张巨鹿招招手，让管事又搬来一条小板凳，坐下后问道<br>
+	        “这趟来的由头，是不是蔓儿跟你要了一封休书？觉着一口郁气出不得？<br>
+	        都嫁鸡随鸡嫁狗随狗那么多年了，却在这个关头弃你而去？<br>
+	        有种夫妻本是同林鸟大难临头各自飞的憋屈感觉？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 离阳失其鹿（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			被接连问了好几个问题的张边关摇头道：“她这么做，我不介意。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 离阳失其鹿（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			张巨鹿欲言又止，最后只是说道<br>
+			“别恼她，张家三个儿媳妇，就数她最不容易<br>
+			难为她做这个恶人了，这般聪慧心善的良家女子<br>
+			是我们张家对不住她。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 离阳失其鹿（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			张边关直直望向这个爹，后者反问道：“明白了吗？”<br>
+        	张边关猛然间记起一事，顿时哽咽起来
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 离阳失其鹿（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			女子无情时，负人最狠<br>
+        	女子痴情时，感人最深
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 离阳失其鹿（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+			一条狭窄巷弄里的僻静院落，一个女子安静坐在内院门槛上<br>
+			外院柴门开着，她望着门外
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size:18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 西北遍地起狼烟，京城人人得太平》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			像是在等人回家
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size:18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 西北遍地起狼烟，京城人人得太平》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她偶尔会听见那些贩卖冰糖葫芦的悠扬吆喝声从远处传来<br>
+			但可能是这条巷子实在太小了，见不着那些小贩扛着糖葫芦的身影从门口经过
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size:18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 西北遍地起狼烟，京城人人得太平》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她伸手放在腹部，柔声道：“边关，我和孩子都很好。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size:18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 西北遍地起狼烟，京城人人得太平》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			但我们都很想你
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size:18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 西北遍地起狼烟，京城人人得太平》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+			桓温辞世的第二年，离阳新帝为永徽年间第一人张巨鹿平反<br>
+			追封安国公，美谥文正
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 事了拂衣（下）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			有个姿色并不如何出众的温婉妇人<br>
+			带着已经可以背诵许多儒家经籍的孩子<br>
+			看着那一排坟墓，让她儿子依次磕头过去
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 事了拂衣（下）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			最后娘俩并肩坐在一块刻有张边关这个名字的碑前<br>
+			孩子像往年一样，为他爹，为他爷爷<br>
+			为母子两人和一位女子之外的那张家一家人，大声读书
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 事了拂衣（下）》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        苏酥恶狠狠道<br>
 	        “你再这样，我可就使坏了啊<br>
 	        孤男寡女的，我脱衣服了，真脱了啊<br>

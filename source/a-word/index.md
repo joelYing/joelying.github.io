@@ -168,6 +168,438 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        她直截了当道<br>
+	        “既然公子不是北莽蛮子，那我就可以说些敞亮话了<br>
+	        如有冒犯，请公子不要生气<br>
+	        只要公子能保住司马家族一百二十四口人<br>
+	        不论公子索要什么，只要我给得起，我一定给！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年没有说话<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        徐凤年转头看着这个女子，眼神恍惚<br>
+        	她瞬间眼神冰冷起来，无形中语气也冷硬了几分<br>
+        	“我说过，只要我给得起，公子都可以拿走！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她这辈子实在是见过太多男子在她面前露出这种神色了<br>
+	        早年是外城权贵，后来是内城枭雄<br>
+	        比如董家的董铁翎，李家的那父子三人<br>
+	        还有那些个自恃榜上高手便言语轻佻的男子
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她面无表情道：“但是公子要的，我只会给一次。”<br>
+        	她早就不是那种会以为江湖处处有侠义的无知少女了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这么多年，为了这个家族<br>
+	        她顺应西域这座城的规矩，也做了许多超出道义底线的事情<br>
+	        残酷，血腥，肮脏，阴谋，算计，陷阱
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        但是对她自己来说，有件事，始终守住了底线<br>
+	        她原本以为再过几年，也许最多十年<br>
+	        西域都不会再对她这个柴夫人的容颜津津乐道<br>
+	        不会再有年轻人也会对她的身段垂涎三尺<br>
+	        那么她就算对得起那个记忆早就模糊只剩下一个姓氏的丈夫了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年没有因为误会而恼羞成怒，只是笑了笑<br>
+	        “柴夫人想多了，只是你让我想起了一个很重要的人。”<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        柴夫人嫣然一笑，轻轻点头<br>
+	        “对啊，在堂堂北凉王眼中<br>
+	        恐怕除了北莽百万大军压境，就再没有大事了<br>
+	        除了离阳皇帝和北莽女帝，也再没有什么大人物了吧？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年讶然道：“猜出来了？”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她沉默片刻，微笑道<br>
+	        “本来是随口胡诌的<br>
+	        王爷肯定是只有在无足轻重的女子面前，才这么容易被套话，对吧？”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年也不否认什么，忍俊不禁道：“这么记仇，不好。”<br>
+        	这下轮到柴夫人目瞪口呆了，“你真是北凉王！”<br>
+        	...
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        柴夫人笑着轻轻摇着头<br>
+	        似乎是不敢相信自己脚下这块渗满鲜血的土壤<br>
+	        有一天会出现这幅世外桃源的美好画面<br>
+        	但她下意识伸手捋了捋一缕散乱的鬓角青丝，动作轻柔地捋往耳后
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        当时在城内，徐凤年与拓拔菩萨大战在即<br>
+	        她承诺只要徐凤年出手帮助司马家族稳住局势<br>
+	        那么她和家族就会尽力为北凉出力死战一次<br>
+	        大概徐凤年和柴冬笛都没有想到，需要她这么快就兑现承诺<br>
+	        而徐凤年更没有想到，这个女子竟然真的就亲自带人出战了
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        一诺千金<br>
+       		这四个字，没有半点水分
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        侠，女子也做得<br>
+        	侠气，女子也不少
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        柴夫人柔声道：“王爷真不把柴冬笛当外人呀。”<br>
+        	徐凤年举起双手，苦兮兮求饶道：“柴夫人，你就放过我吧。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	柴夫人在马背上捧腹大笑<br>
+        	徐凤年的眼角余光，有意无意瞥了一下那边<br>
+        	峰峦起伏啊<br>
+        	徐凤年其实心无杂念，有些追思，有些枉然
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	...<br>
+        	柴夫人突然笑了，眨了眨眼眸，转头俏皮道<br>
+        	“我是个姿色……还过得去的女子<br>
+        	不管对王爷怎么想，都还是想着能让男子喜欢的<br>
+        	尤其是那种不是一眼见着我就想着饿虎扑羊的男子<br>
+        	如果他时时刻刻正人君子，心里头，会失落的。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			“就像王爷说有些得意，只能与某些女子说<br>
+			我这些很不守妇道的言语，也只能跟王爷说了。”<br>
+			...
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+			柴夫人抿起嘴唇，痴痴望着他<br>
+			...
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+			徐凤年抱拳送行，然后便缓缓前行<br>
+			冷不丁柴夫人在身后轻轻喊道：“徐凤年。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年根本就没有转头，快马加鞭
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			柴夫人笑着大声道：“我柴冬笛在西域等你！我要给你生孩子！”<br>
+			徐凤年落荒而逃
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+			很多很多年后，西域凤州一座城头<br>
+			大雪停歇后，妇人已白头，坐在轮椅上<br>
+			膝盖上搁着温暖厚重的毯子，笑望向远方，合眼而睡
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			一个恍惚，好像便等了很多年<br>
+        	老妇人泪眼婆娑，小声呢喃
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			弥留之际，她突然竭力睁开眼眸<br>
+        	她终于笑了
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她视线模糊，用心且用力地望向那个蹲在身边的人<br>
+			沙哑道：“有些晚哦。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			那个人点头道：“让你久等了。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她微微摇头，试图抬起手，似乎是想着理一理鬓颊发丝<br>
+        	但是她实在没有那份精气神了<br>
+        	所以她有些遗憾
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			那个人帮她拢了拢毯子，柔声道：“放心，你还是很好看。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她低下头，嘴唇微动<br>
+        	他嗯了一声，说道：“好的。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她说<br>
+        	下辈子<br>
+        	她闭上眼睛
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			初见，他便是这么温柔<br>
+			最后一次见，还是如此<br>
+        	不管有没有下辈子，都没有关系了
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			城头之上，夕阳西下<br>
+        	老人，她叫柴冬笛<br>
+        	老人，他叫徐凤年
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（三）》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        女子一如既往，默不作声<br>
 	        端上温热适宜的饭菜，小筷子夹菜吃着<br>
 	        偶尔打量一眼，那个一只脚架在长凳上<br>

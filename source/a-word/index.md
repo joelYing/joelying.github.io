@@ -168,6 +168,398 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        年轻人摇头道<br>
+	        “师父，还是算了吧，我本来早就想离开这里了<br>
+	        只是……只是怕师父到了西蜀找不到我，这才没有离开。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        原本脸色并不显怒容的中年人听到这句话后<br>
+	        不知为何竟是骤然阴沉下来，好似被触及了逆鳞
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        言语一直云淡风轻的中年人，微微提高嗓音，略带责怪意味<br>
+	        “你就没有告诉他们，你师父姓什么叫什么？！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        年轻人愣了一下，低下头道<br>
+	        “当时对方气势汹汹找上门来，打生打死的，徒弟不小心忘了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        中年人冷哼一声，“我看是不愿意说出口吧？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        年轻人憨憨笑道<br>
+	        “说出去多丢人，白叫人知道师父你找了这么个没出息的徒弟<br>
+	        再说了，我真没脸没皮报上你的名号，谁信呐？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        中年人愕然<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        他突然想起很多往事<br>
+	        这个徒弟总是嫌弃他这个当师父的，行走江湖不够宗师风范，没有神仙风采<br>
+	        总是要他要多注意派头，总是愤懑于他的名头被谁压下了<br>
+	        恨不得整个离阳都知道他的师父才是当之无愧的天下第一人。
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        可是，那个少年似乎从来没有想过<br>
+	        让天下人知道他那个师父其实收了个徒弟<br>
+	        从来没有想过让江湖知道那个人的徒弟，到底叫什么名字
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        整座江湖，没有人知道那个牵驴少年的名字<br>
+	        甚至连桃花剑神的徒弟姓什么都不知道吧
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        自从他收了这个徒弟后，两人一起行走江湖<br>
+	        再有路见不平，这才会在徒弟的连累下不得不出手
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        每次他救了人就要不耐烦地离开<br>
+	        徒弟便会磨磨蹭蹭跟所救之人笑道<br>
+	        我师父那是桃花剑神邓太阿，你们千万别忘了啊！
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        你师父是桃花剑神邓太阿<br>
+        	那我邓太阿的徒弟又是谁？
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        中年人轻轻呼吸一口气<br>
+	        看着那张已经长出些许青涩胡茬子的年轻脸庞<br>
+	        然后转头望向那个卖花少女，笑道<br>
+	        “小姑娘，我叫邓太阿，我的徒弟叫李怀念。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        一头雾水的少女红着脸说道<br>
+	        “邓叔叔，我是知道李大哥名字的。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        邓太阿扪心自问，用自己才能听到的声音伤感道<br>
+	        “可是这个狗娘养的江湖不知道。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        那一晚，邓太阿满身酒气，和徒弟李怀念缓步走在小巷中
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			邓太阿突然说道<br>
+			“买猪看圈，娶媳看娘<br>
+			听你的说法，听雨楼那个女子显然不适合你<br>
+			倒是阿草，是能够陪着你过日子的女子。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			李怀念嘿嘿一笑
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			邓太阿拍了拍徒弟的肩膀，没来由说了一句<br>
+			“师父这辈子没为你做过什么事情……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			李怀念欲言又止，邓太阿摆了摆手<br>
+			打断了徒弟想要说的话，继续说道<br>
+			“你想不想是你的事情，师父不管<br>
+			既然你如今多半是要在西蜀这边安家了<br>
+			那师父总要尽量让这里不要陷入兵荒马乱的境地”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			“加上师父本就想要去北凉一趟，你也别担心<br>
+			当今天下，不管是离阳太安城还是凉莽边关<br>
+			只要师父自己想走，就没有人拦得住师父。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			年轻人小声道<br>
+			“师父，如果成家立业<br>
+			以后恐怕就很难再跟你一起闯荡江湖了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			邓太阿笑道：“以后有事没事，我都会常来西蜀看看你们。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			年轻人犹豫了一下，问道<br>
+			“师父，我不是徐凤年那样的人物<br>
+			没能让师父有个可以不辱没你名声的弟子，对不起。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			邓太阿正色摇头道：“你错了，有你这个徒弟，已经是最好了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			离阳江湖有曹长卿有徐凤年这样的风流人物，当然很好<br>
+        	但我邓太阿有你这样的徒弟，是最好
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			天底下如果有人要你过得不好<br>
+			很简单，先问过我这个做师父的答应不答应
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+			中年人想起昨夜师徒二人坐在小院里谈心的末尾<br>
+			徒弟跟他说就不要跟剑雨楼计较什么了，他当时点头答应了<br>
+			徒弟信不过，又重复了一遍<br>
+			他笑着说当徒弟的尚且这么好说话，他这个做师父的能差到哪里去
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			事实上邓太阿还有句话没有说出口<br>
+			他这个师父从来就没有跟谁好说话过<br>
+			对吴家剑冢是如此，对江湖也是如此
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			所以摊上他这么个爱管闲事又心慈手软的徒弟<br>
+			是他邓太阿这辈子除了练剑有成之外，最大的麻烦<br>
+			也是最大的骄傲
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        她直截了当道<br>
 	        “既然公子不是北莽蛮子，那我就可以说些敞亮话了<br>
 	        如有冒犯，请公子不要生气<br>

@@ -168,6 +168,116 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        中年人这才发现院子里除了徒弟，还有个木钗布裙的少女<br>
+	        正拎着水勺给院子里墙角根处的一棵小树浇水<br>
+	        看到中年人，腼腆一笑，有些手足无措
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徒弟跟那头相依为命多年的老毛驴叙过旧，大大咧咧跟师父介绍道<br>
+	        “师父，这是阿草，是我在这里的邻居，这棵桃花还是她找来种下的<br>
+	        阿草爹娘也是很好相处的，他们家在街头那边开了家小粥铺子<br>
+	        阿草平时也会去城里闹市处卖花，杏花，桃花，兰花，都卖<br>
+	        师父你要是去了阿草她家，就能闻到满满一院子的花香”<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        他多看了几眼那个身材消瘦的贫家少女，她背对他们这对师徒，耳根子通红<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        一头雾水的少女红着脸说道：“邓叔叔，我是知道李大哥名字的。”<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        李怀念转头望着那个自己让她留在远处的少女<br>
+	        她拎着那只竹编花篮，翘首以望<br>
+        	篮中杏花已经卖完，桃花还有三两枝<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        少女羞涩难当，不过邓叔叔这么一说<br>
+	        原本从来不敢奢望与李大哥成为夫妻的她心中的忐忑少了许多
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	她又想，这么没有架子的桃花剑神，这么好说话的一个长辈<br>
+        	应该是真的不是那种响当当的江湖大侠吧？
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	少女突然觉得自己这么认为，很对不起李大哥和邓叔叔<br>
+        	悄悄吐了吐舌头<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 中原宗师，尽至关外》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        年轻人摇头道<br>
 	        “师父，还是算了吧，我本来早就想离开这里了<br>
 	        只是……只是怕师父到了西蜀找不到我，这才没有离开。”

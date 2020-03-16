@@ -168,6 +168,303 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        老人笑了笑<br>
+	        “答应不答应，是你徐凤年的事情，我就传话来的<br>
+	        从今往后，凉莽要死要活，跟我没有半颗铜钱关系了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年缓缓站起身，拍拍手，笑道<br>
+	        “要不然打一架？我这么多年始终记得前辈一句话<br>
+	        不管打不打得过，打过了再说！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        老人一本正经道<br>
+	        “不打了不打了，前辈就要有前辈的风度<br>
+	        何况你小子受了伤，即便打赢你，一样有趁人之危的嫌疑。”<br>
+	        徐凤年笑而不语
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        老人老脸一红，瞪眼道：“臭小子！别得寸进尺！”<br>
+        	徐凤年哈哈大笑
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        老人伸出手掌拍了拍这个年轻藩王的肩膀，神情有些惆怅<br>
+	        “从你小子当年第一次差点淹死在听潮湖底，被我所救<br>
+	        到你后来隔三岔五跑下去潜水闭气，要不然就是给我捎东西吃<br>
+	        真说起来，我是看着你从一个孩子，变成如今的北凉王……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年有些难为情，尴尬道<br>
+	        “早年心情不好的时候，经常拎着事物到湖底去逗弄前辈<br>
+	        还希望前辈别放在心上”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        老人顿时满头黑线<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        徐凤年突然望着老人的背影，喊道<br>
+	        “老头子，我这辈子能够坚信年少时的念头，去武当提刀习武<br>
+	        是因为在湖底见到了你，才让我相信这个天下，的确是有高手的。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        江湖有高手，有神仙人物，一人真能万人敌<br>
+	        才有机会真的凭借一己之力报仇
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        所以徐凤年无比感激这个琵琶骨被钉入铁链的老人<br>
+	        这个让他咬牙坚持在武道上攀登的江湖前辈
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        老人没有回头，大声喊道：“矫情！有本事……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        老人突然发现自己竟然说不出什么话来打击这个臭小子<br>
+	        有本事当上天下第一？这家伙没死在王仙芝手上<br>
+	        与拓拔菩萨转战千里，太安城内更是一人战两人
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        江湖如此，庙堂沙场，何曾输了？
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        到最后，已经快到坡脚的老人吼道<br>
+	        “徐凤年，有本事就死在我后头！<br>
+	        你小子记住了，到时候别忘了给爷爷我弄点好酒好肉！”<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 侠客行（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        老人咳嗽起来，双手握拳撑在膝盖上，沉声道<br>
+	        “我本是公主坟大念头的……罢了，这些事就不多说了<br>
+	        总之我在离开北凉前是想着去中原江湖的<br>
+	        却得到另一个老头子的密信，说是敦煌城那边有玄机，希望我能最后做件事”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “只可惜我只做成了一半……<br>
+	        陶满武，你记住，尽快让那个人知道，越快越好！<br>
+	        让他知道他在北边不止有个女人<br>
+	        更重要的是那个女人，给他生了个孩子！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陶满武微微张大嘴巴，显然有些不知所措
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        老人苦笑道<br>
+	        “顾不得你这丫头会不会帮忙了<br>
+	        说句良心话，不帮也是情理之中<br>
+	        不管怎么说，我总算死得安心些。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        说完这句话，老人艰难伸手入袖<br>
+	        这个动作吓得耶律斜轸和三名扈从都如临大敌
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        不过老人只是拿出一本并不厚的泛黄书籍<br>
+	        轻轻抛给小姑娘，自嘲道<br>
+	        “他送给我的一部刀谱，后来他自己也添加过一些招式<br>
+	        我大致看得懂，可惜全都学不会，小丫头，送你了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陶满武双手接过那部刀谱，捧在怀中，眼眶湿润<br>
+        	她知道，老人是真的要走了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        老人伸出大拇指，指了指自己，笑道<br>
+	        “小丫头，记住喽，白头发老爷爷我啊，叫楚狂奴<br>
+	        是那个人一生当中，见到的第一位绝世高手！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        老人扯了扯嘴角，闭上眼睛，自言自语道<br>
+	        “给那湖水泡过的鸡腿，狗日的……竟然还真好吃……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        中年人这才发现院子里除了徒弟，还有个木钗布裙的少女<br>
 	        正拎着水勺给院子里墙角根处的一棵小树浇水<br>
 	        看到中年人，腼腆一笑，有些手足无措
@@ -367,7 +664,7 @@ layout: false
 	        他突然想起很多往事<br>
 	        这个徒弟总是嫌弃他这个当师父的，行走江湖不够宗师风范，没有神仙风采<br>
 	        总是要他要多注意派头，总是愤懑于他的名头被谁压下了<br>
-	        恨不得整个离阳都知道他的师父才是当之无愧的天下第一人。
+	        恨不得整个离阳都知道他的师父才是当之无愧的天下第一人
 	        	</p>
 	    	</div>
 	      	<br>

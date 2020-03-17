@@ -168,6 +168,1008 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        凝脂腴态的大丫头红薯坐在回廊栏杆上，拿着一柄小铜镜<br>
+	        双手沾满了类似胭脂的鲜血，一点一点被涂在嘴唇上<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最好真好》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        这名在王府上下公认羸弱软绵如一尾锦鲤<br>
+	        需要主子施舍喂食才能存活的大丫鬟同样不看青鸟<br>
+	        只是歪了歪脑袋，对着镜子笑眯眯道：“美吗？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最好真好》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        青鸟微微嗤笑一声<br>
+        	万籁无声中，异常刺耳
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最好真好》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯抿了抿嘴唇<br>
+	        月夜雪地反光下，那张脸庞十分妖冶动人，娇媚道：“比你美就好。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最好真好》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        青鸟转身离开，留下淡淡一句话：“你老得快。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最好真好》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯也不反驳，媚眼朦胧自说自话<br>
+	        “活不到人老珠黄的那天，真好。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最好真好》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        红薯看到眉宇清爽与平时不太一样的世子殿下，怔怔出神<br>
+	        即便朝夕相处，她仍然极少看到这样的世子殿下
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你是禅》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        原名红麝的她咬了咬纤薄嘴唇，然后跟着笑了笑，天生的尤物狐媚
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你是禅》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        大柱国徐骁曾笑言这小女子，便是进宫做了妃子都可争宠不败
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你是禅》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        徐凤年默不作声
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        连北凉王徐骁都称赞她有一副玲珑心肝的红薯柔声道<br>
+	        “公子，红薯本来就是死士<br>
+	        不去死，活着做什么，可不就是帮主子杀人吗？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年轻轻咬了她的耳垂一口，命令道<br>
+	        “不许这么说，更不许这么做！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她身躯一颤，向后靠了靠<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        徐凤年离远了采矶万佛窟，和她一起上马，驰骋向敦煌城<br>
+	        红薯问道：“公子，佛门说六道轮回，真的有吗？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年平静说道：“信则有，不信则无。”<br>
+        	她犹豫了一下，回眸望去
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        生下来就注定是那说死就死的命<br>
+	        总想着把身子给了公子，她才死得心甘情愿<br>
+	        早些死，若是真有转世，那就这辈子抓紧虔诚信佛<br>
+	        投胎再做一名好看些的女子，指不定还能遇见他
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她不想活到人老珠黄，活到皱纹巴巴的那一天，太丑了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年突然说道<br>
+	        “红薯，以后我有了女儿，不管是哪个女子的<br>
+	        都由你来帮着教她梳妆打扮，教她涂抹胭脂，好不好？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她眨巴眨巴着眼眸，红着脸问道<br>
+	        “可我只是一个不值钱的丫鬟。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年沉声道<br>
+	        “我是男人，你是女人，就这么简单<br>
+	        再说什么值钱不值钱，看我不打你。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯低下头，随即抬头痴痴望向他<br>
+        	城外，公子丫鬟两相欢？
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 山中相厌城外相欢》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        脱了华贵蟒袍，徐凤年去了房间，倒头就睡
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 吃红薯》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯轻轻走来，坐在床头，听着轻微鼾声，有些心酸<br>
+	        游历之前他从来不曾打鼾的，这得有多累，才会如此？
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 吃红薯》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        侧身躺下，凝望着近在咫尺的安详脸庞，红薯轻声道<br>
+	        “公子，你是奴婢的了，只是奴婢一人的，不贪心，就一天也很好。”<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 吃红薯》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯侧过身，一手托着腮帮<br>
+	        另一只手双指抹过她公子的睫毛，柔声道<br>
+	        “公子，你的睫毛可长了，以前做梦都想摸上一摸。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一袭龙袍七八分》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年没有阻拦她的小动作，说道<br>
+	        “红薯，等我离开敦煌城，你也回北凉<br>
+	        别做什么死士棋子了，以后做我的侧妃<br>
+	        徐骁也会答应的，他有一点很好，对谁都不问身世<br>
+	        连青党女子陆丞燕都做得，你就做不得？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一袭龙袍七八分》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯摇了摇头<br>
+        	这兴许是她这辈子第一次不答应
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一袭龙袍七八分》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年转过身皱紧眉头<br>
+        	看似性子柔弱却骨子里异常执着的红薯眨了眨眸子<br>
+        	“做了牵线木偶一样的侧妃，还怎么杀人啊？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一袭龙袍七八分》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年没好气道：“你喜欢杀人？”<br>
+        	她毫不犹豫点了点头
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一袭龙袍七八分》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年瞪眼<br>
+        	红薯躲入他怀中，悄悄说道<br>
+        	“公子喜欢只当一个做样子的北凉世子吗？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一袭龙袍七八分》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年叹气道：“将心比心，道理我懂，可你就不许我不讲理吗？”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一袭龙袍七八分》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯如小猫儿一般蜷缩在他怀里<br>
+	        “是红薯不讲理，奴婢本该万事都听主子的。”<br>
+	        ...
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一袭龙袍七八分》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯拿走了食盒，坐下后轻声道<br>
+        	“奴婢要是今天死了，公子会不会记住红薯一辈子？”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 吴家九剑》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年平静道<br>
+	        “红薯，你要是敢死，我就敢忘记你，忘得一干二净<br>
+	        我说到做到”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 吴家九剑》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯红了眼睛，却是开怀笑着说道：“公子真无情。”<br>
+	        ...
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 吴家九剑》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        红薯笑了笑，自己有了一场好隆重的死法<br>
+        	死之前总要拉上几百人去陪葬
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 满城皆敌》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        如此一来，敦煌城就彻底干净了<br>
+        	到时候就轮到连她都不知底细的北凉势力开始接手
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 满城皆敌》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        上一次出北凉时，听潮阁李义山面授机宜，便是如此算计的<br>
+	        步步不差，她毫无怨言<br>
+        	出了北凉，就再不回北凉
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 满城皆敌》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯回首望北<br>
+        	公子走好
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 满城皆敌》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她却不知，敦煌城大门<br>
+        	一名书生模样的负剑年轻人，面对五百骑兵<br>
+        	一夫当关，为她独守城门
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 满城皆敌》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        茅柔怒极，沉闷下令道：“杀！”<br>
+        	她眼中那一人，一人一剑
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一步不得入》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        身前五百骑，身后是城门<br>
+        	徐凤年不动如山
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一步不得入》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        哪怕魔道第一人洛阳驾临，敦煌城也只是一人对一人
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一步不得入》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年习武以前还有诸多对于江湖的美好遐想<br>
+	        但是真正疯魔习武以后，就从不想去做什么英雄好汉<br>
+	        但既然身后是自己的女人，别说五百骑<br>
+	        五千骑，他也会站在这里
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一步不得入》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        我死前守城门<br>
+        	教你们一步不得入！
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 一步不得入》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        红薯形单影只，站在空落落的宫门前<br>
+        	伸出一指，重重抹了抹天生猩红如胭脂的嘴唇
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 有人血衣拖刀入城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她由衷笑了笑，可惜没大雪<br>
+	        否则就真是白茫茫一片死得一干二净
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 有人血衣拖刀入城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        就当红薯准备出手杀人时，人海渐次分开<br>
+        	五百骑不曾有一骑入城，只有一人血衣背剑拖刀入城
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 有人血衣拖刀入城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        一身鲜红，已经看不清衣衫原本颜色<br>
+       		他手中提着一颗女子头颅
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 有人血衣拖刀入城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这名背剑拖刀的年轻人丢出头颅，抹了抹满脸血污，说道<br>
+	        “这娘们好像叫茅柔，说只要杀了我，就给他手下吹箫<br>
+	        我就一刀搅烂了她的嘴巴，想来这辈子是没法子做那活了。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 有人血衣拖刀入城》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        然后他指了指红薯，“她是老子的女人，谁要杀她，来，先问过我。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 有人血衣拖刀入城》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        茕茕孑立在宫门外的红薯一袭锦衣无风飘摇<br>
+	        眼眶湿润，眼眸赤红，五指成钩
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        几乎刹那入魔
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        徐凤年自然轻而易举地驭剑刺透茅锐手掌<br>
+	        刺破另外一颗眼珠，笑道：“我的女人，好看吗？可惜你看不到了。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        分明是笑，可看他那一身鲜血浸染的红衣<br>
+	        还有那扭曲的英俊脸孔，实在是让人看着颤栗心寒
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年不急于杀死茅锐，归鞘春雷立在地上<br>
+	        双手搭在刀鞘上，问道<br>
+	        “谁敢与我一战？！便是群殴也无妨，老子单挑你们一群！”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这实在不是一个能逗人发笑的笑话
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这名原本只被当做宫中裙下面首的年轻人<br>
+	        满身血腥渗出的滔天戾气<br>
+        	还有那几乎所向无敌的剑气和刀意
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这一刻，不知道有多少老一辈枭雄都感慨，生子当如此！
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        徐凤年缓缓入城，听到这里，冷笑道<br>
+	        “那时候徐叔叔再去给红薯收尸？掬一把同情泪？”<br>
+        	徐璞神情不变，点了点头
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        察觉到他的勃然杀意，徐璞隐约不悦<br>
+	        甚至都不去刻意隐藏，直白说道：“殿下如此计较这些儿女情长？”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年缓步入城，一个字一个字平淡道：“放你娘的臭屁！”<br>
+        	徐璞并未出声
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        沉默许久，大概可以望见巨仙宫的养令斋屋顶翘檐<br>
+	        徐凤年好像自说自话道<br>
+	        “我今天保不住一个女人<br>
+	        以后即便做了北凉王，接手三十万铁骑，你觉得我能保得住什么？”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐璞哈哈大笑，整整二十年啊<br>
+	        积郁心中二十年的愤懑，一扫而空，笑出了眼泪<br>
+	        ...
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年负剑提刀前行，大局已定，更是无人敢拦<br>
+	        径直走到锦衣女子眼前，抬起手作势要打
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她泪眼婆娑，根本不躲
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯死死抱住这个红衣血人，死死咬着嘴唇，咬破以后，猩红叠猩红
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年只是伸手捏了捏她脸颊，瞪眼道<br>
+	        “你要死了，你以为我真能忘记你？<br>
+	        做丫鬟的，你就不能让你家公子省省心？<br>
+	        退一步说，做女人的，就不能让你男人给你遮遮风挡挡雨？”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 腥红叠猩红》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        她望着这个背影，记起那一日在殿内<br>
+	        她穿龙袍坐龙椅，一刻欢愉抵一生
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 孤城白首》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        此时才知道，跟姑姑这样<br>
+	        在选择一座孤城终老，为一个男人变作白首<br>
+	        也不是多么可怕的事情
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 孤城白首》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年突然转身，展颜一笑
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 孤城白首》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        红薯刹那失神，不知此生他最终到底会爱上哪一名幸运的女子<br>
+	        姜泥？红薯打心眼不喜好这个活着就只是为了报仇的亡国公主<br>
+	        她觉得要更大气一些的女子，才配得上公子去爱
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 孤城白首》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        当然，这仅是红薯心中所想，至于公子如何抉择，她都支持<br>
+	        ...
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 孤城白首》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        红薯目送徐璞离开后，转身走去屋子<br>
+	        打开大门，然后迅速关上门
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大白猫，小地瓜》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        屋内所有桌椅凳子都裹有棉布<br>
+	        还有一只似乎是用作小儿眠睡的精致摇篮
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大白猫，小地瓜》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        蹑手蹑脚走向摇篮的她<br>
+	        此时的笑脸，比任何时候都要温暖
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大白猫，小地瓜》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她蹲在摇篮前，轻柔称呼道<br>
+	        “我的小地瓜，快快长大，然后去吓你爹一大跳吧。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 大白猫，小地瓜》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        一座“无人问津”的隐蔽宅子<br>
+	        丰腴女子弯腰护着那个刚刚学会走路的小孩子<br>
+	        脚步摇摇晃晃的孩子伸手去抓那张悬挂门口的珠帘
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 珠帘，铁甲（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			作为孩子的娘亲，她此时的眼眸中<br>
+			有宠溺，有疼爱，有愧疚，有遗憾
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 珠帘，铁甲（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她蹲下身，抱住那个孩子<br>
+        	大人的脸颊贴着孩子的脸颊
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 珠帘，铁甲（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她柔声道：“徐念凉，我的小地瓜，长大以后，一定要去找你爹哦。”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 珠帘，铁甲（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+			徐凤年闭上眼睛<br>
+        	你一定要在敦煌城好好活着，一定要等我<br>
+        	...
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+			敦煌城<br>
+        	深夜中，一位睡眠本就极浅的女子<br>
+        	当孩子啼哭起来，她很快就披衣起身<br>
+        	从摇篮中温柔抱起孩子，孩子很快就破涕为笑
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她低头看着那张稚嫩的笑脸，她也笑了
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她轻轻摇晃手臂，悠悠哼唱起来<br>
+			“小地瓜呀小地瓜，快长大呀快长大……”
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px;margin-left:60%">
+	        —— 《雪中悍刀行 · 章节名 · 两人之战，两国之战（中）》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        老人笑了笑<br>
 	        “答应不答应，是你徐凤年的事情，我就传话来的<br>
 	        从今往后，凉莽要死要活，跟我没有半颗铜钱关系了。”

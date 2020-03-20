@@ -168,6 +168,155 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        就在两位天人在云端之上谈论整座人间命数的时候<br>
+	        离阳，北凉道，幽州，胭脂郡，在那个叫倒马关的小地方
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        有位腰肢纤细胸脯却颇为壮观的秀美小娘<br>
+	        在从村子孩童嘴中得知那人出现在集市上后
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她鼓起勇气一路小跑到那里，想要问他<br>
+			能不能请他回她家里吃一顿粗茶淡饭
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她站在那堵黄土小墙不远处<br>
+			满头大汗，不得不双手叉腰，低头弯腰大口喘气<br>
+			她没有看到那个自己连想念也不敢的身影
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			想念想念，一经想起便念念不忘了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她知道她和他是两个世界的人<br>
+			在那座清凉山北凉王府见到他之前，就已经这般认命的认知<br>
+			在那之后，更是如此
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			得知他出现在倒马关后，她原本正要为右松做饭<br>
+			她其实可以让右松去请他，但是她没有
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她让右松去淘米择菜，然后她跑去倒马关集市<br>
+			因为这样一来，他到了她家后，就要等她做完饭才能吃饭
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她觉得他再忙，也许都会答应的<br>
+			答应在她不远处的地方多待片刻<br>
+			对她来说，那就足够了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			再多，他不会给，她也不会要
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			名叫许清的她站在原地，直起腰肢<br>
+			擦了擦额头汗水，笑了笑<br>
+			心满意足<br>
+			好像自己已经见过了他
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			只是她转身走出几步后，又忍不住回头看了一眼<br>
+			她有些脸红
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 野草》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        凝脂腴态的大丫头红薯坐在回廊栏杆上，拿着一柄小铜镜<br>
 	        双手沾满了类似胭脂的鲜血，一点一点被涂在嘴唇上<br>
 	        ...

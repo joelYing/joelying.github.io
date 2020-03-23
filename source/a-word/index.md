@@ -168,6 +168,277 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        这趟出关来到久违的江湖<br>
+	        并没有太多高手架子的剑池宗主也仅是换上一双崭新素青布鞋
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        此时以白布裱成袼褙、多层叠起纳而成的鞋底已经磨损大半<br>
+	        这让宋念卿浮起一丝遗憾
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        此生专注于剑道，从未有过儿女情长<br>
+	        与那嫁入剑池的娴静女子也止步于相敬如宾
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        只是不知为何，大敌当前，生死一线<br>
+	        不知为何却记起了年轻时那一夜掀起她的盖头<br>
+	        烛光映照之下她的羞赧容颜
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这么多年发乎情止乎礼<br>
+	        竟然不知她何时慢慢成了一位霜发老妪<br>
+	        也不知她何时亲手制成了这双鞋子
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        两人离别，接过视为累赘的行囊，他只当作女子持家的天经地义
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        此时才知当时若是能接过行囊，念一声她的小名，道一声谢，该有多好
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        宋念卿记起了许多往事<br>
+	        正值壮年，携带十二剑，意气风发去武帝城挑战天下第一人
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她在他离家时，亦是没有多言，只是婉约笑脸<br>
+	        帮着他仔细理了理衣裳，送至门口<br>
+	        独独站在那儿，没有等到他的回头
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        后来宋念卿返家，冷着脸与她在家门口擦肩而过<br>
+	        她欲言又止，只是挤出干净的笑脸，一点都没有委屈幽怨
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        宋念卿以往总是在不关心之余，难免有些阴郁<br>
+	        怎么找了这么个闷葫芦无趣的女子，如何配得上自己的剑？
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这一抹要不得的致命恍惚，本该让宋念卿的蓄势受挫<br>
+	        不曾想恍惚之间，生平第一次心起愧疚<br>
+	        宋念卿只觉得剑心在刹那之间净如琉璃<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        宋念卿低头深深看了眼鞋面，微微一笑<br>
+	        任由六缕剑气在磨盘中烟消云散，任由飞木滚石扑面
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			轻轻踩了踩脚下仅存完整的街面，重重吐出一口浊气<br>
+			终于压抑不住喉咙翻涌的鲜血，吐在身前<br>
+			很快被尘埃遮掩得消失不见
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			宋念卿轻声道：“是时候为你走一趟江湖了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			宋念卿一踩地面，开始狂奔<br>
+        	最后一剑，亦是最后一次走江湖<br>
+        	...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 最后一趟江湖》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+			师徒三人走后，老妇人坐在池畔，仪态安详，微笑道<br>
+			“念卿，以前都是我等你，等了很多年很多次<br>
+			不管多久，最后总能等着你回家。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 珠帘，铁甲（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她将那枯瘦双手叠放在膝盖上，当年红妆渐渐已白首
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 珠帘，铁甲（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			一生之中，习惯凝望他的背影<br>
+			夫妻之间的言语，甚至也许不如丈夫与弟子传授剑道那么多
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 珠帘，铁甲（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			每次他离开剑池，返回剑池<br>
+        	她都会站在剑池门口
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 珠帘，铁甲（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			他也从不看她一眼<br>
+        	她不悔
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 珠帘，铁甲（上）》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			老人闭上眼睛，喃喃道：“念卿，现在是你等我了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 珠帘，铁甲（上）》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        就在两位天人在云端之上谈论整座人间命数的时候<br>
 	        离阳，北凉道，幽州，胭脂郡，在那个叫倒马关的小地方
 	        	</p>

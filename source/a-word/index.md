@@ -168,6 +168,341 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        刘公公原本对这些不痛不痒的溜须拍马早该习以为常<br>
+	        只是今天此时却尤其开怀
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        揉了揉没有半点胡须的下巴，眺望远方<br>
+	        尖锐嗓音也柔和了几分，“咱家之所以对这座无名石崖记得这般清楚……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        就在所有人都静听下文的时候<br>
+	        这位位高权重的掌印太监却已经渐渐压抑声音，细微若蚊蝇颤翅<br>
+	        以至于让人分辨不清老人到底有没有自言自语
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        老人当然在说话<br>
+	        有些话烂在肚子里大半辈子了，不吐不快
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        可当那些言语悠悠然爬到嘴边，就又像吝啬的老酒鬼<br>
+	        拎出一坛珍藏数十年的老酒，只愿独饮了<br>
+	        最好是旁人能看不能喝，只能看着我一人喝<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        老人收起思绪，眼神安详，远远望去
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        当年在那里，还记得他羞赧地挑中那名黄花少女背自己过河<br>
+	        两名结伴游学的同乡士子都默契地拣选了两位中年妇人
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        到了龙驹河中段的时候<br>
+	        他还亲眼看到那个平日里求学最为严谨刻板的家伙<br>
+	        偷偷摸摸捏着那妇人的丰满微黑胸脯<br>
+	        他同窗好友脸上的那种满足神情，如同进士及第
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        而另外一位同窗虽然平日里胆大包天，在那会儿反倒缩手缩脚
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        倒是背他的妇人爽朗笑着<br>
+	        腾出一只手来抓住他的手掌，啪啦一下往自己胸口上按去<br>
+	        然后用浓重的西北地方乡音说了句，摸一下不收钱<br>
+	        可要想摸个够，只要五文钱
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        唯独他始终规规矩矩<br>
+	        既是读圣贤书之人的礼数约束，内心也有几分不忍
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        更是趴在她纤细的腰肢后背上<br>
+	        生怕自己一个吓着她，结果她一个身形不稳<br>
+	        两人就真要变成同命鸳鸯做一双水鬼了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        背过河后，他也想与两位同窗一样多给几文钱<br>
+	        只是她不要，低下的眼眉，轻捻着衣角，羞羞怯怯
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        那次相遇与相别，就再无相聚了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        也许他对她的念念不忘，不是真的有多喜欢她<br>
+	        而是怀念那个仍是读书人的自己罢了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        但也许，那个年轻刘姓读书人，的的确确始终喜欢她<br>
+	        说不出清浅，说不出多少，而且也不用去思量到底有多喜欢
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        老人突然没来由涌起一股冲劲<br>
+	        抬头看了眼天色，转身沉声笑道
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “咱家要去渡口那边瞧上一眼<br>
+	        宋公公，马公公，你们二位就不用跟着了<br>
+	        咱家去去就回，尽量争取不要摸黑回驿馆。”<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        两人临近岸边渡口的时候，老妇人问道：“累不累？”<br>
+        	年轻人笑道：“婆婆你这么轻，怎么会累。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	然后年轻人打趣道<br>
+        	“婆婆你年轻的时候肯定很好看，上门求亲的人肯定很多。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	虽然穷苦但穿着干净的老妇人会心一笑<br>
+        	她没有点头，也没有说不是<br>
+        	...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	...<br>
+        	老妇人缓缓走向渡口
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	然后她看到了一位衣着稀奇古怪的老人<br>
+        	一眼就看到了，哪怕他身边站着两位同样身穿“红衣”的老人
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	离阳印绶监掌印太监，刘公公，也是如此
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	他欲言又止<br>
+        	而她只是轻轻浅浅笑着，微微撇过头，伸出枯瘦手指，理了理鬓角
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	他望着她，刚想要向前踏出一步<br>
+        	最终还是自嘲一笑，收回脚步，转身大步离去
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+        	而她，依旧是像很多很多年前那样<br>
+        	对着那位年轻读书人的背影，依旧像当年那位黄花少女，轻轻挥手
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 公子黄花，江湖依旧》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        这趟出关来到久违的江湖<br>
 	        并没有太多高手架子的剑池宗主也仅是换上一双崭新素青布鞋
 	        	</p>

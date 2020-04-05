@@ -168,6 +168,791 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        那名她看不穿深浅的年轻剑士，起身端着茶碗向他们走来<br>
+	        很不客气地一屁股坐下，跟年轻藩王相视而坐
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 姑娘好刀法》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年微笑着不说话，对于那名不知名剑客的冒昧打搅并不以为意
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 姑娘好刀法》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        那人落座后，神情肃穆，一本正经道<br>
+	        “不料世间竟有与我一般英俊的男子，幸会幸会。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 姑娘好刀法》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        樊小柴忍不住嘴角抽搐，见过不要脸的<br>
+	        她这辈子还真没见过这么不要脸的<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 姑娘好刀法》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        樊小柴语气平淡地撂下一句：“你是我爹？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 姑娘好刀法》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        那人略作思量，平声静气道<br>
+	        “自然不是，不过我可以做姑娘的夫君。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 姑娘好刀法》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        喝茶比樊小柴要慢许多的徐凤年听到这句话后，差点一口喷出去
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 姑娘好刀法》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        樊小柴微微一笑，好似并不恼怒这个登徒子的浪荡言语<br>
+	        只是刀却已出鞘寸余<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 姑娘好刀法》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        樊小柴脸色苍白，眼神愈发阴沉
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        等到茶摊掌柜的把三碗定神汤端到桌上后，那人点头道<br>
+	        “当然没有恶意，我自入江湖以来<br>
+	        一直以为会与徽山大雪坪那位轩辕紫衣结为神仙眷侣”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “但是见到眼前这位姑娘以后，便觉得那名女子必定要错过我这良配了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年不得不重复道：“厉害。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        那人又转头对樊小柴善解人意道<br>
+	        “姑娘想杀我也无不可，不过最好喝过了茶汤，再寻个僻静宽敞的地方<br>
+	        届时我肯定不还手，任由姑娘出刀。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        樊小柴深呼吸一口气，五指死死握紧刀柄，咬牙切齿道：“你找死？！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        结果那人给出一个谁都没有想到的混账答案<br>
+	        他神色无比认真，“我找你。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        樊小柴眼神中透出视死如归的毅然决然，不顾一切地拔刀出鞘<br>
+	        就在刀尖即将彻底露出浑身气势攀至顶点的瞬间
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        一直脸色刻板的年轻剑客破天荒微微一笑<br>
+	        身体微微前倾向樊小柴，左手双指并拢<br>
+	        电光火石之间，指向了樊小柴眉心<br>
+	        停留在距离她眉心寸余的位置
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        动静之中，大有意味
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        樊小柴身体迅猛后仰，试图避其锋芒<br>
+	        但是那人松开双指后，手掌轻轻按住她的肩头
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        樊小柴嘴角渗出触目惊心的猩红血丝<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        樊小柴嘴唇紧闭<br>
+        	事实上她此时此刻已是满口淤血，连说出一个滚字都做不到了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        但她仍然不愿意吐出
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        如果说北凉王徐凤年是她这辈子最想杀的人物<br>
+	        那么眼前这个脑子被驴踢过不止一次的家伙，可以排在第二位<br>
+	        已经超过早年亲手将她变成拂水房死士的褚禄山！<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        那名年轻剑客望着樊小柴的背影，欲言又止，最后还是没能说出什么话
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他转头看向徐凤年，问道<br>
+	        “你要么是不曾习武的平常人，要么是擅长练气的顶尖人物<br>
+	        否则我不至于捕捉不到你气机流转的独到之处”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “但既然你有胆子悬佩凉刀招摇过市<br>
+	        身边又有……这位姑娘同行，相信身份不简单，那么……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年安静等待下文
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        只是这一次年轻剑客果然又没有让人失望，“那么敢问这位姑娘的芳名？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年微笑道：“以前叫樊小钗，钗子的钗，如今叫樊小柴，柴火的柴。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        那人点头道：“如我所料，都是好名字！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年无言以对<br>
+        	自己闯荡江湖这么多年，终于又遇着脸皮厚度不相上下的对手了？
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        只是自己当年最落魄的那趟江湖，好歹除了脸皮还是靠脸的<br>
+	        与村妇小娘们讨水喝，堪称所向披靡从无败绩<br>
+	        可眼前这位，那纯粹是靠一张脸皮啊
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        那人想了想<br>
+	        “算了，本来还想跟你打听一件事，现在不需要了<br>
+	        反正去不去武当山，已经无所谓。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        已经知道年轻剑客身份的徐凤年笑问道<br>
+	        “为什么无所谓？难道你真的不去跟那位北凉王一争高下？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        年轻剑客满脸错愕道：“你知道我是谁？”<br>
+        	徐凤年点头
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他揉了揉下巴，恍然大悟道<br>
+	        “你能够仅凭相貌就猜出我的身份，殊为不易<br>
+	        不过话说回来，也在情理之中。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年开始有些理解樊小柴的心情了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        樊小柴已经转回身，白碗搁放在桌面上，死死盯住那人，“我必杀你！”<br>
+        	那人既无讥讽也无恼火，咧嘴一笑，阳光灿烂，“随你喜欢。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年好奇道：“你不是开玩笑？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        那人正襟危坐，沉声道<br>
+	        “我从不与人开玩笑！真正喜欢一个人，难道不应该正是一见钟情才对？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “我想不是相濡以沫才会喜欢上一个人<br>
+	         而是喜欢上一个人后，才会相濡以沫<br>
+	         怎么，你不信？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年看着这张年轻脸庞，有些恍惚<br>
+        	他想起了羊皮裘老头儿和那位酆都绿袍
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        原来，如今江湖，亦有痴人<br>
+        	不可理喻，不用理喻
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年笑着轻声道：“我相信。”<br>
+        	樊小柴面无表情问道：“你是谁？！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年情不自禁地揉眉头<br>
+	        果不其然，对面这个家伙又开始伤人于无形了<br>
+	        “小柴姑娘，我喜欢你，与你喜欢不喜欢我，没有关系。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        然后他对樊小柴眨了眨眼睛<br>
+	        “如果有一天，我不再喜欢你了，不要奇怪。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        樊小柴的情绪几近崩溃，怒吼道：“你到底是谁！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        年轻剑客直到这个时候，才按住腰间剑柄<br>
+	        眼神清澈，望着她笑道：“太白剑宗，陈天元！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他略作停顿，大声道：“所以！我不喜欢你之时，只有陈天元剑断之时！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        附近那几桌，只要是刚好在喝茶汤或是嚼饼的年轻男女<br>
+	        无一例外都当场一口喷出<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        徐凤年慢悠悠举起茶碗，没有急着喝茶汤<br>
+	        举目远望，怔怔出神
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        此人此时此景<br>
+        	他人别时那景
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        曾经有位喜欢抠脚的糟老头，气哼哼说，“什么老剑神！就是剑神！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        曾经有位穷的叮当都不响的木剑游侠儿，豪气万丈说<br>
+	        “如果有天江湖上出现了一位姓温的绝代剑客，不用怀疑，那就是我了！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        有人已不在世间<br>
+        	有人已经不在江湖
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        有人则还在眼前
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        陈天元问道：“你请客？”<br>
+	        徐凤年点头道：“你请我定神汤，我回请你绿蚁酒，有何不妥？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陈天元认真道：“没有不妥，只不过我不喝酒。”<br>
+        	徐凤年讶异道：“天底下还有不喝酒的剑客？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陈天元指了指自己，一脸天经地义道：“我就是啊。”<br>
+        	徐凤年看着桌上两坛绿蚁酒，有些尴尬<br>
+        	...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 如今江湖亦有痴人》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        一袭青衫的陈天元缓缓站起身，脸色平静<br>
+	        “今日起，我佩剑更名为木柴。”<br>
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 剑开云海》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这句话，显然只是向樊小柴一人而说
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 剑开云海》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年忍住笑意，瞥了眼她<br>
+        	后者像是全然无动于衷<br>
+        	...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 剑开云海》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        只是即便见识了“真人露相”的陈天元<br>
+	        樊小柴仍是打心眼不喜欢，甚至可以说更加深恶痛绝
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 剑气满北凉》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        你喜欢我，不需要理由<br>
+        	我不喜欢你，有万般理由
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 剑气满北凉》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        世间情爱，自古辛酸
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 剑气满北凉》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        刘公公原本对这些不痛不痒的溜须拍马早该习以为常<br>
 	        只是今天此时却尤其开怀
 	        	</p>

@@ -168,6 +168,32 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        我喝过很烈的酒，也放过不该放的手<br>
+	        从前不会回头，往后不会将就
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        我喝过很烈的酒，也放过不该放的手<br>
+	        从前不会回头，往后不会将就
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        那名她看不穿深浅的年轻剑士，起身端着茶碗向他们走来<br>
 	        很不客气地一屁股坐下，跟年轻藩王相视而坐
 	        	</p>

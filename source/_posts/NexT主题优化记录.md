@@ -2555,6 +2555,11 @@ categories:
 [NexT主题设置Valine评论系统邮件提醒](https://www.nhtzj.com/3315416634/)
 [hexo next主题 valine评论系统 使用第三方邮件提醒](https://blog.csdn.net/qq_21808961/article/details/84639401)
 
+### 二零年十月二十四日
+
+#### fancybox调整
+原因是之前的`fancybox`好像失效了，点击图片没有了灯箱效果，然后根据[`github`](https://github.com/theme-next/theme-next-fancybox3)上的步骤，移除原先的包，使用了CDN加载的方式，成功恢复
+
 ### 站点加速
 
 #### 更改默认Google字体库

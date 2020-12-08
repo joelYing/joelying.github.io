@@ -168,25 +168,446 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
-	        我喝过很烈的酒，也放过不该放的手<br>
-	        从前不会回头，往后不会将就
+	        杏花是靖安王府上的精锐死士，从赵衡传到了赵珣手上<br>
+	        她琴棋书画样样精通，护人和杀人也肯定更精通
 	        	</p>
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        —— 《雪中悍刀行》
+	        —— 《雪中悍刀行 · 章节名 · 风起凤飞，柳环卖花声》
 	    	</div>
     	</div>
     	<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
-	        我喝过很烈的酒，也放过不该放的手<br>
-	        从前不会回头，往后不会将就
+	        她可以为了护卫陆诩坦然赴死，也可以因为赵珣一句话而不眨眼地杀掉他陆诩<br>
+	        陆诩眼瞎，可心知肚明，而且也不会因此对她或是靖安王生出芥蒂<br>
+	        ...
 	        	</p>
 	    	</div>
 	      	<br>
 	      	<div class="aword-by" style="font-size: 18px">
-	        —— 《雪中悍刀行》
+	        —— 《雪中悍刀行 · 章节名 · 风起凤飞，柳环卖花声》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        陆诩听着灯花燃烧时嗤嗤作响的细微声音，笑道<br>
+	        “杏花，世间声音无数，你最喜欢哪一种？”<br>
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风起凤飞，柳环卖花声》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        杏花相貌平平，不过声音清脆，极为悦耳，身段也婀娜动人<br>
+	        因为要读书以及偶尔的代笔，她就坐在陆诩旁边的椅子上，微笑道<br>
+	        “公子，奴婢不知。不过公子若是给出一些选择，奴婢可以作答。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风起凤飞，柳环卖花声》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆诩轻轻点头，略作思量，娓娓道来<br>
+	        “泉声，琴声，松涛声，竹啸声，山禽声<br>
+	        芭蕉雨声，落叶声，稚子读书声，名妓歌曲声，少女挑担卖花声。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风起凤飞，柳环卖花声》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        杏花掩嘴笑道：“奴婢肯定选卖花声呀。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风起凤飞，柳环卖花声》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆诩哑然失笑<br>
+	        “忘了你叫杏花。不过我告诉你，前朝有一位被称作诗家天子的大文豪，说法便是与你一样<br>
+	        也说那千百种天地清籁，就数市井深巷的卖花声为第一，最是能断人肝肠。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风起凤飞，柳环卖花声》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        杏花疑惑问道：“公子，这是为何？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风起凤飞，柳环卖花声》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	         陆诩在她面前，大概是处处有求于人，也就不吝言笑了<br>
+	         “这些年我也一直在想原因，什么时候想通了再告诉你一声。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风起凤飞，柳环卖花声》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        跟陆诩朝夕相处，杏花也随意了许多，打趣道：“也有公子不明白的事情啊？”<br>
+	        “有很多。”...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 风起凤飞，柳环卖花声》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        杏花换个方位，替陆公子遮挡吹入巷弄的寒风，柔声道<br>
+	        “公子是做大事的人，不拘小节。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 书生得意气，先生的背影》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆诩笑道<br>
+	        “既说一屋不扫何以扫天下，又说行大事者不拘小节<br>
+	        古人古书古语，说得真是让后人犯糊涂<br>
+	        不过我一个瞎子，打扫屋子，确实就只能靠你了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 书生得意气，先生的背影》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        杏花眼神流转，“奴婢很乐意。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 书生得意气，先生的背影》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆诩伸出手，似乎是酒壮人胆，想要抚摸柳灵宝的光洁脸颊<br>
+	        可当柳灵宝凑过脸，他已经缩回手，轻声道<br>
+	        “咱们有幸相依为命，尽量多活几年。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 书生得意气，先生的背影》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆诩脑袋后仰，靠在墙壁上，“你这个瞎子。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 书生得意气，先生的背影》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        杏花突然压低声音道<br>
+	        “陆公子，若是你想去北凉，柳灵宝便是死也要护着你出城。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 书生得意气，先生的背影》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆诩愣了一下，摇头洒然笑道<br>
+	        “我自有打算。这儿挺好的。”<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 书生得意气，先生的背影》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        太安城皇城一处边缘地带，小院屋门半掩<br>
+	        目盲年轻人与相依为命的侍女，两人雪夜围炉煮酒
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她小心翼翼递给陆诩一杯热酒，这几年朝夕相处，两人早已心有灵犀<br>
+	        虽目盲却自然而然接过酒杯，在陆诩低头饮酒的时候，她感叹道<br>
+	        “唉，才二十来年太平光景，就又要兵荒马乱了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆诩嘴角翘起<br>
+	        “咱俩大概能算是运气好的，恰好刚刚活在这二十年里头<br>
+	        永徽前期，和今年祥符三年入夏以后的中原百姓<br>
+	        之前的老人，现在的孩子，都得胆战心惊活着。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她展颜一笑，“公子说的是。”<br>
+	        陆诩转头“望向”半掩半开的屋门，嘴唇抿起，神色恬静
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她望向公子的侧脸，她眼神痴痴<br>
+	        她没有任何奢望，只希望自己能够陪在他身边，直到看到公子缓缓白头<br>
+	        而公子却永远不会看到她白发苍苍的不堪老态
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆诩缓缓回过头，打破这份宁静<br>
+	        “我今天已经遣散赵勾谍子了，什么话都能说。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        杏花犹豫道：“公子，你会不会偶尔也感到寂寞？”<br>
+	        目盲年轻人笑着摇头，“我啊，醯鸡处瓮，怡然自得。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        杏花吐了吐舌头，“公子宁静淡泊，真是厉害。”<br>
+	        他自嘲道：“井蛙说海，夏虫语冰，才是厉害。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她听不太懂，也就没有说话
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆诩突然说道<br>
+	        “记得我家乡有泉水，被大奉朝茶圣誉为天下第九名泉<br>
+	        若是将泉水倒入杯中，水面过杯而不外溢，甚至能够浮起铜钱。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        杏花瞪大那双秋水眼眸，“真有这么神奇？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆诩哈哈大笑<br>
+	        “水浮铜钱，肯定是假，不过如醇酒沾杯，倒是真事<br>
+	        如果有机会，以后咱们用那里的泉水煮酒。”<br>
+	        杏花使劲点头
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        6诩微微仰起头，小声道：“此泉最可人，春风十八回。”<br>
+	        她好奇问道：“公子，是谁作的诗，挺好的。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        6诩伸出手指，指了指自己，笑脸温柔<br>
+	        杏花立即一本正经道：“真是顶好的诗文！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        6诩指了指她，“你这马屁拍得不太好。”<br>
+	        杏花有些赧颜
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        6诩向身边的女子轻轻摊开一只手掌<br>
+	        她如遭雷击，怯怯柔柔<br>
+	        终于鼓起勇气伸出她有些冰凉的纤细柔荑，放在他的手心上
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        6诩握紧她的手，说道<br>
+	        “杏花，我是个瞎子，以后你就帮我看看那些大好河山<br>
+	        你看见了，我就看见了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她哽咽道：“公子别嫌弃我笨。”<br>
+	        6诩摇头柔声道：“夫君不敢。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        屋外大雪纷飞落人间，屋内人心温暖如春
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 无他无中原》
 	    	</div>
     	</div>
     </div>

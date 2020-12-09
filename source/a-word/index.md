@@ -180,7 +180,8 @@ layout: false
     	<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
-	        她可以为了护卫陆诩坦然赴死，也可以因为赵珣一句话而不眨眼地杀掉他陆诩<br>
+	        她可以为了护卫陆诩坦然赴死<br>
+	        也可以因为赵珣一句话而不眨眼地杀掉他陆诩<br>
 	        陆诩眼瞎，可心知肚明，而且也不会因此对她或是靖安王生出芥蒂<br>
 	        ...
 	        	</p>
@@ -244,8 +245,10 @@ layout: false
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
 	        陆诩哑然失笑<br>
-	        “忘了你叫杏花。不过我告诉你，前朝有一位被称作诗家天子的大文豪，说法便是与你一样<br>
-	        也说那千百种天地清籁，就数市井深巷的卖花声为第一，最是能断人肝肠。”
+	        “忘了你叫杏花。不过我告诉你<br>
+	        前朝有一位被称作诗家天子的大文豪，说法便是与你一样<br>
+	        也说那千百种天地清籁，就数市井深巷的卖花声为第一<br>
+	        最是能断人肝肠。”
 	        	</p>
 	    	</div>
 	      	<br>
@@ -528,7 +531,7 @@ layout: false
     	<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
-	        6诩微微仰起头，小声道：“此泉最可人，春风十八回。”<br>
+	        陆诩微微仰起头，小声道：“此泉最可人，春风十八回。”<br>
 	        她好奇问道：“公子，是谁作的诗，挺好的。”
 	        	</p>
 	    	</div>
@@ -540,7 +543,7 @@ layout: false
     	<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
-	        6诩伸出手指，指了指自己，笑脸温柔<br>
+	        陆诩伸出手指，指了指自己，笑脸温柔<br>
 	        杏花立即一本正经道：“真是顶好的诗文！”
 	        	</p>
 	    	</div>
@@ -552,7 +555,7 @@ layout: false
     	<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
-	        6诩指了指她，“你这马屁拍得不太好。”<br>
+	        陆诩指了指她，“你这马屁拍得不太好。”<br>
 	        杏花有些赧颜
 	        	</p>
 	    	</div>
@@ -564,7 +567,7 @@ layout: false
     	<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
-	        6诩向身边的女子轻轻摊开一只手掌<br>
+	        陆诩向身边的女子轻轻摊开一只手掌<br>
 	        她如遭雷击，怯怯柔柔<br>
 	        终于鼓起勇气伸出她有些冰凉的纤细柔荑，放在他的手心上
 	        	</p>
@@ -577,7 +580,7 @@ layout: false
     	<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
-	        6诩握紧她的手，说道<br>
+	        陆诩握紧她的手，说道<br>
 	        “杏花，我是个瞎子，以后你就帮我看看那些大好河山<br>
 	        你看见了，我就看见了。”
 	        	</p>
@@ -591,7 +594,7 @@ layout: false
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
 	        她哽咽道：“公子别嫌弃我笨。”<br>
-	        6诩摇头柔声道：“夫君不敢。”
+	        陆诩摇头柔声道：“夫君不敢。”
 	        	</p>
 	    	</div>
 	      	<br>

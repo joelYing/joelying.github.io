@@ -168,6 +168,584 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        赵珣悄悄伸手，想要牵住她的手，被她轻轻瞪眼<br>
+	        年轻藩王悻悻然抽回手<br>
+	        非但没有被她的不识趣而恼火，反而满心欣喜
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你请神仙我请真武》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这样的她，才最像那个此生注定不可求的女子<br>
+	        名义上已经殉情的上任靖安王妃裴南苇
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你请神仙我请真武》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        若是呼之即来挥之即去，对自己百依百顺<br>
+	        就算身边女子面容酷似裴南苇<br>
+	        赵珣也不会恩宠绵绵，早就视同鸡肋
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你请神仙我请真武》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        赵珣环视一周，青州水师在他眼中气势雄壮<br>
+	        他也有信心将青州水师打造得比广陵水师还要威武无敌
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你请神仙我请真武》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        此时心中雄心勃勃，伸出一只手<br>
+	        指向江面，颇有指点江山意味说道<br>
+	        “南苇，父王当年根本掌控不住青州水师，更别提让青党俯首<br>
+	        可我做到了，只用了一年时间！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你请神仙我请真武》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        女子柔声道<br>
+	        “陆先生是张首辅孙太师都交口赞誉的栋梁大才，在襄樊本就委屈了<br>
+	        你万万不能因为陆先生对我不喜，就对陆先生有丝毫怨言<br>
+	        若是陆先生只以你的喜好而低眉附和，那才会让人小看了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你请神仙我请真武》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        赵珣闻声心中更喜，点头道<br>
+	        “这个你放心，有我赵珣一日富贵，必不让陆先生一日贫寒<br>
+	        燕敕王赵炳能给纳兰右慈的，我给陆先生只会更多。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你请神仙我请真武》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        女子冷清训斥道<br>
+	        “说这些花言巧语有何意义？<br>
+	        你明知陆先生岂会在意那些虚名虚利？<br>
+	        你的性子，太浮了！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你请神仙我请真武》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        赵珣哈哈大笑道：“也对。是该静下心来。”<br>
+	        一阵沉默
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你请神仙我请真武》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        赵珣望向八百里春神湖，低声道<br>
+	        “总有一日，我要将春神湖送你，赵珣立誓，此言非虚！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你请神仙我请真武》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        女子嘴角一翘<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 你请神仙我请真武》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        不同于这位靖安王的大快人心，赵珣身边的她眼神黯然<br>
+	        同样是女子，自然有些心有戚戚然
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        乱世之中，女子，尤其是有姿色的美人，有几人能够幸免于难？
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        赵珣善解人意地身体前倾，拍了拍她的手背，眼神温柔道<br>
+	        “放心，我赵珣此生必不辜负你。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她正要说话，猛然起身<br>
+	        一把近乎蛮横地将赵珣从椅子上拖拽而起<br>
+	        然后将他护在自己身后
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        当她看到那个并不陌生又很陌生的背影后<br>
+	        如遭雷击，脸色惨白，身躯开始不由自主地剧烈颤抖<br>
+	        以至于攥紧年轻藩王的五指力道极重
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        赵珣因为疼痛而满脸痛苦，但是跟她如出一辙<br>
+	        当他看到那个背影后，刹那间忘却了刺痛，只有胆寒<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        她死死咬住嘴唇，渗出血丝而不自知<br>
+	        靖安王赵珣瞬间就是冷汗浸透后背<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        这已经是赵珣第二次沦为落汤鸡了<br>
+	        上一次是靖安王世子殿下的时候，在春神湖<br>
+	        这一次已经是贵为藩王，换成了在广陵江
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        真名本该是舒羞的女子<br>
+	        戴着那张自己精心打造的生根面皮<br>
+	        她站在不远处，嘴角鲜血流溢，不敢正视徐凤年<br>
+	        颤声道：“世子殿下……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        突然意识到这个年轻人已经不再是那个世子殿下<br>
+	        舒羞匆忙轻声道：“王爷，舒羞这些年没有对不起北凉<br>
+	        陆诩离开青州的消息也是奴婢传递给拂水房的<br>
+	        奴婢只是……只是没有……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        说到这里，她已经说不出一个字
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        当她等了片刻，并没有等到那位北凉王痛下杀手<br>
+	        然后她抬起头，只看到他举目远眺<br>
+	        视线投注在了一艘尤为巍峨的黄龙楼船之上
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她一咬牙，跃身跳入江中<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 南渡北归时》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        广陵江上，一艘灯火通明的黄龙楼船之上<br>
+	        一对男女并肩站在船头赏景
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        身穿离阳藩王蟒袍的年轻男子轻声道：“让你受委屈了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        绝美女子轻轻握住他的手，摇了摇头<br>
+	        她笑脸温柔<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        赵珣愁眉不展，眺望江面那些水师楼船星星点点的灯火<br>
+	        她伸手帮他抚平额头<br>
+	        他笑了笑，“走，回船舱！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        两人回到形同牢笼的豪奢住处<br>
+	        船舱内有一架造工精美的雕花衣架<br>
+	        衣架上，竟是一件富丽堂皇的正黄龙袍！
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        纳兰右慈当时登门做客之时<br>
+	        这位硕果仅存的春秋谋士身边，便跟着一位手捧龙袍的婢女
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这段时日以来，离阳藩王赵珣一次次抚摸龙袍<br>
+	        一次次眼神痴迷，默默数着那一条条金龙
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        今夜，他再次来到衣架前<br>
+	        伸手摸着龙袍上的金龙<br>
+	        最后甚至蹲下身，摸着底部那些“海水江涯”。
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这个年轻男人突然抬起头望向她，笑问道<br>
+	        “你可知道，这件龙袍四正龙四行龙，分明只看得见八条金龙<br>
+	        数目为何不是九五之尊里的那个九？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她想了想，“皇帝本就是真龙天子，穿上龙袍便是九了？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        他起身哈哈大笑，伸手捏了捏她的脸颊，摇头道<br>
+	        “你错喽，最后一条金龙绣在内襟之上，你不信去掀开衣襟看看。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她犹豫了一下<br>
+	        始终不去触碰那件世间所有男子都梦寐以求的衣服
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        赵珣突然取下那件龙袍，让女子站好<br>
+	        然后竟是帮她穿上了那件龙袍！
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她从头到尾都呆滞当场，不知所措
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        赵珣一丝不苟地帮女子正了正龙袍衣襟之后<br>
+	        后退几步，眼眶泛红，柔声笑道<br>
+	        “我知道，在靖安道就有很多人骂你是什么女藩王，说你是红颜祸水<br>
+	        可我不在乎。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她欲言又止
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        赵珣任由泪水流淌<br>
+	        “我知道你不是她，不是她……<br>
+	        我也不在乎你是谁安插在我身边的谍子死士。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “一开始很在乎，如今根本不在乎……<br>
+	        为什么？我喜欢你啊，我只是喜欢你啊<br>
+	        哪怕你现在换了一张容颜，我还是喜欢你……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        舒羞咬着嘴唇，渗出丝丝缕缕的鲜血
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        赵珣突然露出笑脸，弯腰作揖，柔声道：“夫君见过娘子。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        屋内烛火明亮<br>
+	        她身穿龙袍，如女子穿嫁衣
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她缓缓施了一个万福，嗓音婉约道：“陛下。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 16px">
+	        —— 《雪中悍刀行 · 章节名 · 雪中的江湖，有人有始有终》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        杏花是靖安王府上的精锐死士，从赵衡传到了赵珣手上<br>
 	        她琴棋书画样样精通，护人和杀人也肯定更精通
 	        	</p>

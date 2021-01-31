@@ -168,6 +168,19 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        现在的世道，纯粹，这种美好的事物，越来越少
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 二零二一年一月三十一日
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        生命可以归结为一种简单的选择：要么忙于生存，要么赶着去死
 	        	</p>
 	    	</div>

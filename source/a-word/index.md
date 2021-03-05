@@ -181,6 +181,1006 @@ layout: false
 		<div class="slide">
 			<div class="aword" style="font-size: 35px">
 				<p class="text">
+	        徐凤年一手画圆，不见拍在种桂头顶<br>
+	        种桂整个人就陷入地面，头颅和四肢一同炸裂<br>
+	        好似给人用大锤砸成了一块肉饼，比起五马分尸还要凄惨
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        仙人抚顶<br>
+            可不止是结发受长生一个用处
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        鲜血溅了陆沉一身，可她只是痴然发呆，无动于衷
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她单纯，却不是蠢货<br>
+            见微知著，几乎是大族子女的天赋
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年才要再画一圆，让陆沉和种桂做一对亡命鸳鸯共赴黄泉<br>她突然抬头问道：“我想知道你到底跟马贼是不是一伙的，求求你，别骗我。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年摇了摇头<br>
+	        她终于心死如灰烬，平静等待
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年也不怜香惜玉，依旧是仙人抚顶的起手式，不过又一次被打搅<br>
+	        她冷不丁撕心裂肺哭出声，“我不想死！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年走过去，走了几步距离，她便坐在地上滑退了几步距离<br>
+	        徐凤年不再前行，蹲下身，伸出手，“瓷瓶还我。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        还握有小瓶的她烫手般丢出，她情急之下，丢掷得没有准头<br>
+	        徐凤年探手一抓，就驭物在手，放回书箱
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆沉好像积攒了二十年的心机城府都在一瞬间爆发出来，声音打颤道<br>
+	        “徐公子你要如何才能不杀我？我是南朝甲字陆家的嫡孙女<br>
+	        我和种桂不同，没有任何抱负可言，只想好好活着，出嫁以后相夫教子”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “只要公子不杀我，只要不玷污我的身子<br>
+	        我便是给你做牛做马半年时间，也心甘情愿<br>
+	        而且我许诺，回到陆家，绝不提今日事情半句，只说种桂是死于百人马贼。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        瞧见那名书生模样的男子嘴角勾起，隐约有讥讽意思<br>
+	        醒悟有了纰漏的陆沉马上改口说道<br>
+	        “只说是种桂某日死在前往西河州持节令府邸的旅程中，我半点不知情！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        说到这里，她秋波起涟漪，熠熠生辉，泛起一股果决<br>
+	        咬着嘴唇，缓缓说道：“公子不杀我，我便说是与种桂有过鱼水之欢<br>
+	        到时候种家假若不信，让嬷嬷验身，也寻不到破绽。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她言下之意，只要是个男人就明白<br>
+	        她是愿意以清白之身做代价，换取活命了
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年发出啧啧声，感慨真是天高高不过人心
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆沉见他没有暴起杀人的意思，伸手捋起鬓角一缕散乱青丝，继续说道<br>
+	        “小女子也不敢奢望公子一同回到陆家，但既然公子手握把柄<br>
+	        我陆家清誉南朝，当然不允许这般天大丑闻流出，跟不愿因此惹上种家”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        “也就不用担心我不对公子百依百顺，只需远远牵扯<br>
+	        陆沉愿意做公子的牵线木偶，相信以公子出类拔萃的身手和心智<br>
+	        一定可以找到既能控制陆沉又能不入险地的两全法子。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年要去掏枣子，发现囊中空无一物，缩回手后笑道<br>
+	        “你很聪明啊，怎么会被种桂这个纨绔子弟当傻子逗弄？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆沉竟然有胆量笑了笑，自嘲道<br>
+	        “不是种桂如何，而是种家底蕴胜过陆家<br>
+	        否则一个偏房子弟，如何能与一个甲字嫡孙女称得上门当户对。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年点了点头，深以为然，果然是个有慧根的豪阀女子<br>
+	        陆沉刹那间眼神冰冷，咬牙道：“你还是想杀我！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        才起杀意的徐凤年好奇问道：“女子的直觉？”<br>
+            她反问道：“难道不是？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        没等徐凤年有所动作，陆沉站起身，疯了一般冲向他，自寻死路<br>
+	        一阵毫无章法的拳打脚踢，哭腔可怜<br>
+	        “你这个王八蛋，大魔头，我跟你拼了！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她唠唠叨叨，骂人跟打人一个德行<br>
+	        翻来覆去就那么几个古板路数，都是不痛不痒
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年一巴掌把她凶狠拍飞出去，直接将其打懵了<br>
+	        看着捂着脸的疯女人，说道：“杀不杀你，看你接下来的表现<br>
+	        你先埋了种桂，然后跟我一起去西河州腹地，用得着你。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆沉如获大赦，眼神焕发光彩，瞥了一眼种桂的模糊尸体<br>
+	        冷笑道：“不收尸才好。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她脸上顿时又挨了一巴掌，整个人都翻了个身<br>
+	        重重摔在黄沙地面上，像一只土灰麻雀
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年讥讽道：“男人冷血，指不定走狗屎还能当个枭雄<br>
+	        你一个娘们，这么没心没肺的，很讨喜吗？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆沉低下头，两颊各自挨了一耳光的她惊怯温顺道：“我知错了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年以一记仙人抚顶砸出一个大坑，权且当成种桂的坟茔<br>
+	        看着她一点一点一块一块将那滩血肉搬入坑内<br>
+	        问了一些种家和陆家的事情，她一一作答，并无丝毫掺假
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        间隙时她小心翼翼问道：“是公子杀退了那些马贼？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年没有作声，只是耐心看着她捡回泥土覆盖<br>
+	        勉强填平以后，还不忘跳着踩踏，让填埋痕迹不那么明显<br>
+	        她安静下来后，歪着脑袋问道<br>
+	        “种桂种桂。公子你说，以后这儿会不会长出一棵桂树？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年骂道：“你脑子有病。”<br>
+            满身血污的女子竟是敛衽施了一个万福，妩媚横生，笑容说道：“求公子救我。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年扯了扯嘴角，“你真是病入膏肓，失心疯，没救了。”<br>
+	        女子孤零零站在坟茔上，只是笑脸凄美<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 女子种桂》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        见这名负笈挂剑的年轻男人仍是练习闭口禅<br>
+	        陆沉也不气馁，刨根问底<br>
+	        “骑马出行，三十里一停，你难道是北凉人？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年正在给她的马匹刷洗，也不抬头<br>
+	        离去放好水囊，翻身上马，继续前行
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        性子执拗起来的陆沉艰辛跟上，并驾齐驱<br>
+	        侧头凝视这个满身云遮雾绕的年轻人，痴情女看情郎一般<br>
+	        徐凤年终于开口，“改了主意，将你送到安全地方，我就离开。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆沉眼神迷离
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年讥讽道：“前一刻还要死要活，恨不得跟种桂同葬一穴<br>
+	        怎么转眼间就连收尸都不乐意了，是你如此，还是你们大姓女子都如此？<br>
+	        你这样的，就算收了做通房丫鬟，说不定哪天晚上就给你勒死，睡不安稳。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆沉认真思索片刻，似乎在自省，缓缓回答道<br>
+	        “我这辈子最恨别人骗我，我曾经对自己说过<br>
+	        以后嫁了谁，这个男人花心也无妨<br>
+	        睡了别家女子，但一定要跟我招呼一声，而且不领进家门恶心我”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        <br>
+	        “我都会不介意，我会继续持家有道<br>
+	        但我若是最后一个知晓他和女子苟合，成了笑话<br>
+	        肯定恨不得拿剪刀剪了他子孙根<br>
+	        再去画烂那婆娘的整张脸，让她一辈子勾引不了男人！”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年笑道：“你长得不像这种女人<br>
+	        在吴家遗址初次见你，误以为你挺好相处的<br>
+	        是那种受了委屈也不敢回娘家诉苦的小女子。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆沉咬着嘴唇说道：“可我就是这种女人。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年似笑非笑，“我是不是应该直接一巴掌拍烂你的头颅？”<br>
+    		她媚眼如丝，“公子可不许如此绝情。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年一笑置之，跟她说话，见她做事，很有意思<br>
+	        跟文章喜不平一个道理，总是让人出乎意料
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她察觉到这位徐公子谈兴不错，就顺杆子往上爬，柔声道<br>
+	        “我猜公子一定出自武林世家，而不是种桂这类将门子孙<br>
+	        因为公子杀人，会愧疚。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年捧腹大笑，“你知道个卵！”<br>
+    		她歪着脑袋，一脸天真无邪，问道：“难道我猜错了？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年笑骂道：“少跟我装模作样<br>
+	        我见过的漂亮娘子，多到数不过来<br>
+	        你的姿色不到七十文，不值一提。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆沉也不计较这份贬低，自言自语道：“我本来就不是好看的女子。”<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        ...<br>
+	        陆沉看到这个动作，笑着从袖中抽出一柄匕首，直白道<br>
+	        “本想着找机会一下刺死你的。现在匕首是交给你，还是丢掉？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年头也不转，说道<br>
+	        “留着吧，你要是下一个三十里路前还不掏出来<br>
+	        你也会跟种桂一样死得不明不白。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        陆沉开心笑道：“我赌对了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年莫名其妙感慨道：“这个江湖，高手常有，高人不常在。”<br>
+    		陆沉问道：“那公子你是高手还是高人？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年摇头道：“做不来高人。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        两人夜宿荒漠，在一处背风山坡坡底歇脚，昼夜温差极大<br>
+	        徐凤年拾了许多枯枝丢入火堆，除了悄悄养剑和维持篝火，一夜都在假眠<br>
+	        破晓时分，见她还在打瞌睡，就独自走到坡顶，仰望着天色
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        突然间，徐凤年掠回坡脚，眼神复杂盯着那个颤颤巍巍手提匕首的女子<br>
+	        她竟是心狠到拿匕首在自己脸上划出了四道血槽，皮开肉绽<br>
+	        这得是如何坚韧心性的女子，才做得出这种行径？
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        其实以两人心智，心知肚明，每走一步，临近西河州城<br>
+	        她极有可能是离黄泉路近了一步，种陆两家不乏城府修炼成精的枭雄角色<br>
+	        身负绝学的种桂身死人亡，而她一个弱女子却反常活下<br>
+	        想要蒙混过关，继续有一份富贵生活，几乎是不可能的事情
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        连徐凤年都想不到她如何能够编出天衣无缝的理由<br>
+	        他嘴上说是要把她送至安全地点，事实上<br>
+	        昔日可以为她遮天蔽日的树荫下<br>
+	        对姓陆的女子来说，那将会是世间最不安全的险境
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这一对命运无缘无故交织在一起的男女，似乎谁都不是好东西
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        破相以后，说是仇家杀死种桂，再放她生还<br>
+	        当成对种陆两家的羞辱<br>
+	        她才硬生生从一局死局棋盘上做眼，生出了一气
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        只是这样的手法，对女人而言，是不是代价太大了？<br>
+	        是不是太过决绝了？<br>
+	        男女皆惜命。男子惜命，女子惜容，更是常理
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        徐凤年当下涌起戾气，几乎有一举杀死她的冲动<br>
+	        只是随后缓缓吐出一口浊气，压抑下杀机
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        女子望向眼前那个只知姓不知名的年轻男人，眼神痴呆<br>
+	        不是泪流两颊，而是血流满面
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        这个曾经自己说自己不好看的女子，视线终于不再涣散，泛起一些泪水
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+	        她噙着泪水，笑着说：“疼。”<br>
+	        ...
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 疼》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			...<br>
+	        没有敲门，一个客栈伙计就大大咧咧推门而入<br>
+	        陆沉连忙抓起头巾，转过头去慌乱裹缠<br>
+	        伙计一手端着大木盘，盛放有几样马虎粗糙的伙食
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			他无意间瞅见陆沉的脸庞，吓了一跳，差点被砸翻盘子<br>
+			火急火燎放下食物，跑出去才跨过门槛，就大声嚷嚷<br>
+			“快来看快来看，屋里有个丑八怪，老子白天见鬼了。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			陆沉扯住徐凤年袖口，但徐凤年轻轻一抖<br>
+			大步出门，把那个口无遮拦的倒霉虫一脚踢得陷入院墙，生死不知<br>
+			回屋后，陆沉黯然道：“我本来就很丑。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年平静道<br>
+			“对，是不好看。脸上画花了，好看才怪<br>
+			但谁敢说出口，入了我耳朵，我就让他……”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她接口道：“去死？”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年一本正经道<br>
+			“哪能呢，我又不是魔头，向来喜欢以貌服人，实在不行才会以德服人。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			陆沉盯着这个说不清是好人还是坏人的书生<br>
+			抿紧嘴唇，似笑非笑，摇头道：“一点都不好笑。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年一笑置之，分发了碗碟餐食，然后埋头狼吞虎咽<br>
+			陆沉一手掩面，细嚼慢咽，一幅食不言的淑媛风范<br>
+			跟徐凤年同时放下筷子，她犹豫了一下，说道<br>
+			“刚才以为你会说些漂亮的言辞来安慰我。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年见她还有剩余饭菜，也不客气，一并搬到眼前，边吃边说道<br>
+			“你不是说过最恨别人骗你吗，不管你信不信<br>
+			在我眼中，你还是那个秀秀气气的女子<br>
+			不好看，但也难看不到哪里去。”
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			陆沉问道：“当真？”<br>
+			徐凤年低头吃饭，点了点头
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			风暴弥漫了小半个下午，逐渐趋于平静，徐凤年推开窗户望去<br>
+			天色已经不至于耽误行程，和陆沉走出院子<br>
+			触了霉头的客栈伙计已经被抬走，也不见客栈方面有任何寻衅报复
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			徐凤年在街上帮她购置了一顶帷帽，策马缓行<br>
+			兴许是明知终点将至，陆沉言语活泼了几分<br>
+			也开始乐意主动询问徐凤年一些江湖轶事
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			从吴家九剑破万骑铺散开了说去，也不存在试探的企图<br>
+			一对男女都有意无意淡了心机城府<br>
+			陆沉本身也是内里性子跳脱的女子，否则也不至于会单独跟种桂出行游览
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			有聚就有散<br>
+			临近州城，驿道宽度已经不输北凉几条主道
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			陆沉望向那座庞然大物一般趴在黄沙上的雄伟城池<br>
+			心有惊悸，咬着嘴唇，痴呆出神<br>
+			许久，往后望去，想要看一眼那个男子，道别一声也好<br>
+			只是却已经不见他踪影
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    	<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
+			她笑了笑，看不见人，仍是调转马头，挥了挥手<br>
+			远处，看到这一幕的徐凤年慢慢后仰，躺在马背上，叼了一根野草茎
+	        	</p>
+	    	</div>
+	      	<br>
+	      	<div class="aword-by" style="font-size: 18px">
+	        —— 《雪中悍刀行 · 章节名 · 挥手》
+	    	</div>
+    	</div>
+    </div>
+    <div class="section">
+		<div class="slide">
+			<div class="aword" style="font-size: 35px">
+				<p class="text">
 	        生命可以归结为一种简单的选择：要么忙于生存，要么赶着去死
 	        	</p>
 	    	</div>

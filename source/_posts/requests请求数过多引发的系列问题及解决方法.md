@@ -11,7 +11,7 @@ permalink:
 image:
 ---
 
-<img class="joel-img" src="http://image.joelyings.com/20211003-6.png">
+<img class="joel-img" src="http://image.joelyings.com/20211003-7.png">
 
 <!-- more -->
 
@@ -30,7 +30,7 @@ image:
 4、获取每一个回帖的二级回帖内容（如果存在的话），并且回帖内容因为数量过多也有分页，这也需要一个新的requests
 ```
 
-所以综上，需要4个requests，那么实际在操作的过程中，发现会发生爬取到一定程度后，程序会被卡住，不在继续爬取到数据
+所以综上，需要4个requests，那么实际在操作的过程中，发现会发生爬取到一定程度后，程序会被卡住，不再继续爬取到数据
 
 ## 一
 

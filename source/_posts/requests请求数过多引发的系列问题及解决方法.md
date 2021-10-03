@@ -1,7 +1,7 @@
 ---
 title: requests请求数过多引发的系列问题及解决方法
 tags:
-  - Python，爬虫
+  - 爬虫
 comments: true
 categories: 爬虫
 description: 顺其自然，为所当为

@@ -1,5 +1,5 @@
 ---
-title: requests请求数过多引发的系列问题及解决方法
+title: requests请求数过多引发的系列问题及解决方法与GitHub_token提交
 tags:
   - 爬虫
 comments: true
@@ -77,6 +77,40 @@ r_3 = self.s.get(link.format(page), headers=self.headers, allow_redirects=False,
 ![4](http://image.joelyings.com/2021-10-03_4.png)
 
 ![5](http://image.joelyings.com/2021-10-03_5.png)
+
+## 四
+
+```
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Username for 'https://github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/...'
+
+```
+
+解决办法：[密码替换成token](https://blog.csdn.net/weixin_41010198/article/details/119698015)
+
+<p id="div-border-left-red">如何生成自己的token：
+1、在个人设置页面，找到Setting
+
+2、选择开发者设置Developer setting
+
+3、选择个人访问令牌Personal access tokens，然后选中生成令牌Generate new token
+
+4、设置token的有效期，访问权限等
+
+选择要授予此令牌token的范围或权限
+
+要使用token从命令行访问仓库，请选择repo。
+要使用token从命令行删除仓库，请选择delete_repo
+其他根据需要进行勾选
+
+5、生成令牌Generate token
+
+记得把你的token保存下来，因为你再次刷新网页的时候，你已经没有办法看到它了
+
+6、之后用自己生成的token登录，在push的时候把上面生成的token粘贴到输入密码的位置，然后成功push代码！</p>
 
 
 

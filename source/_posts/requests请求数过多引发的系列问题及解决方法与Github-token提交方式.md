@@ -91,26 +91,27 @@ fatal: Authentication failed for 'https://github.com/...'
 
 解决办法：[密码替换成token](https://blog.csdn.net/weixin_41010198/article/details/119698015)
 
-<p id="div-border-left-red">如何生成自己的token：
-1、在个人设置页面，找到Setting
+如何生成自己的`token`：
 
-2、选择开发者设置Developer setting
+1、在个人设置页面，找到`Setting`
 
-3、选择个人访问令牌Personal access tokens，然后选中生成令牌Generate new token
+2、选择开发者设置`Developer setting`
 
-4、设置token的有效期，访问权限等
+3、选择个人访问令牌`Personal access tokens`，然后选中生成令牌`Generate new token`
+
+4、设置`token`的有效期，访问权限等
 
 选择要授予此令牌token的范围或权限
 
-要使用token从命令行访问仓库，请选择repo。
-要使用token从命令行删除仓库，请选择delete_repo
+要使用`token`从命令行访问仓库，请选择`repo`
+要使用`token`从命令行删除仓库，请选择`delete_repo`
 其他根据需要进行勾选
 
-5、生成令牌Generate token
+5、生成令牌`Generate token`
 
-记得把你的token保存下来，因为你再次刷新网页的时候，你已经没有办法看到它了
+记得把你的`token`保存下来，因为你再次刷新网页的时候，你已经没有办法看到它了
 
-6、之后用自己生成的token登录，在push的时候把上面生成的token粘贴到输入密码的位置，然后成功push代码！</p>
+6、之后用自己生成的`token`登录，在`push`的时候把上面生成的`token`粘贴到输入密码的位置，然后成功`push`代码！
 
 
 
